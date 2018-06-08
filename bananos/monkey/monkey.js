@@ -1,4 +1,5 @@
-const clientVersion = '1.0.7';
+const clientVersion = '1.0.8';
+const bananoWinScale = 0.1;
 const expectedValueImageSize = 600;
 const choiceValueImageSize = 150;
 
@@ -221,7 +222,7 @@ function newGame(token) {
           }
         }
         
-        updateScore(gameJson.wins,gameJson.losses);
+        updateScore(gameJson.wins*bananoWinScale,gameJson.losses*bananoWinScale);
         d3.select('#winnerStats')
           .html('number of winners over ' + gameJson.winnerThreshold + ' is ' + gameJson.totalWinners + ' of ' + gameJson.maxWinners);
 
