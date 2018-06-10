@@ -192,6 +192,11 @@
 					"en": "First photo the owner of the pet must have a paper with his ID and user name in discord.",
 					"es": "Primera foto El dueño de la mascota debe tener un papel con su ID y nombre de user en discord",
 					"pt": "primeira foto o dono do animal de estimação deve ter um papel com seu ID e nome de usuário em discórd."
+				},
+				{
+					"en": "Limit Three ID photos per contestant.",
+					"es": "",
+					"pt": ""
 				}
 			],
 			"bananos": [
@@ -206,6 +211,11 @@
 					"en": "Second picture this is the photograph of distinction since in this expose the potential of your pet or the tenderness and beauty that identifies it (Banana funds will be taken into account) there must be a sign in the photo that says #Bananocoin and #TeamJunglo",
 					"es": "Segunda foto esta es la fotografia de distincion ya que en esta exponer el potencial de tu mascota o la ternura y belleza que lo identifica (Fondos de banano seran tomados en cuenta) debe haber un cartel en la foto que diga #Bananocoin y #TeamJunglo.",
 					"pt": "Segundo quadro esta é a fotografia de distinção já que neste expõe o potencial do seu animal de estimação ou a ternura e beleza que o identifica (os fundos de banana serão levados em conta) deve haver um sinal na foto que diz #Bananocoin e #TeamJunglo."
+				},
+				{
+					"en": "Limit Three photos per contestant.",
+					"es": "",
+					"pt": ""
 				}
 			],
 			"strength": [
@@ -220,6 +230,11 @@
 					"en": "The video consists of demonstrating what makes your pet unique and special, whatever it may be that it does.",
 					"es": "El video consiste en demostrar lo que hace unica y especial a tu mascota puede ser lo que sea que haga.",
 					"pt": "O vídeo consiste em demonstrar o que torna o seu animal de estimação único e especial, seja ele o que for."
+				},
+				{
+					"en": "Limit Three videos per contestant.",
+					"es": "",
+					"pt": ""
 				}
 			]
 		}
