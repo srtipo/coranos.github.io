@@ -35,15 +35,15 @@
 			}
 		},
 		{
-			"en": "Neither a pet or it's owner needs to be a citizen to participate as a contestant.",
-			"es": "",
-			"pt": "",
+			"en": "It is not necessary that neither the pet nor the owner are citizens of the banana republic.",
+			"es": "No es necesario que ni la mascota ni el dueño sean ciudadanos de la republica banano",
+			"pt": "Não é necessário que nem o animal nem o dono sejam cidadãos da república das bananas.",
 			"img": ""
 		},
 		{
 			"en": "All judges must be citizens to participate as a judge.",
-			"es": "",
-			"pt": "",
+			"es": "Todos los jueces deben ser ciudadanos para participar como jueces",
+			"pt": "Todos os juízes devem ser cidadãos para participar como juízes",
 			"img": ""
 		},
 		{
@@ -195,8 +195,8 @@
 				},
 				{
 					"en": "Limit Three ID photos per contestant.",
-					"es": "",
-					"pt": ""
+					"es": "Limite tres fotos de identificación por concursante",
+					"pt": "Limite de três fotos de identificação por participante"
 				}
 			],
 			"bananos": [
@@ -214,8 +214,8 @@
 				},
 				{
 					"en": "Limit Three photos per contestant.",
-					"es": "",
-					"pt": ""
+					"es": "Limite tres fotos de identificación por concursante",
+					"pt": "Limite de três fotos de identificação por participante"
 				}
 			],
 			"strength": [
@@ -233,8 +233,8 @@
 				},
 				{
 					"en": "Limit Three videos per contestant.",
-					"es": "",
-					"pt": ""
+					"es": "Limite tres videos por concursante",
+					"pt": "Limite de três vídeos por participante"
 				}
 			]
 		}
