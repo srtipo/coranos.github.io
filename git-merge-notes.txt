@@ -1,6 +1,9 @@
 #reset after bad merge
 git reset --merge;git fetch;git merge --strategy-option ours --allow-unrelated-histories
 
+#save credentials
+git config --global credential.helper cache
+
 #compare two tags
 https://github.com/coranos/blue-app-neo/compare/RC1...RC2
 
@@ -30,7 +33,7 @@ git commit -m "Ledger Nano S methods"
 git push origin +master
 
 #reverting a single file
-git checkout 9e904051b17c130f85e539b40712788bf9e08f5d -- neo/neo.csproj 
+git checkout 9e904051b17c130f85e539b40712788bf9e08f5d -- neo/neo.csproj
 
 
 #to untrack a file
