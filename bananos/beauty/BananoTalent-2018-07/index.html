@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8" />
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body onLoad="onLoad();">
+  <div id="targetDiv"></div>
+  <script src='../../../js-lib/jquery-3.2.1.js'></script>
+  <script src='../../../js-lib/load-json.js'></script>
+  <script src='../../../js-lib/showdown-1.8.6.min.js'></script>
+  <script>
+      function onLoad () {
+        $.ajaxSetup({
+          beforeSend : function (xhr) {
+            if (xhr.overrideMimeType) {
+              xhr.overrideMimeType('text/markdown');
+            }
+          }
+        });
+        
+        $.ajax({
+          url : 'index.md',
+          type : 'get',
+          dataType : 'text',
+          async : true,
+          success : function (text) {
+            var target = document.getElementById('targetDiv');
+            var converter = new showdown.Converter();
+            var html = converter.makeHtml(text);
+            target.innerHTML = html;
+          }
+        });
+      }
+    </script>
+</body>
+</html>
