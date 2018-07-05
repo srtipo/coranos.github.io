@@ -2,7 +2,7 @@
 function loadChart() {
   var chartWidth, chartHeight;
   var margin;
-  const count = d3.select('#count');
+  const count = d3.select('#progress').append('div');
   const svg = d3.select('#progress').append('svg');
   const chartLayer = svg.append('g').classed('chartLayer', true);
 
