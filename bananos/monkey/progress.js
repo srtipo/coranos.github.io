@@ -12,6 +12,7 @@ function loadChart() {
     const progressEntries = Object.entries(progress);
     
     var totalScore = 0;
+    var topScore = 0;
     
     const data = {};
     for (const [name, values] of progressEntries) {
@@ -48,10 +49,14 @@ function loadChart() {
       
       totalScore += lastScore;
       
+      if(lastScore > topScore) {
+        topScore = lastScore;
+      }
+      
       // console.log(name,'end',JSON.stringify(endDataElt));
     }
     
-    count.html('Number of entries : ' + progressEntries.length + ' Total Score : ' + totalScore);
+    count.html('Number of entries : ' + progressEntries.length + ' Total Score : ' + totalScore + ' Top Score : ' + topScore);
     
     return data;
   }
@@ -183,13 +188,9 @@ function loadChart() {
               })
 
               /*
-          newBlock.append('text')
-            .attr('transform', function(d) { return 'translate(' + labelArc.centroid(d) + ')'; })
-            .attr('dy', '.35em')
-            .attr('stroke', 'rgba(0, 0, 0, 0.15)')
-            .style('font-size', '9px')
-            .text(function(d) { return d.data.name; });
-          */
+               * newBlock.append('text') .attr('transform', function(d) { return 'translate(' + labelArc.centroid(d) + ')'; }) .attr('dy', '.35em')
+               * .attr('stroke', 'rgba(0, 0, 0, 0.15)') .style('font-size', '9px') .text(function(d) { return d.data.name; });
+               */
           laneNbr++;
       });
   }
