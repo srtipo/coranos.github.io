@@ -16,36 +16,37 @@ function loadChart() {
     
     const data = {};
     for (const [name, values] of progressEntries) {
-      data[name] = [];
+      data[name] = {};
+      data[name].values = [];
       
 
       // first add an arc from 0 to the start time.
       const startDataElt = {};
       startDataElt.name = name;
       startDataElt.value = values[0].endTs;
-      data[name].push(startDataElt);
+      data[name].start = startDataElt;
       
       // console.log(name,'start',JSON.stringify(startDataElt));
       
-      var lastTs = 0;
-      var lastScore = 0;
-      values.forEach(function (value) {
-        const dataElt = {};
-        dataElt.name = value.score;
-        dataElt.score = value.score;
-        dataElt.value = value.endTs - lastTs;
-        data[name].push(dataElt);
-        // console.log(name,'mid',JSON.stringify(dataElt));
-        
-        lastTs = value.endTs - lastTs;
-        lastScore = value.score;
-      });
+      const lastTs = values[values.length-1].endTs;
+      const lastScore = values[values.length-1].score;
+      const dataElt = {};
+      dataElt.name = lastScore;
+      dataElt.score = lastScore;
+      dataElt.value = lastTs;
+
+      data[name].length = values.length;
+      data[name].mid = dataElt;
       
       // finally add an arc from the end time to 1.
       const endDataElt = {};
       endDataElt.name = '';
       endDataElt.value = 1.0 - lastTs;
-      data[name].push(endDataElt);
+      data[name].end = endDataElt;
+
+      data[name].values.push(data[name].start);
+      data[name].values.push(data[name].mid);
+      data[name].values.push(data[name].end);
       
       totalScore += lastScore;
       
@@ -129,32 +130,27 @@ function loadChart() {
       const pie = d3.pie().sort(null).value(function(d) {return d.value;});
 
       const dataKeys = [];
+      for (const [name, values] of dataEntries) {
+          dataKeys.push(name);
+      }
       
       var maxScore = 0;
-      const maxScoreByName = {};
       for (const [name, values] of dataEntries) {
-        values.forEach(function (value) {
+        values.values.forEach(function (value) {
           if(value.score > maxScore)  {
             maxScore = value.score;
           }
-          if((maxScoreByName[name] == undefined) || (value.score > maxScoreByName[name])) {
-            maxScoreByName[name] = value.score;
-          }
         });
-      }
-      
-      for (const [name, values] of dataEntries) {
-          dataKeys.push(name);
       }
       
       const laneWidth = (chartHeight / (dataKeys.length + 1)) / 2;
 
       dataKeys.sort(function(a, b){
-          return dataList[a].length - dataList[b].length
+          return dataList[b].end.value - dataList[a].end.value;
         });
       
       dataKeys.forEach(function(name) {
-        const values = dataList[name];
+          const values = dataList[name].values;
           const innerRadius = laneWidth * laneNbr;
           const outerRadius = laneWidth * (laneNbr + 1);
 
