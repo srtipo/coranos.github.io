@@ -11,7 +11,7 @@ function loadChart() {
   function createData(progress) {
     const progressEntries = Object.entries(progress);
     
-    count.html('Number of entries : ' + progressEntries.length);
+    var totalScore = 0;
     
     const data = {};
     for (const [name, values] of progressEntries) {
@@ -46,8 +46,13 @@ function loadChart() {
       endDataElt.value = 1.0 - lastTs;
       data[name].push(endDataElt);
       
+      totalScore += lastScore;
+      
       // console.log(name,'end',JSON.stringify(endDataElt));
     }
+    
+    count.html('Number of entries : ' + progressEntries.length + ' Total Score : ' + totalScore);
+    
     return data;
   }
   
