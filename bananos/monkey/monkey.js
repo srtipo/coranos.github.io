@@ -414,7 +414,7 @@ function setupHtml () {
   tr3.append('th').attr('class','solid_border centered_text').text('Bananos Found');
   tr3.append('th').attr('class','solid_border centered_text').text('Bananos Lost');
   tr3.append('th').attr('class','solid_border centered_text').text('Bananos Won');
-  tr3.append('th').attr('class','solid_border centered_text').text('Tutorial Video')
+  tr3.append('th').attr('class','solid_border centered_text').text('Tutorial')
   
   const tr4 = table.append('tr');
   tr4.append('td').attr('class','solid_border centered_text').attr('id','goodScore').text('0');
@@ -422,10 +422,15 @@ function setupHtml () {
   tr4.append('td').attr('class','solid_border centered_text').style('background','lightgreen').attr('id','totalScore').text('0');
 
   tr4.append('td').attr('class','solid_border centered_text')
+    .append('a').attr('target','_blank').attr('href','https://coranos.github.io/bananos/monkey/tutorial.html').text('Tutorial')
+
+  /*
+  tr4.append('td').attr('class','solid_border centered_text')
     .append('a').attr('target','_blank').attr('href','https://www.youtube.com/embed/E23TD-Zwaek')
     .append('img').attr('src','https://img.youtube.com/vi/E23TD-Zwaek/default.jpg')
     .style('height','25px')
     .style('max-width','100%')
+    */
 
   const tr5 = table.append('tr');
   tr5.append('td').attr('colspan','8').attr('class','solid_border centered_text').attr('id','winnerStats').text('??');
