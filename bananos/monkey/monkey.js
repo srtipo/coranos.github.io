@@ -437,7 +437,7 @@ function setupHtml () {
 
   statsBlock.append('p').append('b').style('background','lightgreen').html('Game is live. Bananos will be distributed to all verified accounts<br>'
     + 'after a verification period has passed.<br>'
-    + '(This message will disappear at 5AM Chicago Time on Saturday July 6th).');
+    + '(This message will disappear at 5AM Chicago Time on Saturday July 7th).');
   
   statsBlock.append('p').append('b').style('background','lightblue').html('According to dolartoday.com, on July 4th 2018, 1 USD = 3,500,265.82 BsF<br>'
     + 'According to creeper.banano.cc, 1 BAN = 0.000892 USD (1 USD = 1121 BAN), 1 NANO = 3,034 BAN<br>'
