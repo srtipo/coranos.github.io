@@ -161,9 +161,6 @@ function loadChart() {
           const newBlock = chartLayer.selectAll('g').data(pie(values)).enter()
 
           // https://github.com/d3/d3-scale-chromatic
-          var sequentialScale = d3.scaleSequential()
-            .domain([0, maxScore])
-            .interpolator(d3.interpolateInferno).clamp(true);
           
           newBlock.append('path')
               .attr('d', arc)
@@ -173,13 +170,24 @@ function loadChart() {
               .attr('stroke', 'rgba(0, 0, 0, 0)')
               .attr('fill', function(d, i) {
                 if(d.data.score == undefined) {
-                  return 'lightgray';
+                  return 'white';
                 } else {
                   // console.log(i,d.data.score,colorLinearScale(d.data.score));
-                  const color = sequentialScale(d.data.score).substring(1);
-                  const mixedColor = mixColors(color, 'FFFFFF');
+                  const scoreScaled = (d.data.score / maxScore);
+                  var color;
+                  if(scoreScaled < 0.25) {
+                    color = 'lightgray';
+                  } else if(scoreScaled < 0.50) {
+                    color = '#FFA500';
+                  } else if(scoreScaled < 0.75) {
+                    color = 'green';
+                  } else {
+                    color = 'purple';
+                  }
+                  //const color = sequentialScale(d.data.score).substring(1);
+                  //const mixedColor = mixColors(color, 'FFFFFF');
                   // console.log('color',d.data.score,color,mixedColor);
-                  return mixedColor;
+                  return color;
                 }
               })
 
