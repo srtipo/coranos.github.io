@@ -21,21 +21,9 @@ function name(account) {
 }
 
 function getNodeList(response) {
-
-    response.results.forEach(function(d) {
-        for (const [key, value] of Object.entries(d.history)) {
-            const valueNbr = parseInt(value);
-            if (valueNbr < whaleLimit) {
-                delete d.history[key];
-            }
-        }
-    });
     var nodeList = [];
     response.results.forEach(function(d) {
-        const valueNbr = parseInt(d.balance);
-        if (valueNbr >= whaleLimit) {
-            nodeList.push(d);
-        }
+        nodeList.push(d);
     });
 
     nodeList.sort(function(a, b) {
@@ -59,17 +47,13 @@ function getNodeList(response) {
     nodeList.forEach(function(d) {
         for (const [key, value] of Object.entries(d.history)) {
             if (!(key in historyNodes)) {
-                if (parseInt(value) >= whaleLimit) {
-                    const elt = {};
-                    elt.balance = value;
-                    elt.account = key;
-                    elt.history = {};
-                    elt.history[d.account] = value;
-                    historyNodeList.push(elt);
-                    historyNodes[key] = value;
-                } else {
-                    delete d.history[key];
-                }
+                const elt = {};
+                elt.balance = value;
+                elt.account = key;
+                elt.history = {};
+                elt.history[d.account] = value;
+                historyNodeList.push(elt);
+                historyNodes[key] = value;
             }
         }
     });

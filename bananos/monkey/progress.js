@@ -2,6 +2,7 @@
 function loadChart() {
   var chartWidth, chartHeight;
   var margin;
+  const count = d3.select('#count');
   const svg = d3.select('#progress').append('svg');
   const chartLayer = svg.append('g').classed('chartLayer', true);
 
@@ -9,6 +10,9 @@ function loadChart() {
 
   function createData(progress) {
     const progressEntries = Object.entries(progress);
+    
+    count.html('Number of entries : ' + progressEntries.length);
+    
     const data = {};
     for (const [name, values] of progressEntries) {
       data[name] = [];
@@ -112,21 +116,29 @@ function loadChart() {
   function drawChart(dataList) {
       var laneNbr = 1;
       const dataEntries = Object.entries(dataList);
-      const laneWidth = (chartHeight / (dataEntries.length + 1)) / 2;
       const pie = d3.pie().sort(null).value(function(d) {return d.value;});
 
       const dataKeys = [];
       
       var maxScore = 0;
+      const maxScoreByName = {};
       for (const [name, values] of dataEntries) {
-        dataKeys.push(name);
         values.forEach(function (value) {
           if(value.score > maxScore)  {
             maxScore = value.score;
           }
+          if((maxScoreByName[name] == undefined) || (value.score > maxScoreByName[name])) {
+            maxScoreByName[name] = value.score;
+          }
         });
       }
       
+      for (const [name, values] of dataEntries) {
+          dataKeys.push(name);
+      }
+      
+      const laneWidth = (chartHeight / (dataKeys.length + 1)) / 2;
+
       dataKeys.sort(function(a, b){
           return dataList[a].length - dataList[b].length
         });
@@ -152,7 +164,7 @@ function loadChart() {
               .attr('id', function(d, i) {
                   return 'arc-' + name + '-' + i
               })
-              .attr('stroke', 'black')
+              .attr('stroke', 'rgba(0, 0, 0, 0)')
               .attr('fill', function(d, i) {
                 if(d.data.score == undefined) {
                   return 'white';
@@ -165,12 +177,14 @@ function loadChart() {
                 }
               })
 
+              /*
           newBlock.append('text')
             .attr('transform', function(d) { return 'translate(' + labelArc.centroid(d) + ')'; })
             .attr('dy', '.35em')
+            .attr('stroke', 'rgba(0, 0, 0, 0.15)')
             .style('font-size', '9px')
             .text(function(d) { return d.data.name; });
-          
+          */
           laneNbr++;
       });
   }
