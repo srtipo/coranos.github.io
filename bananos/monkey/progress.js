@@ -173,7 +173,7 @@ function loadChart() {
               .attr('stroke', 'rgba(0, 0, 0, 0)')
               .attr('fill', function(d, i) {
                 if(d.data.score == undefined) {
-                  return 'white';
+                  return 'lightgray';
                 } else {
                   // console.log(i,d.data.score,colorLinearScale(d.data.score));
                   const color = sequentialScale(d.data.score).substring(1);
