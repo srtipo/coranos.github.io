@@ -1,4 +1,5 @@
 const clientVersion = '1.0.23';
+const demo = true;
 const w = window.innerWidth;
 const h = window.innerHeight;
 function getExpectedValueImageSize() {
@@ -438,9 +439,13 @@ function setupHtml () {
   const tr5 = table.append('tr');
   tr5.append('td').attr('colspan','8').attr('class','solid_border centered_text').attr('id','winnerStats').text('??');
 
-  statsBlock.append('p').append('b').style('background','lightgreen').html('Game is live. Bananos will be distributed to all verified accounts<br>'
-    + 'after a verification period has passed.<br>'
-    + '(This message will disappear at 5AM Chicago Time on Saturday July 7th).');
+  if(demo) {
+    statsBlock.append('p').append('b').style('background','lightgreen').html('Game is in demo mode. No Bananos will be distributed.');
+  } else {
+    statsBlock.append('p').append('b').style('background','lightgreen').html('Game is live. Bananos will be distributed to all verified accounts<br>'
+      + 'after a verification period has passed.<br>'
+      + '(This message will disappear at 5AM Chicago Time on Saturday July 7th).');
+  }
   
   statsBlock.append('p').append('b').style('background','lightblue').html('According to dolartoday.com, on July 4th 2018, 1 USD = 3,500,265.82 BsF<br>'
     + 'According to creeper.banano.cc, 1 BAN = 0.000892 USD (1 USD = 1121 BAN), 1 NANO = 3,034 BAN<br>'
