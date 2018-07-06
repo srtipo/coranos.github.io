@@ -1,4 +1,4 @@
-const clientVersion = '1.0.22';
+const clientVersion = '1.0.23';
 const w = window.innerWidth;
 const h = window.innerHeight;
 function getExpectedValueImageSize() {
@@ -45,6 +45,12 @@ function updateScore(goodScore,badScore) {
     d3.select(options.goodScoreSelector).html(goodScore);
     d3.select(options.badScoreSelector).html(badScore);
     d3.select(options.totalScoreSelector).html(totalScore);
+    
+    if(totalScore < 0) {
+      d3.select(options.totalScoreSelector).style('background','pink') 
+    } else {
+      d3.select(options.totalScoreSelector).style('background','lightgreen') 
+    }
 }
 
 function shuffle(array) {
@@ -419,18 +425,15 @@ function setupHtml () {
   const tr4 = table.append('tr');
   tr4.append('td').attr('class','solid_border centered_text').attr('id','goodScore').text('0');
   tr4.append('td').attr('class','solid_border centered_text').attr('id','badScore').text('0');
-  tr4.append('td').attr('class','solid_border centered_text').style('background','lightgreen').attr('id','totalScore').text('0');
+  tr4.append('td').attr('class','solid_border centered_text').style('background','lightgray').attr('id','totalScore').text('0');
 
   tr4.append('td').attr('class','solid_border centered_text')
     .append('a').attr('target','_blank').attr('href','https://coranos.github.io/bananos/monkey/tutorial.html').text('Tutorial')
 
   /*
-  tr4.append('td').attr('class','solid_border centered_text')
-    .append('a').attr('target','_blank').attr('href','https://www.youtube.com/embed/E23TD-Zwaek')
-    .append('img').attr('src','https://img.youtube.com/vi/E23TD-Zwaek/default.jpg')
-    .style('height','25px')
-    .style('max-width','100%')
-    */
+   * tr4.append('td').attr('class','solid_border centered_text') .append('a').attr('target','_blank').attr('href','https://www.youtube.com/embed/E23TD-Zwaek')
+   * .append('img').attr('src','https://img.youtube.com/vi/E23TD-Zwaek/default.jpg') .style('height','25px') .style('max-width','100%')
+   */
 
   const tr5 = table.append('tr');
   tr5.append('td').attr('colspan','8').attr('class','solid_border centered_text').attr('id','winnerStats').text('??');
