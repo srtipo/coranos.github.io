@@ -14,6 +14,9 @@ function loadChart() {
     var totalScore = 0;
     var topScore = 0;
     
+    
+    var lastSecondCount = 0;
+    
     const data = {};
     for (const [name, values] of progressEntries) {
       data[name] = {};
@@ -30,6 +33,7 @@ function loadChart() {
       
       const lastTs = values[values.length-1].endTs;
       const lastScore = values[values.length-1].score;
+      
       const dataElt = {};
       dataElt.name = lastScore;
       dataElt.score = lastScore;
@@ -54,10 +58,17 @@ function loadChart() {
         topScore = lastScore;
       }
       
+      if(lastTs > 0.99) {
+        lastSecondCount++;
+      }
+
       // console.log(name,'end',JSON.stringify(endDataElt));
     }
     
-    count.html('Number of entries : ' + progressEntries.length + ' Total Score : ' + totalScore + ' Top Score : ' + topScore);
+    count.html('Number of entries : ' + progressEntries.length 
+        + ', Total Score : ' + totalScore 
+        + ', Top Score : ' + topScore 
+        + ', Last 99% : ' + lastSecondCount);
     
     return data;
   }
