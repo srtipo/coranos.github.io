@@ -51,6 +51,7 @@ function loadChart() {
       data[name].values.push(data[name].start);
       data[name].values.push(data[name].mid);
       data[name].values.push(data[name].end);
+      data[name].mid.lastSecond = false;
       
       totalScore += lastScore;
       
@@ -60,6 +61,7 @@ function loadChart() {
       
       if(lastTs > 0.99) {
         lastSecondCount++;
+        data[name].mid.lastSecond = true;
       }
 
       // console.log(name,'end',JSON.stringify(endDataElt));
@@ -187,7 +189,11 @@ function loadChart() {
                   const scoreScaled = (d.data.score / maxScore);
                   var color;
                   if(scoreScaled < 0.25) {
-                    color = 'lightgray';
+                    if(d.data.lastSecond) {
+                      color = 'darkgray';
+                    } else {
+                      color = 'lightgray';
+                    }
                   } else if(scoreScaled < 0.50) {
                     color = '#FFA500';
                   } else if(scoreScaled < 0.75) {
