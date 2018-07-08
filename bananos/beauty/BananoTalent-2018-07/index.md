@@ -1,4 +1,4 @@
-#Talent Contest Banano June 2018 - Community Contest - Sponsored by La Jungla
+# Talent Contest Banano June 2018 - Community Contest - Sponsored by La Jungla
 
 # 240,000 Banano
 # 0 Nano
