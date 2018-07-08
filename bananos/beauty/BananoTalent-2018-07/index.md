@@ -67,9 +67,9 @@
 		8- Evite incluir cualquier cosa que pueda permitir a otros acosarle, como su dirección de casa, etc. 
 		8- Avoid including anything that would help someone harrass you, like your street address.
 		
-###Juicios y lineas de tiempo
+### Juicios y lineas de tiempo
 
-###Judgement and timelines
+### Judgement and timelines
 
 		-El jurado tiene la ultima palabra a la hora de decidir el ganador. 
 		-The jury has the last word when deciding the winner.
@@ -92,9 +92,9 @@
 		- Los votos de los jueces serán publicados para la verificación.
 		- The judge's votes will be published publicly for verification.
 
-###Pagos
+### Pagos
 
-###Payments
+### Payments
 
 * Habrá 5 ganadores mayoritarios.
 
@@ -124,9 +124,9 @@
 	
 	Note: if not enough users are registered, the remaining percentage will be divided among all the participants.
 	
-###imágenes / videos e identificación
+### imágenes / videos e identificación
 
-###images/ videos and identification
+### images/ videos and identification
 
 		1- El concurso consistirá en una imágen de identificación, una (opcional) con bananas y un video (opcional).
 		1- The contest will consist of one verification image, one (optional) banano image, and one (optional) video.
@@ -198,9 +198,9 @@
 		4- Puede enviar un solo video, un máximo de dos videos, puede mostrar el mismo talento en ambos videos o en dos talentos diferentes.
 		4- You can send a single video, maximum two videos, you can show the same talent in both videos or two different talents.
 
-###Para los jueces: Aspectos a evaluar
+### Para los jueces: Aspectos a evaluar
 
-###For the judges: Aspects to be evaluated
+### For the judges: Aspects to be evaluated
 
 * Deben votar en base a:
 * They must vote based on:
