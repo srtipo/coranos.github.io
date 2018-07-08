@@ -4,6 +4,9 @@
 # 0 Nano
 # Contest Entry Deadline is Saturday July 21st 13:00 Caracas time, or 5:00 PM UTC
 
+## Top Prize 33% (80,000 BAN)
+## Tenth Prize 2% (4,800 BAN)
+
 ### The following contestants have already won first and second prizes and are not eligible for first or second prize:
 
 | Previous Winners |
