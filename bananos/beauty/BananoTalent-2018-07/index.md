@@ -28,6 +28,9 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 1      | @ Bananoeira✌#4382  | ![01-id] |               | [01-video-01] [01-video-02]                 |
 | 2      | @ chjpmay1996#4174  |          |               |                                             |
 | 3      | @ CristianO𝖋𝖔𝖎𝖘#2261 |          |               |                                             |
+| 4      | @ VOCHY#7216        |          |               |                                             |
+| 5      | @ gruvious#6760     |          |               |                                             |
+| 6      | @ Coranos#4281      |          |               |                                             |
 
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
