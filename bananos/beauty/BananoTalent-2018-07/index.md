@@ -12,13 +12,13 @@ You are allowed to reuse submissions from previous contests if they show talent 
 ### Judges
 | Discord Id                         |
 |:---------------------------------- |
-| @Coranos#4281                      |
-| @Enriツ#0036                       |
-| @Noodles For Me#3191               |
-| @junglo steph#1771                 |
-| @ESKA#0001                         |
-| @Team Junglo Allan🇭🇳#0197          |
-| @bantano > HowToBANANO.info <#0286 |
+| @ Coranos#4281                      |
+| @ Enriツ#0036                       |
+| @ Noodles For Me#3191               |
+| @ junglo steph#1771                 |
+| @ ESKA#0001                         |
+| @ Team Junglo Allan🇭🇳#0197          |
+| @ bantano > HowToBANANO.info <#0286 |
 
 
 ### Contestants
