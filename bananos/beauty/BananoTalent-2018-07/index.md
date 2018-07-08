@@ -22,10 +22,10 @@ You are allowed to reuse submissions from previous contests if they show talent 
 
 
 ### Contestants
-| Number | Discord Id        | Id Images                                                                                           | Banano Images | Videos                                      |
-|:------ | :---------------- |:--------------- |:------------- |:------------------------------------------- |
+| Number | Discord Id        | Id Images        | Banano Images | Videos                                      |
+|:------ | :---------------- |:---------------- |:------------- |:------------------------------------------- |
 | 1      | @Bananoeira✌#4382 | ![Bananoeira-id] |               | https://www.youtube.com/watch?v=rt0AJKMJPk8 |
-|        |                   |                                                                                                     |               | https://www.youtube.com/watch?v=gAI456B1Wf4 |
+|        |                   |                  |               | https://www.youtube.com/watch?v=gAI456B1Wf4 |
 
 [Bananoeira-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg
 
