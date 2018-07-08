@@ -4,31 +4,31 @@
 # 0 Nano
 # Contest Entry Deadline is Saturday July 21st 13:00 Caracas time, or 5:00 PM UTC
 
-## Top Prize 33% (80,000 BAN)
-## Tenth Prize 2% (4,800 BAN)
+Top Prize 33% (80,000 BAN)
+Tenth Prize 2% (4,800 BAN)
 
-### The following contestants have already won first and second prizes and are not eligible for first or second prize:
-
-| Previous Winners |
-|:------------- |
-| @stephrnm#1455  (Mrs #1) |
-| @Sun#1952 (Mrs #2) |
-| @ArticPaul#8132 (Mr #1) |
-| @jbrice#2496 (Mr #2) |
-| @azuLeto#1082 (Pets #1) |
-| @anön#7189 (Pets #2) |
+You are allowed to reuse submissions from previous contests if they show talent and did not win a prize. (But should probably add something new if you want to win).
 
 ### Judges
-| Discord Id    |
-|:------------- |
-| @Coranos#4281 |
+| Discord Id                         |
+|:---------------------------------- |
+| @Coranos#4281                      |
+| @Enriツ#0036                       |
+| @Noodles For Me#3191               |
+| @junglo steph#1771                 |
+| @ESKA#0001                         |
+| @Team Junglo Allan🇭🇳#0197          |
+| @bantano > HowToBANANO.info <#0286 |
+
 
 ### Contestants
-| Number | Discord Id | Id Images | Banano Images | Videos |
-|:------ | :--------- |:--------- |:------------- |:------ |
-|        |            |           |               |        |
+| Number | Discord Id        | Id Images                                                                                           | Banano Images | Videos                                      |
+|:------ | :---------------- |:--------------- |:------------- |:------------------------------------------- |
+| 1      | @Bananoeira✌#4382 | ![Bananoeira-id] |               | https://www.youtube.com/watch?v=rt0AJKMJPk8 |
+|        |                   |                                                                                                     |               | https://www.youtube.com/watch?v=gAI456B1Wf4 |
 
-(They can participate, and will can win all other prizes except first and second)
+[Bananoeira-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg
+
 
 ### Guidelines (Optional)
 		
