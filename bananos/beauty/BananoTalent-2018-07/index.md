@@ -19,14 +19,15 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | @ ESKA#0001                         |
 | @ Team Junglo Allan🇭🇳#0197          |
 | @ bantano > HowToBANANO.info <#0286 |
+| @ ℬ𝓾𝓷𝓷𝓎ℬℯ𝒶𝓉★#9430                 |
 
 
 ### Contestants
-| Number | Discord Id        | Id Images | Banano Images | Videos                                      |
-|:------ | :---------------- |:--------- |:------------- |:------------------------------------------- |
-| 1      | @ Bananoeira✌#4382 | ![01-id]  |               | [01-video-01] [01-video-02]               |
-| 2      | @ chjpmay1996#4174 |           |               |                                             |
-
+| Number | Discord Id         | Id Images | Banano Images | Videos                                      |
+|:------ | :----------------- |:--------- |:------------- |:------------------------------------------- |
+| 1      | @ Bananoeira✌#4382  | ![01-id] |               | [01-video-01] [01-video-02]                 |
+| 2      | @ chjpmay1996#4174  |          |               |                                             |
+| 3      | @ CristianO𝖋𝖔𝖎𝖘#2261 |          |               |                                             |
 
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
