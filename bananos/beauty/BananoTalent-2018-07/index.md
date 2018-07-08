@@ -1,16 +1,29 @@
 #Talent Contest Banano June 2018 - Community Contest - Sponsored by La Jungla
 
-# 40,000 Banano
+# 240,000 Banano
 # 0 Nano
-# Contest Entry Deadline is Saturday July 14th 13:00 Caracas time, or 5:00 PM UTC
+# Contest Entry Deadline is Saturday July 21st 13:00 Caracas time, or 5:00 PM UTC
 
 ### The following contestants have already won first and second prizes and are not eligible for first or second prize:
-- @stephrnm#1455  (Mrs #1)
-- @Sun#1952 (Mrs #2)
-- @ArticPaul#8132 (Mr #1)
-- @jbrice#2496 (Mr #2)
-- @azuLeto#1082 (Pets #1)
-- @anön#7189 (Pets #2)
+
+| Previous Winners |
+|:------------- |
+| @stephrnm#1455  (Mrs #1) |
+| @Sun#1952 (Mrs #2) |
+| @ArticPaul#8132 (Mr #1) |
+| @jbrice#2496 (Mr #2) |
+| @azuLeto#1082 (Pets #1) |
+| @anön#7189 (Pets #2) |
+
+### Judges
+| Discord Id    |
+|:------------- |
+| @Coranos#4281 |
+
+### Contestants
+| Number | Discord Id | Id Images | Banano Images | Videos |
+|:------ | :--------- |:--------- |:------------- |:------ |
+|        |            |           |               |        |
 
 (They can participate, and will can win all other prizes except first and second)
 
