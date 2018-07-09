@@ -34,6 +34,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 5      | @ gruvious#6760     |          |               |                                             |
 | 6      | @ Coranos#4281      |          |               |                                             |
 | 7      | @ nam#8616          |          |               |                                             |
+| 8      | @ banastone#6876    |          |               |                                             |
 
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
