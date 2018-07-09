@@ -27,18 +27,18 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 12     | @ HappyBan#1585                     |
 
 ### Contestants
-| Number | Discord Id         | Id Images | Banano Images | Videos                                      |
-|:------ | :----------------- |:--------- |:------------- |:------------------------------------------- |
-| 1      | @ Bananoeira✌#4382  | ![01-id] |               | [01-video-01]  [01-video-02]                |
-| 2      | @ chjpmay1996#4174  |          |               |                                             |
-| 3      | @ CristianO𝖋𝖔𝖎𝖘#2261 |          |               |                                             |
-| 4      | @ VOCHY#7216        |          |               |                                             |
-| 5      | @ gruvious#6760     |          |               |                                             |
-| 6      | @ Coranos#4281      |          |               |                                             |
-| 7      | @ nam#8616          |          |               |                                             |
-| 8      | @ banastone#6876    |          |               |                                             |
-| 9      | @ oskita_20#3723    |          |               |                                             |
-
+| Number | Discord Id             | Id Images | Banano Images | Videos                                      |
+|:------ | :--------------------- |:--------- |:------------- |:------------------------------------------- |
+| 1      | @ Bananoeira✌#4382     | ![01-id] |               | [01-video-01]  [01-video-02]                |
+| 2      | @ chjpmay1996#4174     |          |               |                                             |
+| 3      | @ CristianO𝖋𝖔𝖎𝖘#2261    |          |               |                                             |
+| 4      | @ VOCHY#7216           |          |               |                                             |
+| 5      | @ gruvious#6760        |          |               |                                             |
+| 6      | @ Coranos#4281         |          |               |                                             |
+| 7      | @ nam#8616             |          |               |                                             |
+| 8      | @ banastone#6876       |          |               |                                             |
+| 9      | @ oskita_20#3723       |          |               |                                             |
+| 10     | @ Rai of Sunshine#7580 |          |               |                                             |
 
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
