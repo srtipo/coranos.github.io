@@ -1,11 +1,11 @@
 # Talent Contest Banano June 2018 - Community Contest - Sponsored by La Jungla
 
-# 240,000 Banano
+# 250,000 Banano
 # 0 Nano
 # Contest Entry Deadline is Saturday July 21st 13:00 Caracas time, or 5:00 PM UTC
 
-Top Prize 33% (80,000 BAN)
-Tenth Prize 2% (4,800 BAN)
+Top Prize 33% (83,000 BAN)
+Tenth Prize 2% (5,000 BAN)
 
 You are allowed to reuse submissions from previous contests if they show talent and did not win a prize. (But should probably add something new if you want to win).
 
