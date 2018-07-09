@@ -56,29 +56,26 @@ You are allowed to reuse submissions from previous contests if they show talent 
 
 ### Rules (Required)
 		
-		1- Todos los participantes deben ser mayores de edad. 
-		1- All participants must be of legal age 
+		1- Todos los participantes deben ser mayores de edad. (18+)
+		1- All participants must be of legal age (18+)
 		
-		2- los participantes que han ganado los 2 primeros lugares en concursos anteriores, pueden participar, pero no podran ganar el primer ni segundo lugar, Esto para dar oportunidada otros participantes. 
-		2- The participants who have won the first 2 places in previous competitions, can participate, but can not win the first or second place, This to give other participants opportunity 
+		2- Un menor puede aparecer en la foto y en el video con el participante, pero tiene que estar vestido y cubierto de hombros a tobillos. 
+		2- A minor can be in the photo and the video with the contestant, but must have clothes covering shoulders to knees. 
 		
-		3- Un menor puede aparecer en la foto y en el video con el participante, pero tiene que estar vestido y cubierto de hombros a tobillos. 
-		3- A minor can be in the photo and the video with the contestant, but must have clothes covering shoulders to knees. 
+		3- Todas las fotos y videos tienen que ser legales y accede a que el concurso los use y sean visibles para el público (no sólo para los jueces). 
+		3- All photos and videos must be legal, and you agree the contest can use them for the contest, visible to the public (not just to judges). 
 		
-		4- Todas las fotos y videos tienen que ser legales y accede a que el concurso los use y sean visibles para el público (no sólo para los jueces). 
-		4- All photos and videos must be legal, and you agree the contest can use them for the contest, visible to the public (not just to judges). 
+		4- No desnudos, no pornografia. 
+		4- No nudity, no pornography. 
 		
-		5- No desnudos, no pornografia. 
-		5- Not naked, not pornography. 
+		5- No seran validas las fotos con derecho de autor o sacadas de internet seran revisadas una a una. 
+		5- Copyrighted por professional photos are not valid, photos will be reviewed case by case. 
 		
-		6- No seran validas las fotos con derecho de autor o sacadas de internet seran revisadas una a una. 
-		6- Will not be valid photos copyrighted or taken from the internet will be reviewed one by one. 
+		6- Si usted es un fotógrafo profesional y quiere hacer autofotos, entonces no hay problema. 
+		6- If you are a professional photographer and want to make selfies, then there is no problem. 
 		
-		7- Si usted es un fotógrafo profesional y quiere hacer autofotos, entonces no hay problema. 
-		7- If you are a professional photographer and want to make selfies, then there is no problem. 
-		
-		8- Evite incluir cualquier cosa que pueda permitir a otros acosarle, como su dirección de casa, etc. 
-		8- Avoid including anything that would help someone harrass you, like your street address.
+		7- Evite incluir cualquier cosa que pueda permitir a otros acosarle, como su dirección de casa, etc. 
+		7- Avoid including anything that would help someone harrass you, like your street address.
 		
 ### Juicios y lineas de tiempo
 
@@ -88,16 +85,16 @@ You are allowed to reuse submissions from previous contests if they show talent 
 		-The jury has the last word when deciding the winner.
 		
 		-Habra un periodo de gracias de 6 horas debido a las malas conexiones a internet y fallas electricas en algunas zonas para asi organizarnos bien los jueces. 
-		-There will be a grace period of 6 hours due to poor internet connections and power failures in some areas so judges can organize well.
+		-There will be a grace period of 6 hours due to poor internet connections and power failures in some areas so judges can organize the submissions.
 		
-		-Durante el tiempo de gracia antes mencionado estaran habilitados los registros, por las fallas de internet, de igual manera asi que registrate temprano. 
-		-During the time of grace mentioned above, the records will be enabled, due to internet failures, in the same way register early.. 
+		-Durante el tiempo de gracia antes mencionado estaran habilitados no los registros, por las fallas de internet, de igual manera asi que registrate temprano. 
+		-During the grace period mentioned above, new submissions will not be allowed, due to internet failures, so register early.
 		
-		- Actualizaciones de registros no seran aceptados durante el periodo de gracia, una vez que envie sus fotos y video, no estara permitido que envie mas de estos. 
-		- Record updates will not be accepted during the grace period, once you submit your photos and video, you will not be allowed to send more of these.
+		- Actualizaciones de registros seran aceptados durante el periodo de gracia, una vez que envie sus fotos y video, no estara permitido que envie mas de estos. 
+		- Submission updates will be accepted during the grace period, once you submit your photos and video, you will not be allowed to send more of these.
 		
 		- Todos los concursantes seran juzgados uno a uno, de pasar la primera fase de evaluacion estaran sus fotos al final de esta hoja.
-		- All contestants will be judged one by one, to pass the first phase of evaluation will be their photos at the end of this sheet.
+		- All contestants will be judged individually.
 
 		- Los ganadores serán determinados por mayoría absoluta (sistema instant-runoff voting).
 		- Winners will be determined by Instant Runoff Voting.
@@ -219,8 +216,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 * They must vote based on:
 
 		1- Nivel de talento, ¿Que tan bien lo hace?
-		1- Level of talent, how well does it do it?
-		
+		1- Level of talent, how well does the contestant perform?
 		
 		2- Dominio del tema o actividad
 		2- Domain of the topic or activity.
@@ -234,5 +230,5 @@ You are allowed to reuse submissions from previous contests if they show talent 
 * Nota: Recuerde, no es un concurso de belleza.
 * Note: Remember, it's not a beauty contest.
 
-### The contest is for both sexes.
+### The contest is for all sexes.
 
