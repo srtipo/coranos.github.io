@@ -1,4 +1,4 @@
-https://i.imgur.com/9OQrVAX.jpg
+![Imgur](https://i.imgur.com/9OQrVAX.jpg)
 # Talent Contest Banano June 2018 - Community Contest - Sponsored by La Jungla
 
 # 250,000 Banano
