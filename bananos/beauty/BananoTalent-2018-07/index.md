@@ -17,10 +17,11 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | @ Noodles For Me#3191               |
 | @ junglo steph#1771                 |
 | @ ESKA#0001                         |
-| @ Team Junglo Allan🇭🇳#0197          |
+| @ Team Junglo Allan🇭🇳#0197         |
 | @ bantano > HowToBANANO.info <#0286 |
-| @ ℬ𝓾𝓷𝓷𝓎ℬℯ𝒶𝓉★#9430                 |
+| @ ℬ𝓾𝓷𝓷𝓎ℬℯ𝒶𝓉★#9430                   |
 | @ altcoinage#5503                   |
+| @ mta#8913                          |
 
 
 ### Contestants
