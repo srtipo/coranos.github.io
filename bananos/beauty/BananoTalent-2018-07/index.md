@@ -29,7 +29,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 ### Contestants
 | Number | Discord Id         | Id Images | Banano Images | Videos                                      |
 |:------ | :----------------- |:--------- |:------------- |:------------------------------------------- |
-| 1      | @ Bananoeira✌#4382  | ![01-id] |               | [01-video-01] [01-video-02]                 |
+| 1      | @ Bananoeira✌#4382  | ![01-id] |               | [01-video-01]  [01-video-02]                |
 | 2      | @ chjpmay1996#4174  |          |               |                                             |
 | 3      | @ CristianO𝖋𝖔𝖎𝖘#2261 |          |               |                                             |
 | 4      | @ VOCHY#7216        |          |               |                                             |
