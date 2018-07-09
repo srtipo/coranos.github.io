@@ -11,20 +11,20 @@ Tenth Prize 2% (5,000 BAN, 0.05 NANO)
 You are allowed to reuse submissions from previous contests if they show talent and did not win a prize. (But should probably add something new if you want to win).
 
 ### Judges
-| Discord Id                         |
-|:---------------------------------- |
-| @ Coranos#4281                      |
-| @ Enriツ#0036                       |
-| @ Noodles For Me#3191               |
-| @ junglo steph#1771                 |
-| @ ESKA#0001                         |
-| @ Team Junglo Allan🇭🇳#0197         |
-| @ bantano > HowToBANANO.info <#0286 |
-| @ ℬ𝓾𝓷𝓷𝓎ℬℯ𝒶𝓉★#9430                   |
-| @ altcoinage#5503                   |
-| @ mta#8913                          |
-| @ Soneliem#1646                     |
-
+| Number | Discord Id                         |
+|:------ |:---------------------------------- |
+| 1      | @ Coranos#4281                      |
+| 2      | @ Enriツ#0036                       |
+| 3      | @ Noodles For Me#3191               |
+| 4      | @ junglo steph#1771                 |
+| 5      | @ ESKA#0001                         |
+| 6      | @ Team Junglo Allan🇭🇳#0197         |
+| 7      | @ bantano > HowToBANANO.info <#0286 |
+| 8      | @ ℬ𝓾𝓷𝓷𝓎ℬℯ𝒶𝓉★#9430                   |
+| 9      | @ altcoinage#5503                   |
+| 10     | @ mta#8913                          |
+| 11     | @ Soneliem#1646                     |
+| 12     | @ HappyBan#1585                     |
 
 ### Contestants
 | Number | Discord Id         | Id Images | Banano Images | Videos                                      |
