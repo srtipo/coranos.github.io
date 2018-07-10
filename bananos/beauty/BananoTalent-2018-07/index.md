@@ -39,6 +39,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 8      | @ banastone#6876       |          |               |                                             |
 | 9      | @ oskita_20#3723       |          |               |                                             |
 | 10     | @ Rai of Sunshine#7580 |          |               |                                             |
+| 11     | @ GOllo Tatoo 56 #5364 |          |               |                                             |
 
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
