@@ -40,6 +40,8 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 9      | @ oskita_20#3723       |          |               |                                             |
 | 10     | @ Rai of Sunshine#7580 |          |               |                                             |
 | 11     | @ GOllo Tatoo 56 #5364 |          |               |                                             |
+| 12     | @ Black Alladin#9201   |          |               |                                             |
+| 13     | @ IsaVillarroel#5381   |          |               |                                             |
 
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
