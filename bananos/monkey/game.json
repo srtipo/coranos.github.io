@@ -1,82 +1,25 @@
 {
 	"wins": 0,
 	"serverVersion": "static",
-	"prefix": "https://coranos.github.io/banano-finder-images/images/",
+	"prefix2": "https://coranos.github.io/banano-finder-images/",
+	"prefix": "https://coranos.github.io/bananos/monkey/m/",
 	"winnerThreshold": 1000,
 	"expected": {
-		"R": "42666.png",
-		"L": "50192.png"
+		"right": "0512857",
+		"left": "0522078"
 	},
+	"totalPayout": 30536,
+	"maxPayout": 2000000,
 	"totalWinners": 0,
-	"accountIsInvalidFlag": true,
-	"time": 3000,
+	"accountIsInvalidFlag": false,
+	"time": 0,
 	"slowDownFlag": false,
 	"losses": 0,
 	"maxWinners": 10,
 	"choices": [
 		{
-			"R": "92230.png",
-			"L": "34784.png"
-		},
-		{
-			"R": "20772.png",
-			"L": "3643.png"
-		},
-		{
-			"R": "92026.png",
-			"L": "49491.png"
-		},
-		{
-			"R": "42666.png",
-			"L": "92303.png"
-		},
-		{
-			"R": "13241.png",
-			"L": "8449.png"
-		},
-		{
-			"R": "64204.png",
-			"L": "85484.png"
-		},
-		{
-			"R": "50544.png",
-			"L": "84250.png"
-		},
-		{
-			"R": "84054.png",
-			"L": "44280.png"
-		},
-		{
-			"R": "99283.png",
-			"L": "10658.png"
-		},
-		{
-			"R": "18375.png",
-			"L": "85484.png"
-		},
-		{
-			"R": "99283.png",
-			"L": "93633.png"
-		},
-		{
-			"R": "82985.png",
-			"L": "44280.png"
-		},
-		{
-			"R": "48638.png",
-			"L": "8449.png"
-		},
-		{
-			"R": "52364.png",
-			"L": "3643.png"
-		},
-		{
-			"R": "41725.png",
-			"L": "21165.png"
-		},
-		{
-			"R": "74975.png",
-			"L": "44280.png"
+			"R": "0512857",
+			"L": "0522078"
 		}
 	]
 }

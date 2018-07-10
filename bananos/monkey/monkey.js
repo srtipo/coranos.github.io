@@ -1,6 +1,38 @@
-const clientVersion = '1.0.8';
-const expectedValueImageSize = 600;
-const choiceValueImageSize = 150;
+const clientVersion = '1.0.23';
+const demo = true;
+const w = window.innerWidth;
+const h = window.innerHeight;
+function getExpectedValueImageSize() {
+  if(w < h) {
+    return w - 30;
+  } else {
+    if(w > 600) {
+      return 600;
+    } else {
+      return h - 30;
+    }
+  }
+}
+function getHorizontalFlag() {
+  if(w > 1000) {
+    return true;
+  } else {
+    return false;
+  }
+}
+
+const expectedValueImageSize = getExpectedValueImageSize();
+const horizontalFlag = getHorizontalFlag();
+
+ console.log('w',w);
+ console.log('h',h);
+ console.log('expectedValueImageSize',expectedValueImageSize);
+ console.log('horizontalFlag',horizontalFlag);
+
+var choiceValueImageSize = expectedValueImageSize / 4;
+
+// https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+// @media
 
 var maxTime = 2000;
 var time = maxTime;
@@ -14,6 +46,12 @@ function updateScore(goodScore,badScore) {
     d3.select(options.goodScoreSelector).html(goodScore);
     d3.select(options.badScoreSelector).html(badScore);
     d3.select(options.totalScoreSelector).html(totalScore);
+    
+    if(totalScore < 0) {
+      d3.select(options.totalScoreSelector).style('background','pink') 
+    } else {
+      d3.select(options.totalScoreSelector).style('background','lightgreen') 
+    }
 }
 
 function shuffle(array) {
@@ -68,8 +106,9 @@ function submitForm(token) {
     }
     const botInput = document.getElementById('old-bot');
     if (botInput.value.length == 0) {
-        document.getElementById('new-bot').style['background-color'] = 'red';
-        return false;
+      d3.selectAll('input[name="bot"]').each(function(d, i) {
+        d3.select(this).style('background-color','red');
+      });
     }
     if (time > 0) {
         var timeDiv = document.getElementById('timer');
@@ -108,14 +147,18 @@ function updateTime() {
 
 function makeMonkeySvg(gameSelector, images, svgSize, choiceIx) {
     if((images.left === undefined) && (images.L !== undefined)) {
-      images.left = images.L;
+      images.left = parseInt(images.L, 16) - (images.left || 1);
+      images.left = images.left.toString().substring(1);
     }
     if((images.right === undefined) && (images.R !== undefined)) {
-      images.right = images.R;
+      images.right = parseInt(images.R, 16) - (images.right || 1);
+      images.right = images.right.toString().substring(1);
     }
     let svgParent = d3.select(gameSelector);
     if (choiceIx !== undefined) {
         const label = d3.select(gameSelector).append('label').attr('class', 'choiceLabel')
+          .attr('width',choiceValueImageSize + 'px').attr('height',choiceValueImageSize + 'px');
+        
         label.append('input')
             .attr('class', 'image g-recaptcha')
             .attr('data-sitekey', '6LdHNV0UAAAAAB2syUYlN022EIk3-ZhcUfwois-4')
@@ -135,17 +178,15 @@ function makeMonkeySvg(gameSelector, images, svgSize, choiceIx) {
         svg.attr('class', 'choice');
     }
 
-    svg.append('rect').attr('x', 1).attr('y', 1).attr('height', svgSize - 1).attr('width', svgSize - 1).style('stroke', 'black').style('fill', 'none').style(
-        'stroke-width', 1);
+    svg.append('image').attr('xlink:href', images.prefix + images.left + '.png')
+      .attr('x', 0).attr('y', 0).attr('height', svgSize / 2).attr('width', svgSize / 2);
+    
+    svg.append('image').attr('xlink:href', images.prefix + images.right + '.png')
+      .attr('x', svgSize / 2).attr('y', svgSize / 2).attr('height', svgSize / 2).attr('width', svgSize / 2);
 
-    svg.append('image').attr('xlink:href', images.prefix + images.left).attr('x', 0).attr('y', 0).attr('height', svgSize / 2).attr('width', svgSize / 2);
-
-    svg.append('image').attr('xlink:href', images.prefix + images.right).attr('x', svgSize / 2).attr('y', svgSize / 2).attr('height', svgSize / 2).attr('width',
-        svgSize / 2);
-
-    svg.append('rect').attr('x', 1).attr('y', 1).attr('height', svgSize - 1).attr('width', svgSize - 1).attr('pointer-events', 'visible')
+    svg.append('rect').attr('x', 1).attr('y', 1).attr('height', svgSize - 2).attr('width', svgSize - 2).attr('pointer-events', 'visible')
         .attr('onclick', 'return clickedRect('+choiceIx+')')
-        .style('stroke', 'red')
+        .style('stroke', images.color)
         .style('fill', 'none').style('stroke-width', 1);
 
 }
@@ -191,11 +232,11 @@ function newGame(token) {
       }
       const discordInput = document.getElementById('old-discord');
       if (discordInput.value.length > 0) {
-        url += '&discord=' + discordInput.value;
+        url += '&discord=' + encodeURIComponent(discordInput.value);
       }
       const botInput = document.getElementById('old-bot');
       if (botInput.value.length > 0) {
-        url += '&bot=' + botInput.value;
+        url += '&bot=' + encodeURIComponent(botInput.value);
       }
       if(token !== undefined) {
         url += '&captcha=' + token;
@@ -223,16 +264,26 @@ function newGame(token) {
         
         updateScore(gameJson.wins,gameJson.losses);
         d3.select('#winnerStats')
-          .html('number of winners over ' + gameJson.winnerThreshold + ' is ' + gameJson.totalWinners + ' of ' + gameJson.maxWinners);
+          .html('number of winners over ' + gameJson.winnerThreshold + ' is ' + gameJson.totalWinners + ' of ' + gameJson.maxWinners
+              + ' with a total payout of ' + gameJson.totalPayout + ' of ' + gameJson.maxPayout + '.');
 
 
         gameJson.expected.prefix = gameJson.prefix;
+        gameJson.expected.color = '0xFF0000FF';
         makeMonkeySvg(options.gameSelector, gameJson.expected, expectedValueImageSize, undefined);
         
         // shuffle(gameJson.choices);
         for (let choiceIx = 0; choiceIx < gameJson.choices.length; choiceIx++) {
-            gameJson.choices[choiceIx].prefix = gameJson.prefix;
-            makeMonkeySvg(options.gameSelector, gameJson.choices[choiceIx], choiceValueImageSize, choiceIx);
+            const actual = gameJson.choices[choiceIx];
+            actual.prefix = gameJson.prefix;
+            
+            if((actual.L == gameJson.expected.L) && (actual.R == gameJson.expected.R)) {
+              actual.color = '#00FF00';
+            } else {
+              actual.color = '#FF0000';
+            }
+            
+            makeMonkeySvg(options.gameSelector, actual, choiceValueImageSize, choiceIx);
         }
         
         if(gameJson.time !== undefined) {
@@ -278,9 +329,24 @@ function synchBananoAccountDisplay() {
     }
 }
 
+function isValidDiscord(discord) {
+  if (discord.length == 0) {
+    return false;
+  }
+  if (!discord.startsWith('@')) {
+    return false;
+  }
+  const re = new RegExp("^.*#[0-9]{4}$");
+  if (!re.test(discord)) {
+    return false;
+  }
+  return true;
+}
+
 function synchDiscordDisplay() {
     var discord = d3.select('#new-discord').node().value;
-    if (discord.length == 0) {
+    if (!isValidDiscord(discord)) {
+      d3.select('#old-discord').node().value = '';
       d3.select('#hasDiscordFlagYes').style('display', 'none');
       d3.select('#hasDiscordFlagNo').style('display', 'block');
     } else {
@@ -294,7 +360,7 @@ function synchDiscordDisplay() {
 function synchBotDisplay() {
     const account = d3.select('#old-account').node().value;
     const discord = d3.select('#old-discord').node().value;
-    const bot = d3.selectAll('#new-bot:checked').node().value;
+    const bot = d3.select('#new-bot').node().value;
     if ((account.length == 0) || (discord.length == 0) || (bot.length == 0)) {
       d3.select('#hasBotFlagYes').style('display', 'none');
       d3.select('#hasBotFlagNo').style('display', 'block');
@@ -311,60 +377,97 @@ function setupHtml () {
   
   body.attr('class','monospace');
   
-  const table = body.append('table');
+  const form = body.append('form');
+  form.attr('action','.').attr('method','get').attr('onsubmit','return submitForm();');
+
+  var statsBlock;
+  var gameBlock;
+  if(horizontalFlag) {
+    const table = form.append('table');
+    table.attr('class','align_center');
+    
+    const tr1 = table.append('tr');
+    gameBlock = tr1.append('td');
+    statsBlock = tr1.append('td');
+  } else {
+    const table = form.append('table');
+    table.attr('class','align_center');
+    
+    const tr1 = table.append('tr');
+    statsBlock = tr1.append('td');
+    const tr2 = table.append('tr');
+    gameBlock = tr2.append('td');
+  }
+  statsBlock.attr('class','align_top');
+  gameBlock.attr('class','align_top');
+  
+  const table = statsBlock.append('table');
   table.attr('class','solid_border centered_text');
+  
   const tr1 = table.append('tr');
-  tr1.append('th').attr('class','solid_border centered_text').text('Bananos Found');
-  tr1.append('th').attr('class','solid_border centered_text').text('Bananos Lost');
-  tr1.append('th').attr('class','solid_border centered_text').text('Bananos Won');
-  tr1.append('th').attr('class','solid_border centered_text').text('Tutorial Video')
   tr1.append('th').attr('class','solid_border centered_text').text('Client Version')
   tr1.append('th').attr('class','solid_border centered_text').text('Server Version')
   tr1.append('th').attr('class','solid_border centered_text').text('Bytes Used')
   tr1.append('th').attr('class','solid_border centered_text').text('Reload Images')
   
   const tr2 = table.append('tr');
-  tr2.append('th').attr('class','solid_border centered_text').attr('id','goodScore').text('0');
-  tr2.append('th').attr('class','solid_border centered_text').attr('id','badScore').text('0');
-  tr2.append('th').attr('class','solid_border centered_text').style('background','lightgreen').attr('id','totalScore').text('0');
-
-  tr2.append('th').attr('class','solid_border centered_text')
-    .append('a').attr('target','_blank').attr('href','https://www.youtube.com/embed/E23TD-Zwaek')
-    .append('img').attr('src','https://img.youtube.com/vi/E23TD-Zwaek/default.jpg')
-    .style('height','25px')
-    .style('max-width','100%')
-
-  tr2.append('th').attr('class','solid_border centered_text').attr('id','clientVersion').text(clientVersion);
-  tr2.append('th').attr('class','solid_border centered_text').attr('id','serverVersion').text('??');
-  tr2.append('th').attr('class','solid_border centered_text').attr('id','bytesUsed').text('0');
-
-  tr2.append('th').attr('class','solid_border centered_text')
-    .append('button').attr('type','button').attr('onclick','javascript:reloadImages()').text('Reload Images')
-
+  tr2.append('td').attr('class','solid_border centered_text').attr('id','clientVersion').text(clientVersion);
+  tr2.append('td').attr('class','solid_border centered_text').attr('id','serverVersion').text('??');
+  tr2.append('td').attr('class','solid_border centered_text').attr('id','bytesUsed').text('0');
+  tr2.append('td').attr('class','solid_border centered_text')
+  .append('button').attr('type','button').attr('onclick','javascript:reloadImages()').text('Reload Images')
+  
   const tr3 = table.append('tr');
-  tr3.append('th').attr('colspan','8').attr('class','solid_border centered_text').attr('id','winnerStats').text('??');
+  tr3.append('th').attr('class','solid_border centered_text').text('Bananos Found');
+  tr3.append('th').attr('class','solid_border centered_text').text('Bananos Lost');
+  tr3.append('th').attr('class','solid_border centered_text').text('Bananos Won');
+  tr3.append('th').attr('class','solid_border centered_text').text('Tutorial')
+  
+  const tr4 = table.append('tr');
+  tr4.append('td').attr('class','solid_border centered_text').attr('id','goodScore').text('0');
+  tr4.append('td').attr('class','solid_border centered_text').attr('id','badScore').text('0');
+  tr4.append('td').attr('class','solid_border centered_text').style('background','lightgray').attr('id','totalScore').text('0');
 
-  body.append('p').text('Total Bananos Won may not be actual bananos.');
+  tr4.append('td').attr('class','solid_border centered_text')
+    .append('a').attr('target','_blank').attr('href','https://coranos.github.io/bananos/monkey/tutorial.html').text('Tutorial')
+
+  /*
+   * tr4.append('td').attr('class','solid_border centered_text') .append('a').attr('target','_blank').attr('href','https://www.youtube.com/embed/E23TD-Zwaek')
+   * .append('img').attr('src','https://img.youtube.com/vi/E23TD-Zwaek/default.jpg') .style('height','25px') .style('max-width','100%')
+   */
+
+  const tr5 = table.append('tr');
+  tr5.append('td').attr('colspan','8').attr('class','solid_border centered_text').attr('id','winnerStats').text('??');
+
+  if(demo) {
+    statsBlock.append('p').append('b').style('background','lightgreen').html('Game is in demo mode. No Bananos will be distributed.');
+  } else {
+    statsBlock.append('p').append('b').style('background','lightgreen').html('Game is live. Bananos will be distributed to all verified accounts<br>'
+      + 'after a verification period has passed.<br>'
+      + '(This message will disappear at 5AM Chicago Time on Saturday July 7th).');
+  }
   
-  body.append('p').text('Game Starts In (Seconds) ').append('span').attr('id','timer').text('??');
+  statsBlock.append('p').append('b').style('background','lightblue').html('According to dolartoday.com, on July 4th 2018, 1 USD = 3,500,265.82 BsF<br>'
+    + 'According to creeper.banano.cc, 1 BAN = 0.000892 USD (1 USD = 1121 BAN), 1 NANO = 3,034 BAN<br>'
+    + 'So if you are being paid to play this game, a fair price is 3122 BsF per BAN.<br>');
   
-  body.append('div').attr('id','slowDownFlag').append('p').append('b')
+  statsBlock.append('p').text('Game Starts In (Seconds) ').append('span').attr('id','timer').text('??');
+  
+  statsBlock.append('div').attr('id','slowDownFlag').append('p').append('b')
   .text('Slow down, you submitted to quickly and your entry was not counted.');
 
-  body.append('div').attr('id','accountIsInvalidFlag').append('p').append('b')
+  statsBlock.append('div').attr('id','accountIsInvalidFlag').append('p').append('b')
   .text('The account you entered was invalid, make sure it starts with ban_ and is 64 characters long.');
 
-  const form = body.append('form');
-  form.attr('action','.').attr('method','get').attr('onsubmit','return submitForm();');
-  const accountDiv = form.append('div');
-  accountDiv.attr('style','width: 600px');
+  const accountDiv = statsBlock.append('div');
+  accountDiv.attr('style','width: ' + expectedValueImageSize + 'px');
   
   addDiscordDivs(accountDiv);
   addAccountDivs(accountDiv);
   addBotDivs(accountDiv);
 
-  const gameDiv = form.append('div');
-  gameDiv.style('width','600px').style('height','600px').attr('id','game');
+  const gameDiv = gameBlock.append('div');
+  gameDiv.style('width',expectedValueImageSize + 'px').style('height',expectedValueImageSize + 'px').attr('id','game');
 }
 
 function addAccountDivs(accountDiv) {
@@ -375,7 +478,7 @@ function addAccountDivs(accountDiv) {
   
   const noAccountDiv = accountDiv.append('div');
   noAccountDiv.attr('id','hasAccountFlagNo').append('p').append('b')
-    .text('Please enter a bananos account, then select the square that contains the miniature versions of both large monKeys.');
+    .text('Please enter a bananos account, then select the square that contains a smaller version of the 4 background monkeys, where the two smaller monkeys have the same orientation.');
   noAccountDiv
     .append('input').attr('id','new-account').attr('type','text').attr('name','account').attr('value','').attr('size','64');
 }
@@ -388,7 +491,7 @@ function addDiscordDivs(accountDiv) {
   
   const noDiscordDiv = accountDiv.append('div');
   noDiscordDiv.attr('id','hasDiscordFlagNo').append('p').append('b')
-    .text('Please enter a discord id.');
+    .text('Please enter a discord id (like @Coranos#4281).');
   noDiscordDiv
     .append('input').attr('id','new-discord').attr('type','text').attr('name','discord').attr('value','').attr('size','64');
 }
@@ -399,23 +502,14 @@ function addBotDivs(accountDiv) {
     .text('bot: ').append('span').attr('id','bot-text').text('??');
   yesBotDiv.append('input').attr('id','old-bot').attr('type','hidden').attr('name','bot').attr('value','');
   
-  const noBotDiv = accountDiv.append('div');
-  noBotDiv.attr('id','hasBotFlagNo').append('p').append('b').text('Please say if you are a bot.');
+  const botDiv = accountDiv.append('div');
+  botDiv.attr('id','hasBotFlagNo').append('p').append('b').text('Please say if you are a bot.');
   
-  const table = noBotDiv.append('table');
-  table.attr('class','solid_border centered_text');
-  const tr1 = table.append('tr');
-
-  const yesBot = tr1.append('th').attr('class','solid_border centered_text');
-  const noBot = tr1.append('th').attr('class','solid_border centered_text');
-  const maybeBot = tr1.append('th').attr('class','solid_border centered_text');
-  
-  yesBot.append('input').attr('id','new-bot').attr('type','radio').attr('name','bot').attr('value','yes');
-  yesBot.append('span').text('i am a bot');
-  noBot.append('input').attr('id','new-bot').attr('type','radio').attr('name','bot').attr('value','no');
-  noBot.append('span').text('i am not a bot');
-  maybeBot.append('input').attr('id','new-bot').attr('type','radio').attr('name','bot').attr('value','maybe').attr('checked',true);
-  maybeBot.append('span').text('i am not sure');
+  const botSelect = botDiv.append('select');
+  botSelect.attr('id','new-bot').attr('name','bot').attr('class','solid_border centered_text');
+  botSelect.append('option').attr('id','new-bot-maybe').attr('value','maybe').text('i am not sure if i am a bot');
+  botSelect.append('option').attr('id','new-bot-yes').attr('value','yes').text('i am a bot');
+  botSelect.append('option').attr('id','new-bot-no').attr('value','no').text('i am not a bot');
 }
 
 function reloadImages() {

@@ -43,7 +43,7 @@ then refresh and add it to .gitignore.
 ## keep gh-pages up to date with master
 git checkout gh-pages;git rebase master;git push origin gh-pages;git checkout master
 
-## force only most recent version
+## force only most recent version of coranos.github.io
 rm -rf .git;
 git init;
 git lfs uninstall;

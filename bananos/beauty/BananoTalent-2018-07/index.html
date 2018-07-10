@@ -2,7 +2,32 @@
 <html>
 <head>
 <meta charset="UTF-8" />
-<link rel="stylesheet" href="css/style.css" />
+<style>
+img[title=thumbnail] {
+  height: 100px;
+  max-width: 100%;
+  float: none;
+  overflow: auto;
+}
+
+table {
+  border: solid;
+  border-width: 0.5px;
+  font-family: monospace;
+}
+
+tr {
+  border: solid;
+  border-width: 0.5px;
+  font-family: monospace;
+}
+
+td {
+  border: solid;
+  border-width: 0.5px;
+  font-family: monospace;
+}
+</style>
 </head>
 <body onLoad="onLoad();">
   <div id="targetDiv"></div>
@@ -16,9 +41,10 @@
             if (xhr.overrideMimeType) {
               xhr.overrideMimeType('text/markdown');
             }
-          }
+          },
+          cache: false
         });
-        
+
         $.ajax({
           url : 'index.md',
           type : 'get',
@@ -26,6 +52,12 @@
           async : true,
           success : function (text) {
             var target = document.getElementById('targetDiv');
+
+            showdown.setOption('tables', 'true');
+            showdown.setOption('tablesHeaderId', 'true');
+            showdown.setOption('parseImgDimension', 'true');
+            showdown.setFlavor('github');
+
             var converter = new showdown.Converter();
             var html = converter.makeHtml(text);
             target.innerHTML = html;

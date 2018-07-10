@@ -13,6 +13,18 @@
   text-align: center;
 }
 
+.align_left {
+  text-align: left;
+}
+
+.align_center {
+  text-align: center;
+}
+
+.align_top {
+  vertical-align: top;
+}
+
 input.image[type="submit"] {
   display: none;
   border-width: 0px;
@@ -26,8 +38,6 @@ label {
   margin-left: 0px;
   margin-right: 0px;
   margin-bottom: -6px;
-  width: 150px;
-  height: 150px;
   font-size: 0px;
   position: relative;
   z-index: 0;
