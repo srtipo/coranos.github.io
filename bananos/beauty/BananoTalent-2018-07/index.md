@@ -25,6 +25,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 10     | @ mta#8913                          |
 | 11     | @ Soneliem#1646                     |
 | 12     | @ HappyBan#1585                     |
+| 13     | @ TeamJunglo_Parvulito#7388         |
 
 ### Contestants
 | Number | Discord Id             | Id Images | Banano Images | Videos                                      |
