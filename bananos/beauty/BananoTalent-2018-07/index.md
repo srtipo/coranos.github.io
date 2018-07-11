@@ -52,7 +52,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [02-id]: https://cdn.discordapp.com/attachments/465541920555401227/466662649417957387/received_1242899405844552.jpeg "thumbnail"
 [02-video-01]: https://youtu.be/I-4YO_ursLQ "video-1"
 
-[14-id]: https://m.imgur.com/0FkzRA3?r "thumbnail"
+[14-id]: https://i.imgur.com/0FkzRA3.jpg "thumbnail"
 
 ### Guidelines (Optional)
 		
