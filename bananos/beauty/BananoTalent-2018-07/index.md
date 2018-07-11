@@ -31,7 +31,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | Number | Discord Id             | Id Images | Banano Images | Videos                                      |
 |:------ | :--------------------- |:--------- |:------------- |:------------------------------------------- |
 | 1      | @ Bananoeira✌#4382     | ![01-id] |               | [01-video-01]  [01-video-02]                |
-| 2      | @ chjpmay1996#4174     | ![02_id] |               | [02-video-01]                               |
+| 2      | @ chjpmay1996#4174     | ![02-id] |               | [02-video-01]                               |
 | 3      | @ CristianO𝖋𝖔𝖎𝖘#2261    |          |               |                                             |
 | 4      | @ VOCHY#7216           |          |               |                                             |
 | 5      | @ gruvious#6760        |          |               |                                             |
@@ -43,13 +43,16 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 11     | @ GOllo Tatoo 56 #5364 |          |               |                                             |
 | 12     | @ Black Alladin#9201   |          |               |                                             |
 | 13     | @ IsaVillarroel#5381   |          |               |                                             |
+| 14     | @ Majoypunto#2112      | ![14-id] |               |                                             |
 
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
 [01-video-02]: https://www.youtube.com/watch?v=gAI456B1Wf4 "video-2"
 
-[02_id]: https://cdn.discordapp.com/attachments/465541920555401227/466662649417957387/received_1242899405844552.jpeg "thumbnail"
+[02-id]: https://cdn.discordapp.com/attachments/465541920555401227/466662649417957387/received_1242899405844552.jpeg "thumbnail"
 [02-video-01]: https://youtu.be/I-4YO_ursLQ "video-1"
+
+[14-id]: https://m.imgur.com/0FkzRA3?r "thumbnail"
 
 ### Guidelines (Optional)
 		
