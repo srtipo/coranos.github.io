@@ -18,33 +18,35 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 3      | @ Noodles For Me#3191               |
 | 4      | @ junglo steph#1771                 |
 | 5      | @ ESKA#0001                         |
-| 6      | @ Team Junglo Allan🇭🇳#0197         |
+| 6      | @ Team Junglo Allan🇭🇳#0197          |
 | 7      | @ bantano > HowToBANANO.info <#0286 |
-| 8      | @ ℬ𝓾𝓷𝓷𝓎ℬℯ𝒶𝓉★#9430                   |
+| 8      | @ ℬ𝓾𝓷𝓷𝓎ℬℯ𝒶𝓉★#9430                 |
 | 9      | @ altcoinage#5503                   |
 | 10     | @ mta#8913                          |
 | 11     | @ Soneliem#1646                     |
 | 12     | @ HappyBan#1585                     |
 | 13     | @ TeamJunglo_Parvulito#7388         |
+| 14     | @ Emerald Queen👸 TeamJunglo#4949   |
 
 ### Contestants
-| Number | Discord Id               | Id Images | Banano Images | Videos                                      |
-|:------ | :----------------------- |:--------- |:------------- |:------------------------------------------- |
-| 1      | @ Bananoeira✌#4382       | ![01-id] |               | [01-video-01]  [01-video-02]                |
-| 2      | @ chjpmay1996#4174       | ![02-id] |               | [02-video-01]                               |
-| 3      | @ CristianO𝖋𝖔𝖎𝖘#2261      |          |               |                                             |
-| 4      | @ VOCHY#7216             |          |               |                                             |
-| 5      | @ gruvious#6760          |          |               |                                             |
-| 6      | @ Coranos#4281           |          |               |                                             |
-| 7      | @ nam#8616               |          |               |                                             |
-| 8      | @ banastone#6876         |          |               |                                             |
-| 9      | @ oskita_20#3723         |          |               |                                             |
-| 10     | @ Rai of Sunshine#7580   |          |               |                                             |
-| 11     | @ GOllo Tatoo 56 #5364   |          |               |                                             |
-| 12     | @ Black Alladin#9201     |          |               |                                             |
-| 13     | @ IsaVillarroel#5381     |          |               |                                             |
-| 14     | @ Majoypunto#2112        | ![14-id] |               |                                             |
-| 15     | @ Super Betta Fish #3900 |          |               |                                             |
+| Number | Discord Id                   | Id Images | Banano Images | Videos                                      |
+|:------ | :--------------------------- |:--------- |:------------- |:------------------------------------------- |
+| 1      | @ Bananoeira✌#4382           | ![01-id] |               | [01-video-01]  [01-video-02]                |
+| 2      | @ chjpmay1996#4174           | ![02-id] |               | [02-video-01]                               |
+| 3      | @ CristianO𝖋𝖔𝖎𝖘#2261          |          |               |                                             |
+| 4      | @ VOCHY#7216                 |          |               |                                             |
+| 5      | @ gruvious#6760              |          |               |                                             |
+| 6      | @ Coranos#4281               |          |               |                                             |
+| 7      | @ nam#8616                   |          |               |                                             |
+| 8      | @ banastone#6876             |          |               |                                             |
+| 9      | @ oskita_20#3723             |          |               |                                             |
+| 10     | @ Rai of Sunshine#7580       |          |               |                                             |
+| 11     | @ GOllo Tatoo 56 #5364       |          |               |                                             |
+| 12     | @ Black Alladin#9201         |          |               |                                             |
+| 13     | @ IsaVillarroel#5381         |          |               |                                             |
+| 14     | @ Majoypunto#2112            | ![14-id] |               |                                             |
+| 15     | @ Super Betta Fish #3900     |          |               |                                             |
+| 16     | @ Team Junglo Arisbelyz#7758 |          |               |                                             |
 
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
