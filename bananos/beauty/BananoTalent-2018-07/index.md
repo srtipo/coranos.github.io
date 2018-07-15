@@ -5,6 +5,8 @@
 # 2.5 Nano
 # Contest Entry Deadline is Saturday July 21st 13:00 Caracas time, or 5:00 PM UTC
 
+# @ Coranos#4281 will be travelling this week, please give all submissions to @ Mayrapina#9547
+
 Top Prize 33% (83,000 BAN, 0.83 NANO)
 Tenth Prize 2% (5,000 BAN, 0.05 NANO)
 
