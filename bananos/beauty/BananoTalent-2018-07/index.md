@@ -46,7 +46,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 11     | @ GOllo Tatoo 56 #5364       |          |               |                                             |
 | 12     | @ Black Alladin#9201         |          |               |                                             |
 | 13     | @ IsaVillarroel#5381         |          |               |                                             |
-| 14     | @ Majoypunto#2112            | ![14-id] |               |                                             |
+| 14     | @ Majoypunto#2112            | ![14-id] |               | [14-video-01]                               |
 | 15     | @ Super Betta Fish #3900     |          |               |                                             |
 | 16     | @ Team Junglo Arisbelyz#7758 |          |               |                                             |
 | 17     | @ YayiHereira!#3902          |          |               |                                             |
@@ -61,6 +61,8 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [02-video-01]: https://youtu.be/I-4YO_ursLQ "video-1"
 
 [14-id]: https://i.imgur.com/0FkzRA3.jpg "thumbnail"
+
+[14-video-01]: https://youtu.be/uWHNaWtfOm0 "video-1"
 
 ### Guidelines (Optional)
 		
