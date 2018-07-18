@@ -106,3 +106,17 @@ https://cdn.discordapp.com/attachments/416341951416369153/431217071817359371/nan
 https://cdn.discordapp.com/attachments/416341951416369153/431222514555813898/raingod.jpg
 https://cdn.discordapp.com/attachments/416341951416369153/431258290635407360/red.jpg
 https://cdn.discordapp.com/attachments/416341951416369153/431288024823889930/mojo.jpg
+https://cdn.discordapp.com/attachments/416341951416369153/453935446645407745/IMG_20180606_055215.png
+https://cdn.discordapp.com/attachments/416341951416369153/453941275587248129/Screen_Shot_2018-06-06_at_15.26.11.png
+https://cdn.discordapp.com/attachments/416341951416369153/454000503920001024/IMG_20180606_135658_1528308418990.jpg
+https://cdn.discordapp.com/attachments/416341951416369153/454035537842536448/209ffa38c708e8e159c6474f1c03ca64.png
+https://cdn.discordapp.com/attachments/416341951416369153/454039676592979969/GAY.png
+https://cdn.discordapp.com/attachments/416341951416369153/454054792566800385/unnamed.jpg
+https://cdn.discordapp.com/attachments/416341951416369153/453590813125902396/unknown.png
+https://cdn.discordapp.com/attachments/416341951416369153/454087498692427806/unknown.png
+https://cdn.discordapp.com/attachments/416341951416369153/454138611210649600/descarga_3.jpg
+https://media.discordapp.net/attachments/416341951416369153/454157211703443456/jaydubs.png?width=421&height=541
+https://cdn.discordapp.com/attachments/416341951416369153/454175446779822080/bd69fuqzmd211.png
+https://media.discordapp.net/attachments/416341951416369153/454157211703443456/jaydubs.png?width=421&height=541
+https://cdn.discordapp.com/attachments/416341951416369153/454205323440291841/4112BCE6-6692-4229-80A0-292B62B40E32.png
+https://cdn.discordapp.com/attachments/416341951416369153/454205323440291841/4112BCE6-6692-4229-80A0-292B62B40E32.png
