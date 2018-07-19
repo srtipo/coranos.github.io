@@ -45,7 +45,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 10     | @ Rai of Sunshine#7580       |          |               |                                             |
 | 11     | @ GOllo Tatoo 56 #5364       |          |               |                                             |
 | 12     | @ Black Alladin#9201         |          |               |                                             |
-| 13     | @ IsaVillarroel#5381         |          |               |                                             |
+| 13     | @ IsaVillarroel#5381         |          |               | [13-video-01]                               |
 | 14     | @ Majoypunto#2112            | ![14-id] |               | [14-video-01]                               |
 | 15     | @ Super Betta Fish #3900     |          |               |                                             |
 | 16     | @ Team Junglo Arisbelyz#7758 |          |               |                                             |
@@ -63,6 +63,8 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [14-id]: https://i.imgur.com/0FkzRA3.jpg "thumbnail"
 
 [14-video-01]: https://youtu.be/uWHNaWtfOm0 "video-1"
+
+[13-video-01]: https://youtu.be/ksGeBP6mCCM "video-1"
 
 ### Guidelines (Optional)
 		
