@@ -50,11 +50,10 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 15     | @ Super Betta Fish #3900     |          |               |                                             |
 | 16     | @ Team Junglo Arisbelyz#7758 |          |               |                                             |
 | 17     | @ YayiHereira!#3902          |          |               |                                             |
-| 18     | @ todibananin2#8646          |          |               |                                             |
+| 18     | @ todibananin2#8646          | ![22-id] |               |                                             |
 | 19     | @ !Jesus Brito Del Kongo#0121|          |               |                                             |
 | 20     | @ IsaVillarroel#5381         |          |               | [20-video-01]                               |
 | 21     | @ Rai of Sunshine#7580       | ![21-id] |               |                                             |
-| 22     | @ todibananin2#8646          | ![22-id] |               |                                             |
 
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
@@ -77,7 +76,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 
 [21-id]: https://images-ext-1.discordapp.net/external/18QX0JbGPBpxybrKBJBuQmO2kVuXyjLISnRvU5_8srE/https/i.imgur.com/8s5FDfj.png "thumbnail"
 
-[22-id]: https://media.discordapp.net/attachments/469547508637368320/469550134573793291/image.jpg "thumbnail"
+[18-id]: https://media.discordapp.net/attachments/469547508637368320/469550134573793291/image.jpg "thumbnail"
 
 
 ### Guidelines (Optional)
