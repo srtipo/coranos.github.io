@@ -44,7 +44,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 8      | @ banastone#6876             |          |               |                                             |
 | 9      | @ oskita_20#3723             |          |               |                                             |
 | 10     | @ Rai of Sunshine#7580       |          |               |                                             |
-| 11     | @ GOllo Tatoo 56 #5364       |          |               |                                             |
+| 11     | @ GOllo Tatoo 56 #5364       | ![11-id] |               |                                             |
 | 12     | @ Black Alladin#9201         |          |               |                                             |
 | 13     | @ IsaVillarroel#5381         |          |               | [13-video-01]                               |
 | 14     | @ Majoypunto#2112            | ![14-id] |               | [14-video-01]                               |
@@ -66,6 +66,8 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [14-video-01]: https://youtu.be/uWHNaWtfOm0 "video-1"
 
 [13-video-01]: https://youtu.be/ksGeBP6mCCM "video-1"
+
+[11-id]: https://media.discordapp.net/attachments/468908705442824192/468909025959084052/DSC04425.JPG
 
 ### Guidelines (Optional)
 		
