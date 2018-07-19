@@ -52,6 +52,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 17     | @ YayiHereira!#3902          |          |               |                                             |
 | 18     | @ todibananin2#8646          |          |               |                                             |
 | 19     | @ !Jesus Brito Del Kongo#0121|          |               |                                             |
+| 20     | @ IsaVillarroel#5381         |          |               | [20-video-01]                               |
 
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
@@ -68,7 +69,9 @@ You are allowed to reuse submissions from previous contests if they show talent 
 
 [14-video-01]: https://youtu.be/uWHNaWtfOm0 "video-1"
 
-[13-video-01]: https://youtu.be/ksGeBP6mCCM "video-1"
+[20-video-01]: https://youtu.be/ksGeBP6mCCM "video-1"
+
+
 
 ### Guidelines (Optional)
 		
