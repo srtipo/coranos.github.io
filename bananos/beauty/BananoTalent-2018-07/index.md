@@ -50,7 +50,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 15     | @ Super Betta Fish #3900     |          |               |                                             |
 | 16     | @ Team Junglo Arisbelyz#7758 |          |               |                                             |
 | 17     | @ YayiHereira!#3902          |          |               |                                             |
-| 18     | @ todibananin2#8646          | ![22-id] |               |                                             |
+| 18     | @ todibananin2#8646          | ![18-id] |               |                                             |
 | 19     | @ !Jesus Brito Del Kongo#0121|          |               |                                             |
 | 20     | @ IsaVillarroel#5381         |          |               | [20-video-01]                               |
 | 21     | @ Rai of Sunshine#7580       | ![21-id] |               |                                             |
