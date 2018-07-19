@@ -38,7 +38,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 3      | @ CristianO𝖋𝖔𝖎𝖘#2261          |          |               |                                             |
 | 4      | @ VOCHY#7216                 |          |               |                                             |
 | 5      | @ gruvious#6760              |          |               |                                             |
-| 6      | @ Gollo Tattoo 56💎#5364      | ![02-id] |               |                                             |
+| 6      | @ Gollo Tattoo 56💎#5364      | ![06-id] |               |                                             |
 | 7      | @ nam#8616                   |          |               |                                             |
 | 8      | @ banastone#6876             |          |               |                                             |
 | 9      | @ oskita_20#3723             |          |               |                                             |
