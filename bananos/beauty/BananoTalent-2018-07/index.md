@@ -29,7 +29,6 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 12     | @ HappyBan#1585                     |
 | 13     | @ TeamJunglo_Parvulito#7388         |
 | 14     | @ Emerald Queen👸 TeamJunglo#4949   |
-| 15     | @ sipipao #8293
 
 ### Contestants
 | Number | Discord Id                   | Id Images | Banano Images | Videos                                      |
@@ -39,12 +38,12 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 3      | @ CristianO𝖋𝖔𝖎𝖘#2261          |          |               |                                             |
 | 4      | @ VOCHY#7216                 |          |               |                                             |
 | 5      | @ gruvious#6760              |          |               |                                             |
-| 6      | @ Coranos#4281               |          |               |                                             |
+| 6      | @ Gollo Tattoo 56💎#5364      | ![02-id] |               |                                             |
 | 7      | @ nam#8616                   |          |               |                                             |
 | 8      | @ banastone#6876             |          |               |                                             |
 | 9      | @ oskita_20#3723             |          |               |                                             |
 | 10     | @ Rai of Sunshine#7580       |          |               |                                             |
-| 11     | @ GOllo Tatoo 56 #5364       | ![11-id] |               |                                             |
+| 11     | @ GOllo Tatoo 56 #5364       |          |               |                                             |
 | 12     | @ Black Alladin#9201         |          |               |                                             |
 | 13     | @ IsaVillarroel#5381         |          |               | [13-video-01]                               |
 | 14     | @ Majoypunto#2112            | ![14-id] |               | [14-video-01]                               |
@@ -58,6 +57,10 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
 [01-video-02]: https://www.youtube.com/watch?v=gAI456B1Wf4 "video-2"
 
+[06-id]: https://media.discordapp.net/attachments/468908705442824192/468909025959084052/DSC04425.JPG "thumbnail"
+[06-video-01]: https://m.youtube.com/watch?v=uWQLxBJa_8Q "video-1"
+[06-video-02]: https://m.youtube.com/watch?v=4bRBkvKDuIo "video-2"
+
 [02-id]: https://cdn.discordapp.com/attachments/465541920555401227/466662649417957387/received_1242899405844552.jpeg "thumbnail"
 [02-video-01]: https://youtu.be/I-4YO_ursLQ "video-1"
 
@@ -66,8 +69,6 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [14-video-01]: https://youtu.be/uWHNaWtfOm0 "video-1"
 
 [13-video-01]: https://youtu.be/ksGeBP6mCCM "video-1"
-
-[11-id]: https://media.discordapp.net/attachments/468908705442824192/468909025959084052/DSC04425.JPG
 
 ### Guidelines (Optional)
 		
