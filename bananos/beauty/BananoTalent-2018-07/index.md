@@ -29,6 +29,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 12     | @ HappyBan#1585                     |
 | 13     | @ TeamJunglo_Parvulito#7388         |
 | 14     | @ Emerald Queen👸 TeamJunglo#4949   |
+| 15     | @ sipipao #8293
 
 ### Contestants
 | Number | Discord Id                   | Id Images | Banano Images | Videos                                      |
