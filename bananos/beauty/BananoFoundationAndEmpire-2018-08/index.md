@@ -23,13 +23,13 @@
 [01-video-02]: https://coranos.github.io/bananos/thanos/thananos.png "video-2"
 
 ### The Contest (Required)
-1- In the United States this would be called an "Elevator Pitch" contest.
+1. In the United States this would be called an "Elevator Pitch" contest.
 
-2- You have 1 image and 100 words to say what business you want to start, and how much it would cost to start it.
+2. You have 1 image and 100 words to say what business you want to start, and how much it would cost to start it.
 
-3- If you have no business idea, you can appeal for charity, you have 1 image and 100 words.
+3. If you have no business idea, you can appeal for charity, you have 1 image and 100 words.
 
-4- If you have no buisness idea, and no appeal for charity, you may submit a nutritious recipe, and how much it would cost to make, you have 1 image and 100 words.
+4. If you have no buisness idea, and no appeal for charity, you may submit a nutritious recipe, and how much it would cost to make, you have 1 image and 100 words.
 
 ### Guidelines (Optional)
 		
