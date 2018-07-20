@@ -31,6 +31,8 @@
 
 4. If you have no buisness idea, and no appeal for charity, you may submit a nutritious recipe, and how much it would cost to make, you have 1 image and 100 words.
 
+5. if you have no food, no appeal for charity, and no buisness ideas, may god have mercy on your soul.
+
 ### Guidelines (Optional)
 
 1. It is not necessary for you to be a citizen of the banana republic.  
