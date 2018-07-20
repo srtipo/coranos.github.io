@@ -59,7 +59,7 @@
 ### Judgement and timelines
 
 1. The jury has the last word when deciding the winner.
-(es)El jurado tiene la ultima palabra a la hora de decidir el ganador. 
+(es) El jurado tiene la ultima palabra a la hora de decidir el ganador. 
 
 2. There will be a grace period of 6 hours due to poor internet connections and power failures in some areas so judges can organize the submissions.
 (es) Habra un periodo de gracias de 6 horas debido a las malas conexiones a internet y fallas electricas en algunas zonas para asi organizarnos bien los jueces.
@@ -71,13 +71,13 @@
 (es) Actualizaciones de registros seran aceptados durante el periodo de gracia, una vez que envie sus fotos y video, no estara permitido que envie mas de estos. 
 
 5. All contestants will be judged individually.
-Todos los concursantes seran juzgados uno a uno, de pasar la primera fase de evaluacion estaran sus fotos al final de esta hoja.
+(es) Todos los concursantes seran juzgados uno a uno, de pasar la primera fase de evaluacion estaran sus fotos al final de esta hoja.
 
 6. Winners will be determined by Instant Runoff Voting.
-Los ganadores serán determinados por mayoría absoluta (sistema instant-runoff voting).
+(es) Los ganadores serán determinados por mayoría absoluta (sistema instant-runoff voting).
 
 7. The judge's votes will be published publicly for verification.
-Los votos de los jueces serán publicados para la verificación.
+(es) Los votos de los jueces serán publicados para la verificación.
 
 ### imágenes / videos e identificación
 
@@ -88,17 +88,17 @@ Los votos de los jueces serán publicados para la verificación.
 2. Please try to post the images on https://imgur.com/ and link to them. If you are not comfortable using your personal account, Coranos can host them for you.
 (es) Por favor trate de subir sus imágenes a https://imgur.com/ y envie un link de ellas. Si no se siente cómodo alojándolas en su cuenta personal, Coranos puede subirlas a su página.
 
-3. Please try to post the videos on https://www.youtube.com/ and link to them. If you are not comfortable using your personal account, Coranos can host them for you.
-(es) Por favor trate de publicar sus videos en https://www.youtube.com/ y enviar el link. Si no se siente cómodo usando su cuenta personal, Coranos puede publicarlos por usted.
-(pt) Por favor, tente postar os vídeos em https://www.youtube.com/ e linkar eles. Se você não se sentir confortável em usar sua conta pessoal, o Coranos poderá hospedá-los para você.
+3. Please try to post the videos on https://www.youtube.com/ and link to them. If you are not comfortable using your personal account, Coranos can host them for you.  
+(es) Por favor trate de publicar sus videos en https://www.youtube.com/ y enviar el link. Si no se siente cómodo usando su cuenta personal, Coranos puede publicarlos por usted.  
+(pt) Por favor, tente postar os vídeos em https://www.youtube.com/ e linkar eles. Se você não se sentir confortável em usar sua conta pessoal, o Coranos poderá hospedá-los para você.  
 
 * Imagen uno / identificacion
 * Images one / identification
 
-1. First photo, it must be the participant holding a paper with his ID and discord user name, The face must be visible.
+1. First photo, it must be the participant holding a paper with his ID and discord user name, The face must be visible.  
 (es) Primera foto, debe ser del participante sosteniendo un papel con su ID y nombre de usuarios de discord, El rostro debe ser visible. 
 
-2. Limit of 3 photos per contestant.
+2. Limit of 3 photos per contestant.  
 (es) Limite de 3 fotos por concursante.
 
 * Paragraph. (Required)
@@ -118,8 +118,8 @@ Los votos de los jueces serán publicados para la verificación.
 
 ### For the judges: Aspects to be evaluated
 
-* Deben votar en base a:
 * They must vote based on:
+* Deben votar en base a:
 
 1. Buisness case. Does it sound like the buisness would succeed or fail?
 
