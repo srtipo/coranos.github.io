@@ -32,12 +32,12 @@
 4. If you have no buisness idea, and no appeal for charity, you may submit a nutritious recipe, and how much it would cost to make, you have 1 image and 100 words.
 
 ### Guidelines (Optional)
-		
-	1- No es necesario que sea ciudadano de la Republica banano. 
-	1- It is not necessary for you to be a citizen of the banana republic.
-		
-	2- Usa tu imaginación, sé creativo.
-	2- Use your imagination, be creative.
+
+1. No es necesario que sea ciudadano de la Republica banano. 
+1. It is not necessary for you to be a citizen of the banana republic.
+
+2. Usa tu imaginación, sé creativo.
+2. Use your imagination, be creative.
 
 ### Rules (Required)
 		
