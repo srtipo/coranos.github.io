@@ -21,59 +21,10 @@ You are allowed to reuse submissions from previous contests if they show talent 
 ### Contestants
 | Number | Discord Id                   | Id Images | Banano Images | Videos                                      |
 |:------ | :--------------------------- |:--------- |:------------- |:------------------------------------------- |
-| 1      | @ Bananoeira✌#4382           | ![01-id] |               | [01-video-01]  [01-video-02]                |
-| 2      | @ chjpmay1996#4174           | ![02-id] |               | [02-video-01]                               |
-| 3      | @ CristianO𝖋𝖔𝖎𝖘#2261          |          |               |                                             |
-| 4      | @ VOCHY#7216                 |          |               |                                             |
-| 5      | @ gruvious#6760              |          |               |                                             |
-| 6      | @ Gollo Tattoo 56💎#5364     | ![06-id] |               | [06-video-01]  [06-video-02]                |
-| 7      | @ nam#8616                   |          |               |                                             |
-| 8      | @ banastone#6876             |          |               |                                             |
-| 9      | @ oskita_20#3723             |          |               | [09-video-01]                               |
-| 11     | @ Jim8888#8888               |          |               |                                             |
-| 12     | @ Black Alladin#9201         |          |               |                                             |
-| 14     | @ Majoypunto#2112            | ![14-id] |               | [14-video-01]                               |
-| 15     | @ Super Betta Fish #3900     |          |               |                                             |
-| 16     | @ Team Junglo Arisbelyz#7758 |          |               |                                             |
-| 17     | @ YayiHereira!#3902          |          |               |                                             |
-| 18     | @ todibananin2#8646          | ![18-id] |               |                                             |
-| 19     | @ !Jesus Brito Del Kongo#0121|          |               |                                             |
-| 20     | @ IsaVillarroel#5381         | ![20-id] | ![20-photo-01] ![20-photo-02] | [20-video-01]                         |
-| 21     | @ Rai of Sunshine#7580       | ![21-id] |               |                                             |
-| 23     | @ gorillaalbino#9474         | ![23-id] |               | [23-video-01]                               |
-| 24     | @ IsBemsh👽DonGoril#0467     | ![24-id] |               | [24-video-01]                               |
 
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
 [01-video-02]: https://www.youtube.com/watch?v=gAI456B1Wf4 "video-2"
-
-[02-id]: https://cdn.discordapp.com/attachments/465541920555401227/466662649417957387/received_1242899405844552.jpeg "thumbnail"
-[02-video-01]: https://youtu.be/I-4YO_ursLQ "video-1"
-
-[06-id]: https://media.discordapp.net/attachments/468908705442824192/468909025959084052/DSC04425.JPG "thumbnail"
-[06-video-01]: https://m.youtube.com/watch?v=uWQLxBJa_8Q "video-1"
-[06-video-02]: https://m.youtube.com/watch?v=4bRBkvKDuIo "video-2"
-
-[09-video-01]: https://youtu.be/3r6B13M8kh4 "video-1"
-
-[14-id]: https://i.imgur.com/0FkzRA3.jpg "thumbnail"
-[14-video-01]: https://youtu.be/uWHNaWtfOm0 "video-1"
-
-[18-id]: https://media.discordapp.net/attachments/469547508637368320/469550134573793291/image.jpg "thumbnail"
-
-[20-id]: https://cdn.discordapp.com/attachments/466351646000021505/469496981988048899/PSX_20180718_134718.jpg "thumbnail"
-[20-photo-01]: https://cdn.discordapp.com/attachments/466351646000021505/469497445685133312/PSX_20180718_135216.jpg "thumbnail"
-[20-photo-02]: https://cdn.discordapp.com/attachments/466351646000021505/469497446251233280/PSX_20180718_135336.jpg "thumbnail"
-[20-video-01]: https://youtu.be/ksGeBP6mCCM "video-1"
-
-[21-id]: https://images-ext-1.discordapp.net/external/18QX0JbGPBpxybrKBJBuQmO2kVuXyjLISnRvU5_8srE/https/i.imgur.com/8s5FDfj.png "thumbnail"
-
-[23-id]: https://i.imgur.com/YwCyyhS.jpg "thumbnail"
-[23-video-01]: https://www.youtube.com/watch?v=tPTzOoXncaw
-
-[24-id]: https://cdn.discordapp.com/attachments/469642660932616192/469757223782973441/IMG_20180719_212953.jpg "thumbnail"
-[24-video-01]: https://youtu.be/i-H0XLZ66dQ
-
 
 ### Guidelines (Optional)
 		
