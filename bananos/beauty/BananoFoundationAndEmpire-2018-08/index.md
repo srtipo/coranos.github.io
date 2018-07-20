@@ -23,57 +23,57 @@
 [01-video-02]: https://coranos.github.io/bananos/thanos/thananos.png "video-2"
 
 ### The Contest (Required)
-		1- In the United States this would be called an "Elevator Pitch" contest.
+	1- In the United States this would be called an "Elevator Pitch" contest.
 		
-		2- You have 1 image and 100 words to say what business you want to start, and how much it would cost to start it.
+	2- You have 1 image and 100 words to say what business you want to start, and how much it would cost to start it.
 		
-		3- If you have no business idea, you can appeal for charity, you have 1 image and 100 words.
+	3- If you have no business idea, you can appeal for charity, you have 1 image and 100 words.
 		
-		4- If you have no buisness idea, and no appeal for charity, you may submit a nutritious recipe, and how much it would cost to make, you have 1 image and 100 words.
+	4- If you have no buisness idea, and no appeal for charity, you may submit a nutritious recipe, and how much it would cost to make, you have 1 image and 100 words.
 
 ### Guidelines (Optional)
 		
-		1- No es necesario que sea ciudadano de la Republica banano. 
-		1- It is not necessary for you to be a citizen of the banana republic.
+	1- No es necesario que sea ciudadano de la Republica banano. 
+	1- It is not necessary for you to be a citizen of the banana republic.
 		
-		2- Usa tu imaginación, sé creativo.
-		2- Use your imagination, be creative.
+	2- Usa tu imaginación, sé creativo.
+	2- Use your imagination, be creative.
 
 ### Rules (Required)
 		
-		1- Todos los participantes deben ser mayores de edad. (18+)
-		1- All participants must be of legal age (18+)
+	1- Todos los participantes deben ser mayores de edad. (18+)
+	1- All participants must be of legal age (18+)
 		
-		2- Todas las fotos y videos tienen que ser legales y accede a que el concurso los use y sean visibles para el público (no sólo para los jueces). 
-		2- All photos and videos must be legal, and you agree the contest can use them for the contest, visible to the public (not just to judges). 
+	2- Todas las fotos y videos tienen que ser legales y accede a que el concurso los use y sean visibles para el público (no sólo para los jueces). 
+	2- All photos and videos must be legal, and you agree the contest can use them for the contest, visible to the public (not just to judges). 
 		
-		3- Evite incluir cualquier cosa que pueda permitir a otros acosarle, como su dirección de casa, etc. 
-		3- Avoid including anything that would help someone harrass you, like your street address.
+	3- Evite incluir cualquier cosa que pueda permitir a otros acosarle, como su dirección de casa, etc. 
+	3- Avoid including anything that would help someone harrass you, like your street address.
 		
 ### Juicios y lineas de tiempo
 
 ### Judgement and timelines
 
-		-El jurado tiene la ultima palabra a la hora de decidir el ganador. 
-		-The jury has the last word when deciding the winner.
+	-El jurado tiene la ultima palabra a la hora de decidir el ganador. 
+	-The jury has the last word when deciding the winner.
 		
-		-Habra un periodo de gracias de 6 horas debido a las malas conexiones a internet y fallas electricas en algunas zonas para asi organizarnos bien los jueces. 
-		-There will be a grace period of 6 hours due to poor internet connections and power failures in some areas so judges can organize the submissions.
+	-Habra un periodo de gracias de 6 horas debido a las malas conexiones a internet y fallas electricas en algunas zonas para asi organizarnos bien los jueces. 
+	-There will be a grace period of 6 hours due to poor internet connections and power failures in some areas so judges can organize the submissions.
 		
-		-Durante el tiempo de gracia antes mencionado estaran habilitados no los registros, por las fallas de internet, de igual manera asi que registrate temprano. 
-		-During the grace period mentioned above, new submissions will not be allowed, due to internet failures, so register early.
+	-Durante el tiempo de gracia antes mencionado estaran habilitados no los registros, por las fallas de internet, de igual manera asi que registrate temprano. 
+	-During the grace period mentioned above, new submissions will not be allowed, due to internet failures, so register early.
 		
-		- Actualizaciones de registros seran aceptados durante el periodo de gracia, una vez que envie sus fotos y video, no estara permitido que envie mas de estos. 
-		- Submission updates will be accepted during the grace period, once you submit your photos and video, you will not be allowed to send more of these.
+	- Actualizaciones de registros seran aceptados durante el periodo de gracia, una vez que envie sus fotos y video, no estara permitido que envie mas de estos. 
+	- Submission updates will be accepted during the grace period, once you submit your photos and video, you will not be allowed to send more of these.
 		
-		- Todos los concursantes seran juzgados uno a uno, de pasar la primera fase de evaluacion estaran sus fotos al final de esta hoja.
-		- All contestants will be judged individually.
+	- Todos los concursantes seran juzgados uno a uno, de pasar la primera fase de evaluacion estaran sus fotos al final de esta hoja.
+	- All contestants will be judged individually.
 
-		- Los ganadores serán determinados por mayoría absoluta (sistema instant-runoff voting).
-		- Winners will be determined by Instant Runoff Voting.
-		
-		- Los votos de los jueces serán publicados para la verificación.
-		- The judge's votes will be published publicly for verification.
+	- Los ganadores serán determinados por mayoría absoluta (sistema instant-runoff voting).
+	- Winners will be determined by Instant Runoff Voting.
+	
+	- Los votos de los jueces serán publicados para la verificación.
+	- The judge's votes will be published publicly for verification.
 
 ### Pagos
 
