@@ -33,7 +33,7 @@
 
 ### Guidelines (Optional)
 
-1. It is not necessary for you to be a citizen of the banana republic. 
+1. It is not necessary for you to be a citizen of the banana republic.  
 (es) No es necesario que sea ciudadano de la Republica banano.  
 
 
