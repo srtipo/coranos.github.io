@@ -38,10 +38,10 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 3      | @ CristianO𝖋𝖔𝖎𝖘#2261          |          |               |                                             |
 | 4      | @ VOCHY#7216                 |          |               |                                             |
 | 5      | @ gruvious#6760              |          |               |                                             |
-| 6      | @ Gollo Tattoo 56💎#5364      | ![06-id] |               | [06-video-01]  [01-video-02]                |
+| 6      | @ Gollo Tattoo 56💎#5364     | ![06-id] |               | [06-video-01]                               |
 | 7      | @ nam#8616                   |          |               |                                             |
 | 8      | @ banastone#6876             |          |               |                                             |
-| 9      | @ oskita_20#3723             |          |               |                                             |
+| 9      | @ oskita_20#3723             |          |               | [09-video-01]                               |
 | 10     | @ Rai of Sunshine#7580       |          |               |                                             |
 | 11     | @ Majoypunto#2112            |          |               | [11-video-01]                               |
 | 12     | @ Black Alladin#9201         |          |               |                                             |
@@ -54,29 +54,31 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 19     | @ !Jesus Brito Del Kongo#0121|          |               |                                             |
 | 20     | @ IsaVillarroel#5381         |          |               | [20-video-01]                               |
 | 21     | @ Rai of Sunshine#7580       | ![21-id] |               |                                             |
+| 22     | @ Jim8888#8888               |          |               |                                             |
 
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
 [01-video-02]: https://www.youtube.com/watch?v=gAI456B1Wf4 "video-2"
 
+[02-id]: https://cdn.discordapp.com/attachments/465541920555401227/466662649417957387/received_1242899405844552.jpeg "thumbnail"
+[02-video-01]: https://youtu.be/I-4YO_ursLQ "video-1"
+
 [06-id]: https://media.discordapp.net/attachments/468908705442824192/468909025959084052/DSC04425.JPG "thumbnail"
 [06-video-01]: https://m.youtube.com/watch?v=uWQLxBJa_8Q "video-1"
 [06-video-02]: https://m.youtube.com/watch?v=4bRBkvKDuIo "video-2"
 
-[02-id]: https://cdn.discordapp.com/attachments/465541920555401227/466662649417957387/received_1242899405844552.jpeg "thumbnail"
-[02-video-01]: https://youtu.be/I-4YO_ursLQ "video-1"
-
-[14-id]: https://i.imgur.com/0FkzRA3.jpg "thumbnail"
-
-[14-video-01]: https://youtu.be/uWHNaWtfOm0 "video-1"
-
-[20-video-01]: https://youtu.be/ksGeBP6mCCM "video-1"
+[09-video-01]: https://youtu.be/3r6B13M8kh4 "video-1"
 
 [11-video-01]: https://youtu.be/uWHNaWtfOm0 "video-1"
 
-[21-id]: https://images-ext-1.discordapp.net/external/18QX0JbGPBpxybrKBJBuQmO2kVuXyjLISnRvU5_8srE/https/i.imgur.com/8s5FDfj.png "thumbnail"
+[14-id]: https://i.imgur.com/0FkzRA3.jpg "thumbnail"
+[14-video-01]: https://youtu.be/uWHNaWtfOm0 "video-1"
 
 [18-id]: https://media.discordapp.net/attachments/469547508637368320/469550134573793291/image.jpg "thumbnail"
+
+[20-video-01]: https://youtu.be/ksGeBP6mCCM "video-1"
+
+[21-id]: https://images-ext-1.discordapp.net/external/18QX0JbGPBpxybrKBJBuQmO2kVuXyjLISnRvU5_8srE/https/i.imgur.com/8s5FDfj.png "thumbnail"
 
 
 ### Guidelines (Optional)
