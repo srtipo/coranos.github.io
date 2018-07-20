@@ -51,7 +51,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 17     | @ YayiHereira!#3902          |          |               |                                             |
 | 18     | @ todibananin2#8646          | ![18-id] |               |                                             |
 | 19     | @ !Jesus Brito Del Kongo#0121|          |               |                                             |
-| 20     | @ IsaVillarroel#5381         | ![20-id] | [20-p-01] [20-p-02] | [20-video-01]                         |
+| 20     | @ IsaVillarroel#5381         | ![20-id] | ![20-photo-01] ![20-photo-02] | [20-video-01]                         |
 | 21     | @ Rai of Sunshine#7580       | ![21-id] |               |                                             |
 | 23     | @ gorillaalbino#9474         | ![23-id] |               |                                             |
 | 24     | @ IsBemsh👽DonGoril#0467     | ![24-id] |               | [24-video-01]                               |
