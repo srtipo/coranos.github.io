@@ -27,42 +27,32 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [01-video-01]: https://coranos.github.io/bananos/thanos/thananos.png "video-1"
 [01-video-02]: https://coranos.github.io/bananos/thanos/thananos.png "video-2"
 
+### The Contest (Required)
+		1- In the United States this would be called an "Elevator Pitch" contest.
+		
+		2- You have 1 image and 100 words to say what business you want to start, and how much it would cost to start it.
+		3- If you have no business idea, you can appeal for charity, you have 1 image and 100 words.
+		
+		4- If you have no buisness idea, and no appeal for charity, you may submit a nutritious recipe, and how much it would cost to make, you have 1 image and 100 words.
+
 ### Guidelines (Optional)
 		
-		1- Use buena iluminación y lo mas natural posible, ni tan oscura ni tan brillante.
-		1- Use good lighting and as natural as possible, neither very dark nor very bright.
+		1- No es necesario que sea ciudadano de la Republica banano. 
+		1- It is not necessary for you to be a citizen of the banana republic.
 		
-		2- Use un fondo neutro que lo resalte, preferiblemente colores claros.
-		2- Use a neutral background that highlights you, light colors preferably.
-		
-		3- Usa tu imaginación, sé creativo.
-		3- Use your imagination, be creative.
-		
-		4- No es necesario que sea ciudadano de la Republica banano. 
-		4- It is not necessary for you to be a citizen of the banana republic.
+		2- Usa tu imaginación, sé creativo.
+		2- Use your imagination, be creative.
 
 ### Rules (Required)
 		
 		1- Todos los participantes deben ser mayores de edad. (18+)
 		1- All participants must be of legal age (18+)
 		
-		2- Un menor puede aparecer en la foto y en el video con el participante, pero tiene que estar vestido y cubierto de hombros a tobillos. 
-		2- A minor can be in the photo and the video with the contestant, but must have clothes covering shoulders to knees. 
+		2- Todas las fotos y videos tienen que ser legales y accede a que el concurso los use y sean visibles para el público (no sólo para los jueces). 
+		2- All photos and videos must be legal, and you agree the contest can use them for the contest, visible to the public (not just to judges). 
 		
-		3- Todas las fotos y videos tienen que ser legales y accede a que el concurso los use y sean visibles para el público (no sólo para los jueces). 
-		3- All photos and videos must be legal, and you agree the contest can use them for the contest, visible to the public (not just to judges). 
-		
-		4- No desnudos, no pornografia. 
-		4- No nudity, no pornography. 
-		
-		5- No seran validas las fotos con derecho de autor o sacadas de internet seran revisadas una a una. 
-		5- Copyrighted por professional photos are not valid, photos will be reviewed case by case. 
-		
-		6- Si usted es un fotógrafo profesional y quiere hacer autofotos, entonces no hay problema. 
-		6- If you are a professional photographer and want to make selfies, then there is no problem. 
-		
-		7- Evite incluir cualquier cosa que pueda permitir a otros acosarle, como su dirección de casa, etc. 
-		7- Avoid including anything that would help someone harrass you, like your street address.
+		3- Evite incluir cualquier cosa que pueda permitir a otros acosarle, como su dirección de casa, etc. 
+		3- Avoid including anything that would help someone harrass you, like your street address.
 		
 ### Juicios y lineas de tiempo
 
@@ -125,15 +115,10 @@ You are allowed to reuse submissions from previous contests if they show talent 
 
 ### images/ videos and identification
 
-		1- El concurso consistirá en una imágen de identificación, una (opcional) con bananas y un video (opcional).
-		1- The contest will consist of one verification image, one (optional) banano image, and one (optional) video.
+		1- The contest will consist of one verification image, one paragraph of up to 100 words, and one (optional) video.
 		
 		2- Por favor trate de subir sus imágenes a https://imgur.com/ y envie un link de ellas. Si no se siente cómodo alojándolas en su cuenta personal, Coranos puede subirlas a su página.
 		2- Please try to post the images on https://imgur.com/ and link to them. If you are not comfortable using your personal account, Coranos can host them for you.
-		
-		3- Discord a veces hace la calidad del video e imágen inferior a la original.
-		3- Discord sometimes makes the quality of the image lower than the original.
-
 
 		4- Please try to post the videos on https://www.youtube.com/ and link to them. If you are not comfortable using your personal account, Coranos can host them for you.
 		4- Por favor trate de publicar sus videos en https://www.youtube.com/ y enviar el link. Si no se siente cómodo usando su cuenta personal, Coranos puede publicarlos por usted.
@@ -150,50 +135,17 @@ You are allowed to reuse submissions from previous contests if they show talent 
 	
 		2- Limit of 3 photos per contestant.
 
-* Imagen dos: Banana (opcional)
-* Image two: Banano (optional)
+* Paragraph. (Required)
+		1- The paragraph describing your buisness idea or charity appeal may have between 1 and 100 words.
+		
+		2- The paragraph may be in any language.
+		
+		3- The Submission will be translated to English, by a staff translator. If we do not have a staff translator for the language, we will use google translate. (We have staff translators for Portuguese, Spanish, and Russian)
 
-		1- Segunda foto, fotografía de distinción, donde se muestra el talento del participante 
-		(por ejemplo, si tu talento es cocinar, la foto debe ser de usted cocinando o haciendo algo relacionado con esa actividad)
-		
-		1- Second photo, photo of distinction, where the talent of the participant is shown 
-		(for example, if your talent is cooking, the photo should be of you cooking or doing something related to that activity) 
-		
-		2- Debe tener un cartel que diga: #BananoCoin #TeamJunglo y ademas #MiTalento. El cartel no es transferible, 
-		es decir, no se permite dos o mas participantes con el mismo cartel, cada usuarios debe tener el suyo.
-		
-		2- It must have a sign that says: #BananoCoin #TeamJunglo and also #MyTalent. The poster is not transferable, 
-		that is, two or more participants with the same poster are not allowed, each user must have their own. 
-		
-		3- Limite de 3 fotos por concursante.
-		
-		3- Limit of 3 photos per contestant.
+* Video (Opcional)
+* Video (Optional)
 
-		Nota: Se tendra en cuenta los bananas y la creatividad.
-		Note: Bananas and creativity will be taken into account.
-		
-* Video (Obligatorio)
-
-* Video (Required)
-
-		1- El video consiste en demostrar su talento haciendo algo en lo que son buenos (se recomienda no extender mucho el video). 
-		En este caso, el video debe ser obligatorio, ya que estamos hablando de talentos, y debemos verificarlo. 
-		En algún punto del video debes distinguir tu cara.
-		
-		1- The video consists of demonstrating their talent by doing something they are good at (it is recommended not to extend the video a lot). 
-		In this case, the video must be mandatory, since we are talking about talents, and we must verify it. 
-		At some point in the video you must distinguish your face.
-
-		2- El talento puede ser: canto, interpretación instrumental, baile, monólogos, chistes, acrobacias, imitación, modelaje, magia, pintura, 
-		dibujo, diseño, maquillaje, peinados, artes marciales, cocina, imitaciones, deportes, manualidades o cualquier otra actividad que pueda ser considerado un talento.
-		2- The talent can be: singing, instrumental interpretation, dance, monologues, jokes, acrobatics, imitation, modeling, magic, painting, 
-		drawing, design, makeup, hairstyles, martial arts, cooking, imitations, sports, crafts or any other activity that can be considered a talent
-		
-		3- No desnudos, no pornografia.
-		3- Not naked, not pornography.
-		
-		4- Puede enviar un solo video, un máximo de dos videos, puede mostrar el mismo talento en ambos videos o en dos talentos diferentes.
-		4- You can send a single video, maximum two videos, you can show the same talent in both videos or two different talents.
+		1- If you believe you can make a strong case for your entry using a video, you may add one. It is optional, as it is hard to make good videos in parts of the world.
 
 ### Para los jueces: Aspectos a evaluar
 
@@ -202,20 +154,11 @@ You are allowed to reuse submissions from previous contests if they show talent 
 * Deben votar en base a:
 * They must vote based on:
 
-		1- Nivel de talento, ¿Que tan bien lo hace?
-		1- Level of talent, how well does the contestant perform?
+		1- Buisness case. Does it sound like the buisness would succeed or fail?
 		
-		2- Dominio del tema o actividad
-		2- Domain of the topic or activity.
+		2- Charity case. Does the charity appeal sound legitimate, or does it sound like a lazy way to get money?
 		
-		3- Otros factores como personalidad, originalidad tambien pueden ser evaluados.
-		3- Other factors such as personality, originality can also be evaluated.
-		
-		4- Creatividad
-		4- creativity
-
-* Nota: Recuerde, no es un concurso de belleza.
-* Note: Remember, it's not a beauty contest.
+		3- Food Recipie. Does the food sound like it is a good nutrition for the price?
 
 ### The contest is for all sexes.
 
