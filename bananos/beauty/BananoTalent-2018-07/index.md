@@ -45,7 +45,6 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 10     | @ Rai of Sunshine#7580       |          |               |                                             |
 | 11     | @ Jim8888#8888               |          |               |                                             |
 | 12     | @ Black Alladin#9201         |          |               |                                             |
-| 13     | @ IsaVillarroel#5381         |          |               | [13-video-01]                               |
 | 14     | @ Majoypunto#2112            | ![14-id] |               | [14-video-01]                               |
 | 15     | @ Super Betta Fish #3900     |          |               |                                             |
 | 16     | @ Team Junglo Arisbelyz#7758 |          |               |                                             |
