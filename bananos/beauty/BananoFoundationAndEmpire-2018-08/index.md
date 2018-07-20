@@ -42,14 +42,15 @@
 
 ### Rules (Required)
 		
-	1- Todos los participantes deben ser mayores de edad. (18+)
-	1- All participants must be of legal age (18+)
-		
-	2- Todas las fotos y videos tienen que ser legales y accede a que el concurso los use y sean visibles para el público (no sólo para los jueces). 
-	2- All photos and videos must be legal, and you agree the contest can use them for the contest, visible to the public (not just to judges). 
-		
-	3- Evite incluir cualquier cosa que pueda permitir a otros acosarle, como su dirección de casa, etc. 
-	3- Avoid including anything that would help someone harrass you, like your street address.
+1. All participants must be of legal age (18+)  
+(es) Todos los participantes deben ser mayores de edad. (18+)  
+
+2. All photos and videos must be legal, and you agree the contest can use them for the contest, visible to the public (not just to judges).  
+(es) Todas las fotos y videos tienen que ser legales y accede a que el concurso los use y sean visibles para el público (no sólo para los jueces).  
+
+3. Avoid including anything that would help someone harrass you, like your street address.  
+(es) Evite incluir cualquier cosa que pueda permitir a otros acosarle, como su dirección de casa, etc.  
+
 		
 ### Juicios y lineas de tiempo
 
