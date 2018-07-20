@@ -58,35 +58,35 @@
 
 ### Judgement and timelines
 
-1. The jury has the last word when deciding the winner.
-(es) El jurado tiene la ultima palabra a la hora de decidir el ganador. 
+1. The jury has the last word when deciding the winner.  
+(es) El jurado tiene la ultima palabra a la hora de decidir el ganador.   
 
-2. There will be a grace period of 6 hours due to poor internet connections and power failures in some areas so judges can organize the submissions.
-(es) Habra un periodo de gracias de 6 horas debido a las malas conexiones a internet y fallas electricas en algunas zonas para asi organizarnos bien los jueces.
+2. There will be a grace period of 6 hours due to poor internet connections and power failures in some areas so judges can organize the submissions.  
+(es) Habra un periodo de gracias de 6 horas debido a las malas conexiones a internet y fallas electricas en algunas zonas para asi organizarnos bien los jueces.  
 
-3. During the grace period mentioned above, new submissions will not be allowed, due to internet failures, so register early.
-(es) Durante el tiempo de gracia antes mencionado estaran habilitados no los registros, por las fallas de internet, de igual manera asi que registrate temprano. 
+3. During the grace period mentioned above, new submissions will not be allowed, due to internet failures, so register early.  
+(es) Durante el tiempo de gracia antes mencionado estaran habilitados no los registros, por las fallas de internet, de igual manera asi que registrate temprano.  
 	
-4. Submission updates will be accepted during the grace period, once you submit your photos and video, you will not be allowed to send more of these.
-(es) Actualizaciones de registros seran aceptados durante el periodo de gracia, una vez que envie sus fotos y video, no estara permitido que envie mas de estos. 
+4. Submission updates will be accepted during the grace period, once you submit your photos and video, you will not be allowed to send more of these.  
+(es) Actualizaciones de registros seran aceptados durante el periodo de gracia, una vez que envie sus fotos y video, no estara permitido que envie mas de estos.  
 
-5. All contestants will be judged individually.
-(es) Todos los concursantes seran juzgados uno a uno, de pasar la primera fase de evaluacion estaran sus fotos al final de esta hoja.
+5. All contestants will be judged individually.  
+(es) Todos los concursantes seran juzgados uno a uno, de pasar la primera fase de evaluacion estaran sus fotos al final de esta hoja.  
 
-6. Winners will be determined by Instant Runoff Voting.
-(es) Los ganadores serán determinados por mayoría absoluta (sistema instant-runoff voting).
+6. Winners will be determined by Instant Runoff Voting.  
+(es) Los ganadores serán determinados por mayoría absoluta (sistema instant-runoff voting).  
 
-7. The judge's votes will be published publicly for verification.
-(es) Los votos de los jueces serán publicados para la verificación.
+7. The judge's votes will be published publicly for verification.  
+(es) Los votos de los jueces serán publicados para la verificación.  
 
 ### imágenes / videos e identificación
 
 ### images/ videos and identification
 
-1. The contest will consist of one verification image, one paragraph of up to 100 words, and one (optional) video.
+1. The contest will consist of one verification image, one paragraph of up to 100 words, and one (optional) video.  
 
-2. Please try to post the images on https://imgur.com/ and link to them. If you are not comfortable using your personal account, Coranos can host them for you.
-(es) Por favor trate de subir sus imágenes a https://imgur.com/ y envie un link de ellas. Si no se siente cómodo alojándolas en su cuenta personal, Coranos puede subirlas a su página.
+2. Please try to post the images on https://imgur.com/ and link to them. If you are not comfortable using your personal account, Coranos can host them for you.  
+(es) Por favor trate de subir sus imágenes a https://imgur.com/ y envie un link de ellas. Si no se siente cómodo alojándolas en su cuenta personal, Coranos puede subirlas a su página.  
 
 3. Please try to post the videos on https://www.youtube.com/ and link to them. If you are not comfortable using your personal account, Coranos can host them for you.  
 (es) Por favor trate de publicar sus videos en https://www.youtube.com/ y enviar el link. Si no se siente cómodo usando su cuenta personal, Coranos puede publicarlos por usted.  
@@ -96,36 +96,36 @@
 * Images one / identification
 
 1. First photo, it must be the participant holding a paper with his ID and discord user name, The face must be visible.  
-(es) Primera foto, debe ser del participante sosteniendo un papel con su ID y nombre de usuarios de discord, El rostro debe ser visible. 
+(es) Primera foto, debe ser del participante sosteniendo un papel con su ID y nombre de usuarios de discord, El rostro debe ser visible.  
 
 2. Limit of 3 photos per contestant.  
-(es) Limite de 3 fotos por concursante.
+(es) Limite de 3 fotos por concursante.  
 
 * Paragraph. (Required)
 
-1. The paragraph describing your buisness idea or charity appeal may have between 1 and 100 words.
+1. The paragraph describing your buisness idea or charity appeal may have between 1 and 100 words.  
 
-2. The paragraph may be in any language.
+2. The paragraph may be in any language.  
 
-3. The Submission will be translated to English, by a staff translator. If we do not have a staff translator for the language, we will use google translate. (We have staff translators for Portuguese, Spanish, and Russian)
+3. The Submission will be translated to English, by a staff translator. If we do not have a staff translator for the language, we will use google translate. (We have staff translators for Portuguese, Spanish, and Russian)  
 
 * Video (Opcional)
 * Video (Optional)
 
-1. If you believe you can make a strong case for your entry using a video, you may add one. It is optional, as it is hard to make good videos in parts of the world.
+1. If you believe you can make a strong case for your entry using a video, you may add one. It is optional, as it is hard to make good videos in parts of the world.  
 
 ### Para los jueces: Aspectos a evaluar
 
 ### For the judges: Aspects to be evaluated
 
-* They must vote based on:
-* Deben votar en base a:
+* They must vote based on:  
+* Deben votar en base a:  
 
-1. Buisness case. Does it sound like the buisness would succeed or fail?
+1. Buisness case. Does it sound like the buisness would succeed or fail?  
 
-2. Charity case. Does the charity appeal sound legitimate, or does it sound like a lazy way to get money?
+2. Charity case. Does the charity appeal sound legitimate, or does it sound like a lazy way to get money?  
 
-3. Food Recipie. Does the food sound like it is a good nutrition for the price?
+3. Food Recipie. Does the food sound like it is a good nutrition for the price?  
 
 ### The contest is for all sexes.
 
