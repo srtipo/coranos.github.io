@@ -33,12 +33,12 @@
 
 ### Guidelines (Optional)
 
-1. It is not necessary for you to be a citizen of the banana republic.
-(es) No es necesario que sea ciudadano de la Republica banano. 
+1. It is not necessary for you to be a citizen of the banana republic. 
+(es) No es necesario que sea ciudadano de la Republica banano.  
 
 
-2. Use your imagination, be creative.
-(es) Usa tu imaginación, sé creativo.
+2. Use your imagination, be creative.  
+(es) Usa tu imaginación, sé creativo.  
 
 ### Rules (Required)
 		
