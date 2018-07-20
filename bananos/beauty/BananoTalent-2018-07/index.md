@@ -42,7 +42,6 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 7      | @ nam#8616                   |          |               |                                             |
 | 8      | @ banastone#6876             |          |               |                                             |
 | 9      | @ oskita_20#3723             |          |               | [09-video-01]                               |
-| 10     | @ Rai of Sunshine#7580       |          |               |                                             |
 | 11     | @ Jim8888#8888               |          |               |                                             |
 | 12     | @ Black Alladin#9201         |          |               |                                             |
 | 14     | @ Majoypunto#2112            | ![14-id] |               | [14-video-01]                               |
