@@ -52,7 +52,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 19     | @ !Jesus Brito Del Kongo#0121|          |               |                                             |
 | 20     | @ IsaVillarroel#5381         | ![20-id] | ![20-photo-01] ![20-photo-02] | [20-video-01]                         |
 | 21     | @ Rai of Sunshine#7580       | ![21-id] |               |                                             |
-| 23     | @ gorillaalbino#9474         | ![23-id] |               |                                             |
+| 23     | @ gorillaalbino#9474         | ![23-id] |               | [23-video-01]                               |
 | 24     | @ IsBemsh👽DonGoril#0467     | ![24-id] |               | [24-video-01]                               |
 
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
@@ -81,6 +81,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [21-id]: https://images-ext-1.discordapp.net/external/18QX0JbGPBpxybrKBJBuQmO2kVuXyjLISnRvU5_8srE/https/i.imgur.com/8s5FDfj.png "thumbnail"
 
 [23-id]: https://i.imgur.com/YwCyyhS.jpg "thumbnail"
+[23-video-01]: https://www.youtube.com/watch?v=tPTzOoXncaw
 
 [24-id]: https://cdn.discordapp.com/attachments/469642660932616192/469757223782973441/IMG_20180719_212953.jpg "thumbnail"
 [24-video-01]: https://youtu.be/i-H0XLZ66dQ
