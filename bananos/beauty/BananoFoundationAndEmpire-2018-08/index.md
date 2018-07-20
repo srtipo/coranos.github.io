@@ -21,10 +21,11 @@ You are allowed to reuse submissions from previous contests if they show talent 
 ### Contestants
 | Number | Discord Id                   | Id Images | Banano Images | Videos                                      |
 |:------ | :--------------------------- |:--------- |:------------- |:------------------------------------------- |
+| 1      | @ Thanos#4281                |![01-id]   |               | [01-video-01] [01-video-02]                 |
 
-[01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
-[01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
-[01-video-02]: https://www.youtube.com/watch?v=gAI456B1Wf4 "video-2"
+[01-id]: https://coranos.github.io/bananos/thanos/thananos.png "thumbnail"
+[01-video-01]: https://coranos.github.io/bananos/thanos/thananos.png "video-1"
+[01-video-02]: https://coranos.github.io/bananos/thanos/thananos.png "video-2"
 
 ### Guidelines (Optional)
 		
