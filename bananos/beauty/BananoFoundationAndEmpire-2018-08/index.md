@@ -2,16 +2,11 @@
 ![headline](??)
 # Business and Charity Contest Banano/Banano July 2018 - Community Contest - Sponsored by La Jungla and The Nano Center
 
-# 250,000 Banano
-# 2.5 Nano
-# Contest Entry Deadline is Saturday July 21st 13:00 Caracas time, or 5:00 PM UTC
+# 350,000 Banano
+# 80 Nano
+# Contest Entry Deadline is Saturday Aug 3rd 13:00 Caracas time, or 5:00 PM UTC
 
-# @ Coranos#4281 will be travelling this week, please give all submissions to @ Mayrapina#9547
-
-Top Prize 33% (83,000 BAN, 0.83 NANO)
-Tenth Prize 2% (5,000 BAN, 0.05 NANO)
-
-You are allowed to reuse submissions from previous contests if they show talent and did not win a prize. (But should probably add something new if you want to win).
+# Please send all submissions to @ Coranos#4281
 
 ### Judges
 | Number | Discord Id                         |
