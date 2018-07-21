@@ -142,7 +142,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [30-video-01]: https://youtu.be/ldXIp1zXxd0 "video-1"
 
 [31-id]: https://media.discordapp.net/attachments/470291812490412033/470292091516223518/PSX_20180721_131152.jpg "thumbnail"
-[32-video-01]: https://youtu.be/LnqJBEJJ5ic "video-1"
+[31-video-01]: https://youtu.be/LnqJBEJJ5ic "video-1"
 
 [32-id]: https://i.imgur.com/KtuXKRl.jpg "thumbnail"
 [32-photo-01]: https://i.imgur.com/3Go7KNk.jpg "thumbnail"
