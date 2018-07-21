@@ -42,7 +42,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 6      | @ Gollo Tattoo 56💎#5364      | ![06-id] |               | [06-video-01]  [06-video-02]                |
 | 7      | @ nam#8616                   |          |               |                                             |
 | 8      | @ banastone#6876             |          |               |                                             |
-| 9      | @ oskita_20#3723             |          |               | [09-video-01]                               |
+| 9      | @ oskita_20#3723             | ![09-id] |               | [09-video-01]                               |
 | 10     | @ azuLeto  pvp.me #1082      | ![10-id] |               | [10-video-01]  [10-video-02]                |
 | 11     | @ Jim8888#8888               |          |               |                                             |
 | 12     | @ Black Alladin#9201         |          |               |                                             |
@@ -80,6 +80,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [06-video-01]: https://m.youtube.com/watch?v=uWQLxBJa_8Q "video-1"
 [06-video-02]: https://m.youtube.com/watch?v=4bRBkvKDuIo "video-2"
 
+[09-id]: https://cdn.discordapp.com/attachments/465880092170780672/470177256707194880/IMG_20180720_233005.jpg "thumbnail"
 [09-video-01]: https://youtu.be/3r6B13M8kh4 "video-1"
 
 [10-id]: https://i.imgur.com/zjm02Hc.jpg "thumbnail"
