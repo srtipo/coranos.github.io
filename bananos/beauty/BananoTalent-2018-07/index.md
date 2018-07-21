@@ -42,7 +42,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 7      | @ nam#8616                   |          |               |                                             |
 | 8      | @ banastone#6876             |          |               |                                             |
 | 9      | @ oskita_20#3723             |          |               | [09-video-01]                               |
-| 10     | @ azuLeto  pvp.me #1082      | ![10-id] |               | [10-video-01] [10-video-02]                 |
+| 10     | @ azuLeto  pvp.me #1082      | ![10-id] |               | [10-video-01]  [10-video-02]                |
 | 11     | @ Jim8888#8888               |          |               |                                             |
 | 12     | @ Black Alladin#9201         |          |               |                                             |
 | 13     | @ Blixtann03#5414            | ![13-id] | ![13-photo-01] ![13-photo-02] | [13-video-01]                               |
