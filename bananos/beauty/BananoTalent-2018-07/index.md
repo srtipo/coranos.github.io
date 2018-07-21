@@ -69,7 +69,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 34     | @ Deacero1000#3856           | ![34-id] |                | [34-video-01]                              |
 | 35     | @ Monachita#2427             |          |                |                                            |
 | 36     | @ Andreiniana.👽.junglo#3438 | ![36-id] |                | [36-video-01]  [36-video-02]               |
-| 37     | @ carmizp #3326              |          |                |                                            |
+| 37     | @ carmizp #3326              |          |                | [37-video-01]                              |
 | 38     | @ thompsano#8149             | ![38-id] | ![38-photo-01] ![38-photo-02]|                              |
 
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
@@ -78,6 +78,9 @@ You are allowed to reuse submissions from previous contests if they show talent 
 
 [02-id]: https://cdn.discordapp.com/attachments/465541920555401227/466662649417957387/received_1242899405844552.jpeg "thumbnail"
 [02-video-01]: https://youtu.be/I-4YO_ursLQ "video-1"
+
+[05-id]: https://images-ext-1.discordapp.net/external/ZWaeehoYKza7qKXNXFjDOv2gdTWr3kExDfCA9TTW2c0/https/i.imgur.com/AJjG1va.jpg "thumbnail"
+[05-video-01]: https://youtu.be/yT0lh6TxKCE "video-1"
 
 [06-id]: https://media.discordapp.net/attachments/468908705442824192/468909025959084052/DSC04425.JPG "thumbnail"
 [06-video-01]: https://m.youtube.com/watch?v=uWQLxBJa_8Q "video-1"
@@ -158,9 +161,6 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [33-photo-02]: https://media.discordapp.net/attachments/470231580498198530/470234256786849792/IMG_20180721_100428.jpg "thumbnail"
 [33-video-01]: https://youtu.be/wI1tWWf3K9M "video-1"
 
-[05-id]: https://images-ext-1.discordapp.net/external/ZWaeehoYKza7qKXNXFjDOv2gdTWr3kExDfCA9TTW2c0/https/i.imgur.com/AJjG1va.jpg "thumbnail"
-[05-video-01]: https://youtu.be/yT0lh6TxKCE "video-1"
-
 [34-id]: https://images-ext-2.discordapp.net/external/ih35dOhKSlCKOSpujenU2t_b7qSOeE7Vno00qkXKZ4I/https/i.imgur.com/CycQLXo.jpg "thumbnail"
 [34-video-01]: https://youtu.be/xlBUJap2cd0 "video-1"
 
@@ -168,9 +168,11 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [36-video-01]: https://youtu.be/2EPm9bEDj1w "video-1"
 [36-video-02]: https://www.youtube.com/watch?v=6tWDskm_JTw "video-1"
 
-![38-id]: https://i.imgur.com/x3WB23i.jpg "thumbnail"
-![38-photo-01]: https://i.imgur.com/LDYysHL.jpg "thumbnail"
-![38-photo-02]: https://i.imgur.com/isB8v6Y.jpg "thumbnail"
+[37-video-01]: https://youtu.be/qc327TXuWbw "video-1"
+
+[38-id]: https://i.imgur.com/x3WB23i.jpg "thumbnail"
+[38-photo-01]: https://i.imgur.com/LDYysHL.jpg "thumbnail"
+[38-photo-02]: https://i.imgur.com/isB8v6Y.jpg "thumbnail"
 
 ### Guidelines (Optional)
 		
