@@ -69,6 +69,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 34     | @ Deacero1000#3856           | ![34-id] |                | [34-video-01]                              |
 | 35     | @ Monachita#2427             |          |                |                                            |
 | 36     | @ Andreiniana.👽.junglo#3438 |![36-id]  |                | [36-video-01]  [36-video-02]               |
+| 37     | @ @carmizp:kiss:#3326        |          |                |                                            |
 
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
