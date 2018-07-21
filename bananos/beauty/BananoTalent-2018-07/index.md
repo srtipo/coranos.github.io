@@ -63,7 +63,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 28     | @ Goliad293#6439             | ![28-id] |                | [28-video-01]                              |
 | 29     | @ jbrice#2496                | ![29-id] | ![29-photo-01] | [29-video-01]                              |
 | 30     | @ GreatDragonian#2741        | ![30-id] | ![30-photo-01] | [30-video-01]                              |
-| 31     | @ Maria*ST*#5727             | ![31-id] |                |                                            |
+| 31     | @ Maria*ST*#5727             | ![31-id] |                | [31-video-01]                              |
 | 32     | @ gruvious#6760              | ![32-id] | ![32-photo-01] | [32-video-01]                              |
 | 33     | @ jCristalla#6092            | ![33-id] | ![33-photo-01] ![33-photo-02] | [33-video-01]               |
 | 34     | @ Deacero1000#3856           | ![34-id] |                | [34-video-01]                              |
@@ -142,6 +142,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [30-video-01]: https://youtu.be/ldXIp1zXxd0 "video-1"
 
 [31-id]: https://media.discordapp.net/attachments/470291812490412033/470292091516223518/PSX_20180721_131152.jpg "thumbnail"
+[32-video-01]: https://youtu.be/LnqJBEJJ5ic "video-1"
 
 [32-id]: https://i.imgur.com/KtuXKRl.jpg "thumbnail"
 [32-photo-01]: https://i.imgur.com/3Go7KNk.jpg "thumbnail"
