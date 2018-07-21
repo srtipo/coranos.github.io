@@ -64,6 +64,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 29     | @ jbrice#2496                | ![29-id] | ![29-photo-01] | [29-video-01]                              |
 | 30     | @ GreatDragonian#2741        | ![30-id] | ![30-photo-01] | [30-video-01]                              |
 | 31     | @ Maria*ST*#5727             | ![31-id] |                |                                            |
+| 32     | @ gruvious#6760              | ![32-id] |                | [32-video-01]                              |
 
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
@@ -137,6 +138,10 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [30-video-01]: https://youtu.be/ldXIp1zXxd0 "video-1"
 
 [31-id]: https://media.discordapp.net/attachments/470291812490412033/470292091516223518/PSX_20180721_131152.jpg "thumbnail"
+
+[32-id]: https://i.imgur.com/KtuXKRl.jpg "thumbnail"
+[32-photo-01]: https://i.imgur.com/3Go7KNk.jpg "thumbnail"
+[32-video-01]: https://youtu.be/nz0vxBBea84 "video-1"
 
 ### Guidelines (Optional)
 		
