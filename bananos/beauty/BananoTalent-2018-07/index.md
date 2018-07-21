@@ -39,27 +39,27 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 3      | @ CristianO𝖋𝖔𝖎𝖘#2261          |          |               |                                             |
 | 4      | @ VOCHY#7216                 |          |               |                                             |
 | 5      | @ gruvious#6760              |          |               |                                             |
-| 6      | @ Gollo Tattoo 56💎#5364     | ![06-id] |               | [06-video-01]  [06-video-02]                |
+| 6      | @ Gollo Tattoo 56💎#5364      | ![06-id] |               | [06-video-01]  [06-video-02]                |
 | 7      | @ nam#8616                   |          |               |                                             |
 | 8      | @ banastone#6876             |          |               |                                             |
 | 9      | @ oskita_20#3723             |          |               | [09-video-01]                               |
 | 10     | @ azuLeto  pvp.me #1082      | ![10-id] |               | [10-video-01]  [10-video-02]                |
 | 11     | @ Jim8888#8888               |          |               |                                             |
 | 12     | @ Black Alladin#9201         |          |               |                                             |
-| 13     | @ Blixtann03#5414            | ![13-id] | ![13-photo-01] ![13-photo-02] | [13-video-01]                               |
+| 13     | @ Blixtann03#5414            | ![13-id] | ![13-photo-01] ![13-photo-02] | [13-video-01]               |
 | 14     | @ Majoypunto#2112            | ![14-id] |               | [14-video-01]                               |
 | 15     | @ Super Betta Fish #3900     |          |               |                                             |
 | 16     | @ Team Junglo Arisbelyz#7758 |          |               |                                             |
 | 17     | @ YayiHereira!#3902          |          |               |                                             |
 | 18     | @ todibananin2#8646          | ![18-id] |               |                                             |
 | 19     | @ !Jesus Brito Del Kongo#0121|          |               |                                             |
-| 20     | @ IsaVillarroel#5381         | ![20-id] | ![20-photo-01] ![20-photo-02] | [20-video-01]                         |
-| 21     | @ Rai of Sunshine#7580       | ![21-id] |               |                                             |
-| 23     | @ gorillaalbino#9474         | ![23-id] |               | [23-video-01]                               |
-| 24     | @ IsBemsh👽DonGoril#0467     | ![24-id] |               | [24-video-01]                               |
-| 25     | @ Algiorno#8968              | ![25-id] | ![25-photo-01] | [25-video-01]                               |
-| 26     | @ Tefytur La Exploradora#7742| ![26-id] | ![26-photo-01] ![26-photo-02] ![26-photo-03] | [26-video-01]                               |
-
+| 20     | @ IsaVillarroel#5381         | ![20-id] | ![20-photo-01] ![20-photo-02] | [20-video-01]               |
+| 21     | @ Rai of Sunshine#7580       | ![21-id] |                | [21-video-01]                              |
+| 23     | @ gorillaalbino#9474         | ![23-id] |                | [23-video-01]                              |
+| 24     | @ IsBemsh👽DonGoril#0467      | ![24-id] |                | [24-video-01]                              |
+| 25     | @ Algiorno#8968              | ![25-id] | ![25-photo-01] | [25-video-01]                              |
+| 26     | @ Tefytur La Exploradora#7742| ![26-id] | ![26-photo-01] ![26-photo-02] ![26-photo-03] | [26-video-01]|
+| 27     | @ Keysil#6623                | ![27-id] |                | [27-video-01]                              |
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
 [01-video-02]: https://www.youtube.com/watch?v=gAI456B1Wf4 "video-2"
@@ -93,22 +93,26 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [20-video-01]: https://youtu.be/ksGeBP6mCCM "video-1"
 
 [21-id]: https://images-ext-1.discordapp.net/external/18QX0JbGPBpxybrKBJBuQmO2kVuXyjLISnRvU5_8srE/https/i.imgur.com/8s5FDfj.png "thumbnail"
+[21-video-01]: https://www.youtube.com/watch?time_continue=138&v=qMgh_dxf7dg "video-1"
 
 [23-id]: https://i.imgur.com/YwCyyhS.jpg "thumbnail"
-[23-video-01]: https://www.youtube.com/watch?v=tPTzOoXncaw
+[23-video-01]: https://www.youtube.com/watch?v=tPTzOoXncaw "video-1"
 
 [24-id]: https://cdn.discordapp.com/attachments/469642660932616192/469757223782973441/IMG_20180719_212953.jpg "thumbnail"
 [24-video-01]: https://youtu.be/i-H0XLZ66dQ
 
 [25-id]: https://cdn.discordapp.com/attachments/446763126700900353/470040227969236993/IMG_20180720_200101.jpg "thumbnail"
 [25-photo-01]: https://cdn.discordapp.com/attachments/446763126700900353/470040529556602881/IMG_20180720_203204.jpg "thumbnail"
-[25-video-01]: https://www.youtube.com/watch?v=3OCbQw_M01Y
+[25-video-01]: https://www.youtube.com/watch?v=3OCbQw_M01Y "video-1"
 
 [26-id]: https://cdn.discordapp.com/attachments/446763126700900353/470093620930805771/IMG_20180720_194516.jpg "thumbnail"
 [26-photo-01]: https://cdn.discordapp.com/attachments/446763126700900353/470093774069039124/IMG_20180720_194853.jpg "thumbnail"
 [26-photo-02]: https://cdn.discordapp.com/attachments/446763126700900353/470094544327933963/IMG_20180720_195310.jpg "thumbnail"
 [26-photo-03]: https://cdn.discordapp.com/attachments/446763126700900353/470094699009671170/IMG_20180720_203433.jpg "thumbnail"
-[26-video-01]: https://youtu.be/PS7LvJMuhLs
+[26-video-01]: https://youtu.be/PS7LvJMuhLs "video-1"
+
+[27-id]: https://media.discordapp.net/attachments/469602133524611082/469642917229625365/IMG_20180719_190451.jpg "thumbnail"
+[27-video-01]: https://m.youtube.com/watch?v=6dsagAErIxs&feature=youtu.be "video-1"
 
 ### Guidelines (Optional)
 		
