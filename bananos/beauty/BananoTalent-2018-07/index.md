@@ -57,7 +57,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 23     | @ gorillaalbino#9474         | ![23-id] |               | [23-video-01]                               |
 | 24     | @ IsBemsh👽DonGoril#0467     | ![24-id] |               | [24-video-01]                               |
 | 25     | @ Algiorno#8968              | ![25-id] | ![25-photo-01] | [25-video-01]                               |
-| 26     | @ Tefytur.La Exploradora#7742| ![26-id] | ![26-photo-01] ![26-photo-02] ![26-photo-03] | [26-video-01]                               |
+| 26     | @ Tefytur La Exploradora#7742| ![26-id] | ![26-photo-01] ![26-photo-02] ![26-photo-03] | [26-video-01]                               |
 
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
