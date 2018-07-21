@@ -51,7 +51,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 15     | @ Super Betta Fish #3900     |          |               |                                             |
 | 16     | @ Team Junglo Arisbelyz#7758 |          |               |                                             |
 | 17     | @ YayiHereira!#3902          |          |               |                                             |
-| 18     | @ todibananin2#8646          | ![18-id] |               |                                             |
+| 18     | @ todibananin2#8646          | ![18-id] | ![18-photo-01] ![18-photo-02]|                              |
 | 19     | @ !Jesus Brito Del Kongo#0121|          |               |                                             |
 | 20     | @ IsaVillarroel#5381         | ![20-id] | ![20-photo-01] ![20-photo-02] | [20-video-01]               |
 | 21     | @ Rai of Sunshine#7580       | ![21-id] |                | [21-video-01]                              |
@@ -89,6 +89,8 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [14-video-01]: https://youtu.be/uWHNaWtfOm0 "video-1"
 
 [18-id]: https://media.discordapp.net/attachments/469547508637368320/469550134573793291/image.jpg "thumbnail"
+[18-photo-01]: https://media.discordapp.net/attachments/469547508637368320/470204808620408833/image.jpg "thumbnail"
+[18-photo-02]: https://media.discordapp.net/attachments/469547508637368320/470289490850611200/IMG_0574.JPG "thumbnail"
 
 [20-id]: https://cdn.discordapp.com/attachments/466351646000021505/469496981988048899/PSX_20180718_134718.jpg "thumbnail"
 [20-photo-01]: https://cdn.discordapp.com/attachments/466351646000021505/469497445685133312/PSX_20180718_135216.jpg "thumbnail"
