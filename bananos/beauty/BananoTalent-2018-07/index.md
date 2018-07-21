@@ -66,6 +66,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 31     | @ Maria*ST*#5727             | ![31-id] |                |                                            |
 | 32     | @ gruvious#6760              | ![32-id] | ![32-photo-01] | [32-video-01]                              |
 | 33     | @ jCristalla#6092            | ![33-id] | ![33-photo-01] ![33-photo-02] | [33-video-01]               |
+| 34     | @ Deacero1000#3856           | ![34-id] |                | [34-video-01]                              |
 
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
@@ -151,6 +152,9 @@ You are allowed to reuse submissions from previous contests if they show talent 
 
 [05-id]: https://images-ext-1.discordapp.net/external/ZWaeehoYKza7qKXNXFjDOv2gdTWr3kExDfCA9TTW2c0/https/i.imgur.com/AJjG1va.jpg "thumbnail"
 [05-video-01]: https://youtu.be/yT0lh6TxKCE "video-1"
+
+[34-id]: https://images-ext-2.discordapp.net/external/ih35dOhKSlCKOSpujenU2t_b7qSOeE7Vno00qkXKZ4I/https/i.imgur.com/CycQLXo.jpg "thumbnail"
+[34-video-01]: https://youtu.be/xlBUJap2cd0 "video-1"
 
 ### Guidelines (Optional)
 		
