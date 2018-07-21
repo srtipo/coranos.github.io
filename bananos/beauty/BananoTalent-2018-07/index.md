@@ -168,6 +168,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [36-video-01]: https://youtu.be/2EPm9bEDj1w "video-1"
 [36-video-02]: https://www.youtube.com/watch?v=6tWDskm_JTw "video-1"
 
+[37-id]: https://cdn.discordapp.com/attachments/451120099596697641/470379020010127370/IMG-20180623-WA0043.jpg "thumbnail"
 [37-video-01]: https://youtu.be/qc327TXuWbw "video-1"
 
 [38-id]: https://i.imgur.com/x3WB23i.jpg "thumbnail"
