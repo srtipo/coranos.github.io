@@ -38,7 +38,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 2      | @ chjpmay1996#4174           | ![02-id] |               | [02-video-01]                               |
 | 3      | @ CristianO𝖋𝖔𝖎𝖘#2261          |          |               |                                             |
 | 4      | @ VOCHY#7216                 |          |               |                                             |
-| 5      | @ gruvious#6760              |          |               |                                             |
+| 5      | @ gladiache#4650             | ![05-id] | [05-video-01] |                                             |
 | 6      | @ Gollo Tattoo 56💎#5364      | ![06-id] |               | [06-video-01]  [06-video-02]                |
 | 7      | @ nam#8616                   |          |               |                                             |
 | 8      | @ banastone#6876             |          |               |                                             |
@@ -148,6 +148,9 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [33-photo-01]: https://media.discordapp.net/attachments/470231580498198530/470234229008105483/IMG_20180721_100151.jpg "thumbnail"
 [33-photo-02]: https://media.discordapp.net/attachments/470231580498198530/470234256786849792/IMG_20180721_100428.jpg "thumbnail"
 [33-video-01]: https://youtu.be/wI1tWWf3K9M "video-1"
+
+[05-id]: https://images-ext-1.discordapp.net/external/ZWaeehoYKza7qKXNXFjDOv2gdTWr3kExDfCA9TTW2c0/https/i.imgur.com/AJjG1va.jpg "thumbnail"
+[05-video-01]: https://youtu.be/yT0lh6TxKCE "video-1"
 
 ### Guidelines (Optional)
 		
