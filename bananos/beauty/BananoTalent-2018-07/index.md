@@ -49,7 +49,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 13     | @ Blixtann03#5414            | ![13-id] | ![13-photo-01] ![13-photo-02] | [13-video-01]               |
 | 14     | @ Majoypunto#2112            | ![14-id] |               | [14-video-01]                               |
 | 15     | @ Super Betta Fish #3900     |          |               |                                             |
-| 16     | @ Team Junglo Arisbelyz#7758 | ![15-id] |![15-photo-01] ![15-photo-02] |                              |
+| 16     | @ Team Junglo Arisbelyz#7758 | ![15-id] |![15-photo-01] ![15-photo-02] ![15-photo-03]|                              |
 | 17     | @ YayiHereira!#3902          |          |               |                                             |
 | 18     | @ todibananin2#8646          | ![18-id] | ![18-photo-01] ![18-photo-02]| [18-video-01]                |
 | 19     | @ !Jesus Brito Del Kongo#0121|          |               |                                             |
@@ -95,6 +95,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [15-id]: https://i.imgur.com/qzYJwCB.jpg "thumbnail"
 [15-photo-01]: https://i.imgur.com/5K1g5Mw.jpg "thumbnail"
 [15-photo-02]: https://i.imgur.com/9c4oMBP.jpg "thumbnail"
+[15-photo-03]:https://i.imgur.com/pyRXJYA.jpg "thumbnail"
 
 [18-id]: https://media.discordapp.net/attachments/469547508637368320/469550134573793291/image.jpg "thumbnail"
 [18-photo-01]: https://media.discordapp.net/attachments/469547508637368320/470204808620408833/image.jpg "thumbnail"
