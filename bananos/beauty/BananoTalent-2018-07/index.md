@@ -56,6 +56,8 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 21     | @ Rai of Sunshine#7580       | ![21-id] |               |                                             |
 | 23     | @ gorillaalbino#9474         | ![23-id] |               | [23-video-01]                               |
 | 24     | @ IsBemsh👽DonGoril#0467     | ![24-id] |               | [24-video-01]                               |
+| 25     | @ Algiorno#8968              | ![25-id] |               | [25-video-01]                               |
+| 26     | @ Tefytur.La Exploradora#7742| ![26-id] | ![20-photo-01] ![20-photo-02] ![20-photo-03] | [26-video-01]                               |
 
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
@@ -95,6 +97,15 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [24-id]: https://cdn.discordapp.com/attachments/469642660932616192/469757223782973441/IMG_20180719_212953.jpg "thumbnail"
 [24-video-01]: https://youtu.be/i-H0XLZ66dQ
 
+[25-id]: https://cdn.discordapp.com/attachments/446763126700900353/470040227969236993/IMG_20180720_200101.jpg "thumbnail"
+[25-picture-01]: https://cdn.discordapp.com/attachments/446763126700900353/470040529556602881/IMG_20180720_203204.jpg "thumbnail"
+[25-video-01]: https://www.youtube.com/watch?v=3OCbQw_M01Y
+
+[26-id]: https://cdn.discordapp.com/attachments/446763126700900353/470093620930805771/IMG_20180720_194516.jpg "thumbnail"
+[26-picture-01]: https://cdn.discordapp.com/attachments/446763126700900353/470093774069039124/IMG_20180720_194853.jpg "thumbnail"
+[26-picture-02]: https://cdn.discordapp.com/attachments/446763126700900353/470094544327933963/IMG_20180720_195310.jpg "thumbnail"
+[26-picture-03]: https://cdn.discordapp.com/attachments/446763126700900353/470094699009671170/IMG_20180720_203433.jpg
+[26-video-01]: Video https://youtu.be/PS7LvJMuhLs
 
 ### Guidelines (Optional)
 		
