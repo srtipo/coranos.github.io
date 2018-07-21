@@ -42,6 +42,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 7      | @ nam#8616                   |          |               |                                             |
 | 8      | @ banastone#6876             |          |               |                                             |
 | 9      | @ oskita_20#3723             |          |               | [09-video-01]                               |
+| 10     | @ azuLeto  pvp.me #1082      | ![10-id] |               | [10-video-01] [10-video-02]                 |
 | 11     | @ Jim8888#8888               |          |               |                                             |
 | 12     | @ Black Alladin#9201         |          |               |                                             |
 | 14     | @ Majoypunto#2112            | ![14-id] |               | [14-video-01]                               |
@@ -67,6 +68,10 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [06-video-02]: https://m.youtube.com/watch?v=4bRBkvKDuIo "video-2"
 
 [09-video-01]: https://youtu.be/3r6B13M8kh4 "video-1"
+
+[10-id]: https://i.imgur.com/zjm02Hc.jpg "thumbnail"
+[10-video-01]: https://www.youtube.com/watch?v=HPI2TBJPpjM "video-1"
+[10-video-02]: https://www.youtube.com/watch?v=BbPmdILHn6Q "video-2"
 
 [14-id]: https://i.imgur.com/0FkzRA3.jpg "thumbnail"
 [14-video-01]: https://youtu.be/uWHNaWtfOm0 "video-1"
