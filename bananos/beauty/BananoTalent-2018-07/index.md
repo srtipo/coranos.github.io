@@ -53,7 +53,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 17     | @ YayiHereira!#3902          |          |               |                                             |
 | 18     | @ todibananin2#8646          | ![18-id] | ![18-photo-01] ![18-photo-02]| [18-video-01]                |
 | 19     | @ !Jesus Brito Del Kongo#0121|          |               |                                             |
-| 20     | @ IsaVillarroel#5381         | ![20-id] | ![20-photo-01] ![20-photo-02] | [20-video-01]               |
+| 20     | @ IsaVillarroel#5381         | ![20-id] | ![20-photo-01] ![20-photo-02] | [20-video-01] [20-video-02] |
 | 21     | @ Rai of Sunshine#7580       | ![21-id] |                | [21-video-01]                              |
 | 23     | @ gorillaalbino#9474         | ![23-id] |                | [23-video-01]                              |
 | 24     | @ IsBemsh👽DonGoril#0467      | ![24-id] |                | [24-video-01]                              |
@@ -105,6 +105,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [20-photo-01]: https://cdn.discordapp.com/attachments/466351646000021505/469497445685133312/PSX_20180718_135216.jpg "thumbnail"
 [20-photo-02]: https://cdn.discordapp.com/attachments/466351646000021505/469497446251233280/PSX_20180718_135336.jpg "thumbnail"
 [20-video-01]: https://youtu.be/ksGeBP6mCCM "video-1"
+[20-video-02]: https://youtu.be/a5w3HlQ_HVQ "video-2"
 
 [21-id]: https://images-ext-1.discordapp.net/external/18QX0JbGPBpxybrKBJBuQmO2kVuXyjLISnRvU5_8srE/https/i.imgur.com/8s5FDfj.png "thumbnail"
 [21-video-01]: https://www.youtube.com/watch?time_continue=138&v=qMgh_dxf7dg "video-1"
