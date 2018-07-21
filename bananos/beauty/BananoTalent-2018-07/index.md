@@ -68,8 +68,9 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 33     | @ jCristalla#6092            | ![33-id] | ![33-photo-01] ![33-photo-02] | [33-video-01]               |
 | 34     | @ Deacero1000#3856           | ![34-id] |                | [34-video-01]                              |
 | 35     | @ Monachita#2427             |          |                |                                            |
-| 36     | @ Andreiniana.👽.junglo#3438 |![36-id]  |                | [36-video-01]  [36-video-02]               |
-| 37     | @ @carmizp:kiss:#3326        |          |                |                                            |
+| 36     | @ Andreiniana.👽.junglo#3438 | ![36-id] |                | [36-video-01]  [36-video-02]               |
+| 37     | @ carmizp #3326              |          |                |                                            |
+| 38     | @ thompsano#8149             | ![38-id] | ![38-photo-01] ![38-photo-02]|                              |
 
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
@@ -167,7 +168,9 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [36-video-01]: https://youtu.be/2EPm9bEDj1w "video-1"
 [36-video-02]: https://www.youtube.com/watch?v=6tWDskm_JTw "video-1"
 
-
+![38-id]: https://i.imgur.com/x3WB23i.jpg "thumbnail"
+![38-photo-01]: https://i.imgur.com/LDYysHL.jpg "thumbnail"
+![38-photo-02]: https://i.imgur.com/isB8v6Y.jpg "thumbnail"
 
 ### Guidelines (Optional)
 		
