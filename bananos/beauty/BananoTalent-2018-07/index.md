@@ -51,7 +51,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 15     | @ Super Betta Fish #3900     |          |               |                                             |
 | 16     | @ Team Junglo Arisbelyz#7758 | ![15-id] |![15-photo-01] ![15-photo-02] |                              |
 | 17     | @ YayiHereira!#3902          |          |               |                                             |
-| 18     | @ todibananin2#8646          | ![18-id] | ![18-photo-01] ![18-photo-02]|                              |
+| 18     | @ todibananin2#8646          | ![18-id] | ![18-photo-01] ![18-photo-02]| [18-video-01]                |
 | 19     | @ !Jesus Brito Del Kongo#0121|          |               |                                             |
 | 20     | @ IsaVillarroel#5381         | ![20-id] | ![20-photo-01] ![20-photo-02] | [20-video-01]               |
 | 21     | @ Rai of Sunshine#7580       | ![21-id] |                | [21-video-01]                              |
@@ -62,6 +62,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 27     | @ Keysil#6623                | ![27-id] |                | [27-video-01]                              |
 | 28     | @ Goliad293#6439             | ![28-id] |                | [28-video-01]                              |
 | 29     | @ jbrice#2496                | ![29-id] | ![29-photo-01] | [29-video-01]                              |
+| 30     | @ GreatDragonian#2741        | ![30-id] | ![30-photo-01] | [30-video-01]                              |
 
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
@@ -90,9 +91,11 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [15-id]: https://i.imgur.com/qzYJwCB.jpg "thumbnail"
 [15-photo-01]: https://i.imgur.com/5K1g5Mw.jpg "thumbnail"
 [15-photo-02]: https://i.imgur.com/9c4oMBP.jpg "thumbnail"
+
 [18-id]: https://media.discordapp.net/attachments/469547508637368320/469550134573793291/image.jpg "thumbnail"
 [18-photo-01]: https://media.discordapp.net/attachments/469547508637368320/470204808620408833/image.jpg "thumbnail"
 [18-photo-02]: https://media.discordapp.net/attachments/469547508637368320/470289490850611200/IMG_0574.JPG "thumbnail"
+[18-video-01]: https://www.youtube.com/watch?v=dlrQhiWadvk "video-1"
 
 [20-id]: https://cdn.discordapp.com/attachments/466351646000021505/469496981988048899/PSX_20180718_134718.jpg "thumbnail"
 [20-photo-01]: https://cdn.discordapp.com/attachments/466351646000021505/469497445685133312/PSX_20180718_135216.jpg "thumbnail"
@@ -127,6 +130,10 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [29-id]: https://media.discordapp.net/attachments/455190548639121429/470241721859440641/P_20180720_220840_BF.jpg "thumbnail"
 [29-photo-01]: https://media.discordapp.net/attachments/455190548639121429/470241879112286208/P_20180720_220131_BF.jpg "thumbnail"
 [29-video-01]: https://www.youtube.com/watch?v=FnyPomN-Bgc "video-1"
+
+[30-id]: https://i.imgur.com/YrUVYIF.jpg "thumbnail"
+[30-photo-01]: https://media.discordapp.net/attachments/470271353644253194/470307975052132366/IMG_20180721_141458.jpg "thumbnail"
+[30-video-01]: https://youtu.be/ldXIp1zXxd0 "video-1"
 
 ### Guidelines (Optional)
 		
