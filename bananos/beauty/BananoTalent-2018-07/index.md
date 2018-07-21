@@ -60,6 +60,8 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 25     | @ Algiorno#8968              | ![25-id] | ![25-photo-01] | [25-video-01]                              |
 | 26     | @ Tefytur La Exploradora#7742| ![26-id] | ![26-photo-01] ![26-photo-02] ![26-photo-03] | [26-video-01]|
 | 27     | @ Keysil#6623                | ![27-id] |                | [27-video-01]                              |
+| 28     | @ Goliad293#6439             | ![28-id] |                | [28-video-01]                              |
+
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
 [01-video-02]: https://www.youtube.com/watch?v=gAI456B1Wf4 "video-2"
@@ -113,6 +115,9 @@ You are allowed to reuse submissions from previous contests if they show talent 
 
 [27-id]: https://media.discordapp.net/attachments/469602133524611082/469642917229625365/IMG_20180719_190451.jpg "thumbnail"
 [27-video-01]: https://m.youtube.com/watch?v=6dsagAErIxs&feature=youtu.be "video-1"
+
+[28-id]: https://images-ext-1.discordapp.net/external/1CHb1Zldj8wMnVdoCJpMmoh9uDU1ihjalNS5tNNPOWs/https/i.imgur.com/96Qsbzxh.jpg "thumbnail"
+[28-video-01]: https://www.youtube.com/watch?v=DCxBnwO6p5U&t=1s
 
 ### Guidelines (Optional)
 		
