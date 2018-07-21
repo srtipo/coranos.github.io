@@ -45,7 +45,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 10     | @ azuLeto  pvp.me #1082      | ![10-id] |               | [10-video-01] [10-video-02]                 |
 | 11     | @ Jim8888#8888               |          |               |                                             |
 | 12     | @ Black Alladin#9201         |          |               |                                             |
-| 13     | @ Blixtann03#5414            | ![13-id] |               |                                             |
+| 13     | @ Blixtann03#5414            | ![13-id] | ![13-photo-01]|                                             |
 | 14     | @ Majoypunto#2112            | ![14-id] |               | [14-video-01]                               |
 | 15     | @ Super Betta Fish #3900     |          |               |                                             |
 | 16     | @ Team Junglo Arisbelyz#7758 |          |               |                                             |
@@ -75,6 +75,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [10-video-02]: https://www.youtube.com/watch?v=BbPmdILHn6Q "video-2"
 
 [13-id]: https://cdn.discordapp.com/attachments/470021523768344596/470022604028116992/IMG_20180720_140805_11.jpg "thumbnail"
+[13-photo-01]: https://cdn.discordapp.com/attachments/470021523768344596/470023037694115840/IMG_20180720_140750_11.jpg
 
 [14-id]: https://i.imgur.com/0FkzRA3.jpg "thumbnail"
 [14-video-01]: https://youtu.be/uWHNaWtfOm0 "video-1"
