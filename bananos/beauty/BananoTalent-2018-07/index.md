@@ -38,7 +38,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 2      | @ chjpmay1996#4174           | ![02-id] |               | [02-video-01]                               |
 | 3      | @ CristianO𝖋𝖔𝖎𝖘#2261          |          |               |                                             |
 | 4      | @ VOCHY#7216                 |          |               |                                             |
-| 5      | @ gladiache#4650             | ![05-id] | [05-video-01] |                                             |
+| 5      | @ gladiache#4650             | ![05-id] |               | [05-video-01]                               |
 | 6      | @ Gollo Tattoo 56💎#5364      | ![06-id] |               | [06-video-01]  [06-video-02]                |
 | 7      | @ nam#8616                   |          |               |                                             |
 | 8      | @ banastone#6876             |          |               |                                             |
