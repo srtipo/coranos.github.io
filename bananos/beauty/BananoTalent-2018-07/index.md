@@ -104,8 +104,8 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [26-id]: https://cdn.discordapp.com/attachments/446763126700900353/470093620930805771/IMG_20180720_194516.jpg "thumbnail"
 [26-photo-01]: https://cdn.discordapp.com/attachments/446763126700900353/470093774069039124/IMG_20180720_194853.jpg "thumbnail"
 [26-photo-02]: https://cdn.discordapp.com/attachments/446763126700900353/470094544327933963/IMG_20180720_195310.jpg "thumbnail"
-[26-photo-03]: https://cdn.discordapp.com/attachments/446763126700900353/470094699009671170/IMG_20180720_203433.jpg
-[26-video-01]: Video https://youtu.be/PS7LvJMuhLs
+[26-photo-03]: https://cdn.discordapp.com/attachments/446763126700900353/470094699009671170/IMG_20180720_203433.jpg "thumbnail"
+[26-video-01]: https://youtu.be/PS7LvJMuhLs
 
 ### Guidelines (Optional)
 		
