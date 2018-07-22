@@ -1472,7 +1472,6 @@ https://cdn.discordapp.com/attachments/416341951416369153/448153653703081996/unk
 https://cdn.discordapp.com/attachments/416341951416369153/448159810358214656/bacl.jpg
 https://cdn.discordapp.com/attachments/416341951416369153/448167666478219265/unknown.png
 https://cdn.discordapp.com/attachments/416341951416369153/448184380402434068/unknown.png
-https://imgur.com/v09nDFu
 https://cdn.discordapp.com/attachments/416341951416369153/448205197387235348/unknown.png
 https://cdn.discordapp.com/attachments/416341951416369153/448206855790133259/unknown.png
 https://cdn.discordapp.com/attachments/416341951416369153/448209457499865088/faucet.png
@@ -1522,8 +1521,6 @@ https://cdn.discordapp.com/attachments/416341951416369153/449274870468182026/unn
 https://cdn.discordapp.com/attachments/416341951416369153/449328841652174870/wen.png
 https://cdn.discordapp.com/attachments/416341951416369153/449333552304095232/soo.png
 https://cdn.discordapp.com/attachments/416341951416369153/449344500117143553/gif_1.gif
-https://discordapp.com/assets/7757b499acbd14820e76d4bf228ffc86.svg
-https://giphy.com/gifs/dancing-dance-excited-IB9foBA4PVkKA
 https://cdn.discordapp.com/attachments/416341951416369153/449378639604219904/5afeda3651f9f579639492.gif
 https://cdn.discordapp.com/attachments/416341951416369153/449439880230207488/FB_IMG_1527225184913.jpg
 https://cdn.discordapp.com/attachments/416341951416369153/449492733665476608/MARS-folio-Banana.jpg
@@ -1560,7 +1557,6 @@ https://media.discordapp.net/attachments/416341951416369153/447499157851078676/b
 https://media.discordapp.net/attachments/416341951416369153/447499157851078676/banano.png?width=560&height=540
 https://cdn.discordapp.com/attachments/437770555525955584/449739566182825994/cnoo.png
 https://cdn.discordapp.com/attachments/416341951416369153/449745168283860992/Unbenannt.PNG
-https://discordpy.readthedocs.io/en/rewrite/api.html?highlight=Embed#discord.Embed
 https://cdn.discordapp.com/attachments/437770555525955584/449739566182825994/cnoo.png
 https://media.discordapp.net/attachments/416341951416369153/447499157851078676/banano.png?width=560&height=540
 https://cdn.discordapp.com/attachments/416341951416369153/449721332335378443/EwFyAmNdJ5yGyqnrBjf0Pgtz3q6iQHXtEFHuGwNrLDY.png
@@ -1853,7 +1849,6 @@ https://cdn.discordapp.com/attachments/416341951416369153/454251631630876673/IMG
 https://cdn.discordapp.com/attachments/416341951416369153/454254624032161800/IMG_20180607_080110.png
 https://cdn.discordapp.com/attachments/416341951416369153/454268071901659136/birth.jpg
 https://cdn.discordapp.com/attachments/416341951416369153/454269271275733005/unknown.png
-https://discordapp.com/channels/415935345075421194/416341951416369153
 https://media.discordapp.net/attachments/416341951416369153/449731097064898560/maestroyoda.png
 https://cdn.discordapp.com/attachments/416341951416369153/454286727524122624/deepfried_1528380761983.png
 https://cdn.discordapp.com/attachments/416341951416369153/454303693131612180/HARLEY.png
@@ -1976,7 +1971,6 @@ https://cdn.discordapp.com/attachments/416341951416369153/456366829397344269/IMG
 https://cdn.discordapp.com/attachments/416341951416369153/456411661809614849/Mematic_meme_20180613_065216.png
 https://cdn.discordapp.com/attachments/416341951416369153/456414276740186113/Night-Banner-1_new.jpg
 https://cdn.discordapp.com/attachments/416341951416369153/456416801895612418/main-qimg-2d2f73325b39d722aa8c257df3f7331d.jpeg
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFwa7k6R48HlJjfNfVm1HmJo6XxzALuscTFXfU-21cOe2bvA2yoQ
 https://cdn.discordapp.com/attachments/416341951416369153/456488295841529856/g5rEQRP5FX-4.png
 https://cdn.discordapp.com/attachments/416341951416369153/456491105341407235/overwatch-recall-animated-short_1200x500.jpg
 https://cdn.discordapp.com/attachments/416341951416369153/456494505005154304/unknown.png
