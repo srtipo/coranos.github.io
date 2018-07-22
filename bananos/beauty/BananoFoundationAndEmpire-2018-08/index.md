@@ -1,7 +1,7 @@
 
 ![headline](??)
 # Business and Charity Contest Banano/Banano July 2018 - Community Contest - Sponsored by La Jungla and The Nano Center
-[Imgur](https://i.imgur.com/BE2giLK.jpg)
+![Imgur](https://i.imgur.com/BE2giLK.jpg)
 # 350,000 Banano
 # 80 Nano
 # Contest Entry Deadline is Saturday Aug 3rd 13:00 Caracas time, or 5:00 PM UTC
