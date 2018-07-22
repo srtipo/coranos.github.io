@@ -182,7 +182,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 
 [39-id]: https://cdn.discordapp.com/attachments/470428793014583296/470486448630398977/37600776_10217106344189855_4635259878439387136_n.jpg "thumbnail"
 [39-photo-01]: https://cdn.discordapp.com/attachments/470428793014583296/470621053454909440/37705069_10217106345229881_8753807209458040832_n.jpg "thumbnail"
-[39-photo-02]: https://cdn.discordapp.com/attachments/470428793014583296/470617687056187423/37610807_10217106343149829_6612265506978136064_n.jpg "thumbnail"
+[39-photo-02]: https://cdn.discordapp.com/attachments/470428793014583296/470622440519630849/37674304_10217106343469837_9050328783751479296_n.jpg "thumbnail"
 [39-video-01]: https://www.youtube.com/watch?v=JZI18IkYGFw&feature=youtu.be "video-1"
 [39-video-02]: https://www.youtube.com/watch?v=maJNuaODXAQ&feature=youtu.be "video-2"
 
