@@ -188,15 +188,14 @@
 
       function onLoad () {
         jsonTable('#dataTable', {
-          head : [ 'adjust rank', 'rank', 'Contestant Number', 'Discord ID', 'Verification Photo<br> <small>Click For Larger Image</small>',
-              'Bananos<br> <small>Click For Larger Image</small>', 'Your Passion<br> <small>Click For Video' ],
+          head : [ 'adjust rank', 'rank', 'Contestant Number', 'Discord ID',],
           thClass : 'solid_border centered_text',
           trClass : 'solid_border',
           sortTable : false
         });
 
         let options = {};
-        options.json = [ 'adjust_rank', 'rank', 'contestant', 'discord', 'verification', 'banano', 'video' ];
+        options.json = [ 'adjust_rank', 'rank', 'contestant', 'discord'];
 
         $.ajaxSetup({
           beforeSend : function (xhr) {
