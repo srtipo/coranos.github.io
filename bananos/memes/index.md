@@ -217,7 +217,7 @@ https://cdn.discordapp.com/attachments/416341951416369153/422135415244324864/unk
 https://cdn.discordapp.com/attachments/416341951416369153/422148196224073749/LAUNCH.png
 https://cdn.discordapp.com/attachments/416341951416369153/422155233792360458/SPACEMAPmockup.png
 https://cdn.discordapp.com/attachments/416341951416369153/422155255258546187/nppbNtf.gif
-https://imgur.com/nppbNtf
+https://i.imgur.com/nppbNtf.gif
 https://cdn.discordapp.com/attachments/416341951416369153/422174795031904268/Icanhaz.jpg
 https://cdn.discordapp.com/attachments/416341951416369153/422197067197448203/zombomeme10032018200002.jpg
 https://cdn.discordapp.com/attachments/416341951416369153/422198921478275074/zombomeme10032018200736.jpg
