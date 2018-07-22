@@ -154,7 +154,6 @@ https://cdn.discordapp.com/attachments/416341951416369153/418872346640908290/ope
 https://cdn.discordapp.com/attachments/416341951416369153/418899149040123922/unknown.png
 https://cdn.discordapp.com/attachments/416341951416369153/418908027240972299/unknown.png
 https://cdn.discordapp.com/attachments/416341951416369153/418917534956388356/Banana-Bunker.png
-https://tenor.com/view/jack-ass-banana-dick-prank-steveo-lol-gif-3428748
 https://cdn.discordapp.com/attachments/416341951416369153/419214471257653260/banana096.gif
 https://cdn.discordapp.com/attachments/416341951416369153/419247527754334239/unknown.png
 https://cdn.discordapp.com/attachments/416341951416369153/419250324855980033/bananocat.gif
