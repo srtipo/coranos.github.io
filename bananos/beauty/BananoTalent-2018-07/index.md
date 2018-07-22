@@ -71,7 +71,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 36     | @ Andreiniana.👽.junglo#3438  | ![36-id] | ![36-photo-01] ![36-photo-02] | [36-video-01]  [36-video-02] [36-video-03]|
 | 37     | @ carmizp #3326              |          |                | [37-video-01]                              |
 | 38     | @ thompsano#8149             | ![38-id] | ![38-photo-01] ![38-photo-02]|                              |
-| 39     | @ ashleybananin2             | ![39-id] | ![39-photo-01] ![39-photo-02] | [39-video-01]               |
+| 39     | @ ashleybananin2             | ![39-id] | ![39-photo-01] ![39-photo-02] | [39-video-01]  [39-video-02]|
 
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
@@ -184,6 +184,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [39-photo-01]: https://cdn.discordapp.com/attachments/470428793014583296/470486528695599114/37623915_10217106344629866_7813738185187393536_n.jpg "thumbnail"
 [39-photo-02]: https://cdn.discordapp.com/attachments/470428793014583296/470486631091142677/37705069_10217106345229881_8753807209458040832_n.jpg "thumbnail"
 [39-video-01]: https://www.youtube.com/watch?v=JZI18IkYGFw&feature=youtu.be "video-1"
+[39-video-02]: https://www.youtube.com/watch?v=maJNuaODXAQ&feature=youtu.be "video-2"
 
 ### Guidelines (Optional)
 		
