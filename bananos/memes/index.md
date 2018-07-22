@@ -165,7 +165,6 @@ https://cdn.discordapp.com/attachments/416341951416369153/420199266737324032/No_
 https://cdn.discordapp.com/attachments/416341951416369153/420199329442037770/Make_It_Rain.png
 https://cdn.discordapp.com/attachments/416341951416369153/420199388002910208/Banano_Whale_2.png
 https://cdn.discordapp.com/attachments/416341951416369153/420386217352364043/photo.png
-https://tse3.mm.bing.net/th?id=OIP.4JXhilADLr9hLxXKjJRHIgHaHa&pid=Api
 https://cdn.discordapp.com/attachments/416341951416369153/420839455973179393/unknown.png
 https://cdn.discordapp.com/attachments/416341951416369153/420992673881522186/Bananotypo.jpg
 https://cdn.discordapp.com/attachments/416341951416369153/421081659618623488/unknown.png
