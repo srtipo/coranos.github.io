@@ -1535,9 +1535,6 @@ https://cdn.discordapp.com/attachments/416341951416369153/448284160461897728/bot
 https://cdn.discordapp.com/attachments/416341951416369153/448284160461897728/bot.png
 https://cdn.discordapp.com/attachments/416341951416369153/449657295161262091/unknown.png
 https://cdn.discordapp.com/attachments/416341951416369153/449720659229147137/largelogo.png
-https://gfycat.com/ShrillBrilliantCorydorascatfish
-https://gfycat.com/VariableBigArcherfish
-https://gfycat.com/UnevenEmotionalKitfox
 https://i.imgur.com/MXjJZfU.png
 https://cdn.discordapp.com/attachments/416341951416369153/449721332335378443/EwFyAmNdJ5yGyqnrBjf0Pgtz3q6iQHXtEFHuGwNrLDY.png
 https://cdn.discordapp.com/attachments/416341951416369153/449721610128064517/20170502_144105.jpg
@@ -1550,10 +1547,6 @@ https://cdn.discordapp.com/attachments/416341951416369153/449723856249159701/5Rf
 https://cdn.discordapp.com/attachments/416341951416369153/449721332335378443/EwFyAmNdJ5yGyqnrBjf0Pgtz3q6iQHXtEFHuGwNrLDY.png
 https://cdn.discordapp.com/attachments/416341951416369153/449723856249159701/5RfgX-y7QbZG4pfRIctCFY-6VMtb2_dP6vCVA1A6lxQ.png
 https://media.discordapp.net/attachments/416341951416369153/447499157851078676/banano.png?width=560&height=540
-https://gfycat.com/UnevenEmotionalKitfox
-https://gfycat.com/BothHospitableGemsbok
-https://gfycat.com/ShrillBrilliantCorydorascatfish
-https://gfycat.com/ShrillBrilliantCorydorascatfish
 https://cdn.discordapp.com/attachments/416341951416369153/449726965436383232/1527293618661.jpg
 https://cdn.discordapp.com/attachments/416341951416369153/449727241505734657/unknown.png
 https://cdn.discordapp.com/attachments/416341951416369153/449729178787512322/meme.11.PNG
