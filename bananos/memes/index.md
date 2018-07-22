@@ -149,7 +149,6 @@ https://cdn.discordapp.com/attachments/416341951416369153/418825410441379861/unk
 https://cdn.discordapp.com/attachments/416341951416369153/418830920460664832/banano.jpg
 https://cdn.discordapp.com/attachments/416341951416369153/418841254915211274/unknown.png
 https://cdn.discordapp.com/attachments/416341951416369153/418846659028582420/image.jpg
-https://gfycat.com/ElatedOrnateAtlanticridleyturtle
 https://cdn.discordapp.com/attachments/416341951416369153/418861610531291137/heres_banano.png
 https://cdn.discordapp.com/attachments/416341951416369153/418872346640908290/open-uri20151016-3-320iwu.gif
 https://cdn.discordapp.com/attachments/416341951416369153/418899149040123922/unknown.png
