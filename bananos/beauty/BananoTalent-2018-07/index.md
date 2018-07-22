@@ -49,7 +49,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 13     | @ Blixtann03#5414            | ![13-id] | ![13-photo-01] ![13-photo-02] | [13-video-01]               |
 | 14     | @ Majoypunto#2112            | ![14-id] |               | [14-video-01]                               |
 | 15     | @ Super Betta Fish #3900     |          |               |                                             |
-| 16     | @ Team Junglo Arisbelyz#7758 | ![15-id] |![15-photo-01] ![15-photo-02] ![15-photo-03]|![15-video-01]  |
+| 16     | @ Team Junglo Arisbelyz#7758 | ![15-id] |![15-photo-01] ![15-photo-02]![15-photo-03]| [15-video-01]  |
 | 17     | @ YayiHereira!#3902          |          |               |                                             |
 | 18     | @ todibananin2#8646          | ![18-id] | ![18-photo-01] ![18-photo-02]| [18-video-01]                |
 | 19     | @ !Jesus Brito Del Kongo#0121|          |               |                                             |
