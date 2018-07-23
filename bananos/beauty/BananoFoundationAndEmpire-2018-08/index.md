@@ -29,9 +29,13 @@
 
 3. If you have no business idea, you can appeal for charity, you have 1 image and 100 words.
 
-4. If you have no buisness idea, and no appeal for charity, you may submit a nutritious recipe, and how much it would cost to make, you have 1 image and 100 words.
+4. If you have no business idea, and no appeal for charity, you may submit a nutritious recipe, and how much it would cost to make, you have 1 image and 100 words.
 
-5. if you have no food, no appeal for charity, and no buisness ideas, may god have mercy on your soul.
+5. if you have no food recipe, no appeal for charity, and no business ideas, may god have mercy on your soul.
+
+### Payment
+
+1. Judges will evaluate every recipe, charity, and business
 
 ### Guidelines (Optional)
 
@@ -103,7 +107,7 @@
 
 * Paragraph. (Required)
 
-1. The paragraph describing your buisness idea or charity appeal may have between 1 and 100 words.  
+1. The paragraph describing your business idea or charity appeal may have between 1 and 100 words.  
 
 2. The paragraph may be in any language.  
 
@@ -121,7 +125,7 @@
 * They must vote based on:  
 * Deben votar en base a:  
 
-1. Buisness case. Does it sound like the buisness would succeed or fail?  
+1. Business case. Does it sound like the business would succeed or fail?  
 
 2. Charity case. Does the charity appeal sound legitimate, or does it sound like a lazy way to get money?  
 
