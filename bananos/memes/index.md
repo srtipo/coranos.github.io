@@ -1938,9 +1938,7 @@ https://cdn.discordapp.com/attachments/416341951416369153/455668206829568010/50c
 https://cdn.discordapp.com/attachments/416341951416369153/455729078482239498/meme.jpg
 https://cdn.discordapp.com/attachments/416341951416369153/455739112796979222/35087341_1587425461383705_2038315685393727488_n.jpg
 https://cdn.discordapp.com/attachments/416341951416369153/455749281228521483/9925387-ilustracion-del-banano-geneticamente-enfurecido1.jpg
-https://cdn.discordapp.com/attachments/416341951416369153/455826021334384650/PhotoGridLite_1528747460549.jpg
-https://discordapp.com/channels/415935345075421194/416341951416369153
-https://cdn.discordapp.com/attachments/416341951416369153/455826101835661349/PhotoGridLite_1528747612486.jpg
+https://cdn.discordapp.com/attachments/416341951416369153/455826021334384650/PhotoGridLite_1528747460549.jpghttps://cdn.discordapp.com/attachments/416341951416369153/455826101835661349/PhotoGridLite_1528747612486.jpg
 https://cdn.discordapp.com/attachments/416341951416369153/455834768722886657/poopmybirthday.jpg
 https://cdn.discordapp.com/attachments/416341951416369153/449723856249159701/5RfgX-y7QbZG4pfRIctCFY-6VMtb2_dP6vCVA1A6lxQ.png
 https://media.giphy.com/media/dJ4TOGSTLgCLcxETe4/giphy.gif
