@@ -46,26 +46,32 @@
 ### Payment
 
 1. Judges will evaluate every recipe, charity, and business idea and if they seem plausable they will either fund them fully or partially. Judges have final say. Any extra funds will be distributed to the contestants at the judge's discretion.
+(es) Los jueces evaluarán cada receta, caridad e idea de negocio, y si parecen plausibles, los financiarán total o parcialmente. Los jueces tienen la última palabra. Los fondos adicionales se distribuirán a los concursantes a discreción del juez.
+(pg) Os juízes avaliarão cada receita, caridade e ideia de negócio e, se parecerem plausíveis, os financiarão total ou parcialmente. Os juízes têm a palavra final. Quaisquer fundos extras serão distribuídos aos competidores a critério do juiz.
 
 ### Guidelines (Optional)
 
 1. It is not necessary for you to be a citizen of the banana republic.  
-(es) No es necesario que sea ciudadano de la Republica banano.  
-
+(es) No es necesario que sea ciudadano de la Republica banano.
+(pg) Não é necessário que você seja um cidadão da república das bananas.
 
 2. Use your imagination, be creative.  
-(es) Usa tu imaginación, sé creativo.  
+(es) Usa tu imaginación, sé creativo.
+(pg) Use sua imaginação, seja criativo.
 
 ### Rules (Required)
 		
-1. All participants must be of legal age (18+)  
-(es) Todos los participantes deben ser mayores de edad. (18+)  
+1. All participants must be of legal age (18+).  
+(es) Todos los participantes deben ser mayores de edad. (18+).
+(pg) Todos os participantes devem ter idade legal (18 anos ou mais).
 
 2. All photos and videos must be legal, and you agree the contest can use them for the contest, visible to the public (not just to judges).  
-(es) Todas las fotos y videos tienen que ser legales y accede a que el concurso los use y sean visibles para el público (no sólo para los jueces).  
+(es) Todas las fotos y videos tienen que ser legales y accede a que el concurso los use y sean visibles para el público (no sólo para los jueces).
+(pg) Todas as fotos e vídeos devem ser legais, e você concorda que o concurso pode usá-los para o concurso, visível para o público (não apenas para os juízes).
 
 3. Avoid including anything that would help someone harrass you, like your street address.  
-(es) Evite incluir cualquier cosa que pueda permitir a otros acosarle, como su dirección de casa, etc.  
+(es) Evite incluir cualquier cosa que pueda permitir a otros acosarle, como su dirección de casa, etc.
+(pg) Evite incluir algo que ajude alguém a atormentá-lo, como seu endereço.
 
 		
 ### Juicios y lineas de tiempo
@@ -73,25 +79,32 @@
 ### Judgement and timelines
 
 1. The jury has the last word when deciding the winner.  
-(es) El jurado tiene la ultima palabra a la hora de decidir el ganador.   
+(es) El jurado tiene la ultima palabra a la hora de decidir el ganador.
+(pg) O júri tem a última palavra ao decidir o vencedor.
 
 2. There will be a grace period of 6 hours due to poor internet connections and power failures in some areas so judges can organize the submissions.  
-(es) Habra un periodo de gracias de 6 horas debido a las malas conexiones a internet y fallas electricas en algunas zonas para asi organizarnos bien los jueces.  
+(es) Habra un periodo de gracias de 6 horas debido a las malas conexiones a internet y fallas electricas en algunas zonas para asi organizarnos bien los jueces.
+(pg) Haverá um período de carência de 6 horas devido a conexões deficientes com a Internet e falhas de energia em algumas áreas, para que os juízes possam organizar as submissões.
 
 3. During the grace period mentioned above, new submissions will not be allowed, due to internet failures, so register early.  
-(es) Durante el tiempo de gracia antes mencionado estaran habilitados no los registros, por las fallas de internet, de igual manera asi que registrate temprano.  
+(es) Durante el tiempo de gracia antes mencionado estaran habilitados no los registros, por las fallas de internet, de igual manera asi que registrate temprano.
+(pg) Durante o período de carência mencionado acima, novas submissões não serão permitidas devido a falhas na Internet, portanto, registre-se antecipadamente.
 	
 4. Submission updates will be accepted during the grace period, once you submit your photos and video, you will not be allowed to send more of these.  
-(es) Actualizaciones de registros seran aceptados durante el periodo de gracia, una vez que envie sus fotos y video, no estara permitido que envie mas de estos.  
+(es) Actualizaciones de registros seran aceptados durante el periodo de gracia, una vez que envie sus fotos y video, no estara permitido que envie mas de estos.
+(pg) As atualizações de envio serão aceitas durante o período de carência. Depois de enviar suas fotos e vídeos, você não poderá enviar mais deles.
 
 5. All contestants will be judged individually.  
-(es) Todos los concursantes seran juzgados uno a uno, de pasar la primera fase de evaluacion estaran sus fotos al final de esta hoja.  
+(es) Todos los concursantes seran juzgados individualmente.
+(pg) Todos os concorrentes serão julgados individualmente.
 
 6. Winners will be determined by Instant Runoff Voting.  
-(es) Los ganadores serán determinados por mayoría absoluta (sistema instant-runoff voting).  
+(es) Los ganadores serán determinados por mayoría absoluta (sistema instant-runoff voting).
+(pg) Os vencedores serão determinados pela votação Instant Runoff.
 
 7. The judge's votes will be published publicly for verification.  
-(es) Los votos de los jueces serán publicados para la verificación.  
+(es) Los votos de los jueces serán publicados para la verificación.
+(pg) Os votos do juiz serão publicados publicamente para verificação.
 
 ### imágenes / videos e identificación
 
