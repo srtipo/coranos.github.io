@@ -24,14 +24,24 @@
 
 ### The Contest (Required)
 1. In the United States this would be called an "Elevator Pitch" contest.
+(es) En los Estados Unidos esto se llamaría un concurso "Elevador Pitch".
+(pg) Nos Estados Unidos, isso seria chamado de concurso "Elevator Pitch".
 
 2. You have 1 image and 100 words to say what business you want to start, and how much it would cost to start it.
+(es) Tiene 1 imagen y 100 palabras para decir qué negocio desea iniciar y cuánto le costaría comenzarlo.
+(pg) Você tem 1 imagem e 100 palavras para dizer o negócio que deseja iniciar e quanto custaria para iniciá-lo.
 
 3. If you have no business idea, you can appeal for charity, you have 1 image and 100 words.
+(es) Si no tiene una idea comercial, puede apelar a la caridad, tiene 1 imagen y 100 palabras.
+(pg) Se você não tem ideia de negócio, pode apelar por caridade, você tem 1 imagem e 100 palavras.
 
 4. If you have no business idea, and no appeal for charity, you may submit a nutritious recipe, and how much it would cost to make, you have 1 image and 100 words.
+(es) Si no tiene una idea comercial y no tiene un llamamiento a la caridad, puede presentar una receta nutritiva y cuánto le costaría hacer, tiene 1 imagen y 100 palabras.
+(pg) Se você não tem uma ideia de negócio, e não tem apelo por caridade, você pode enviar uma receita nutritiva, e quanto custaria fazer, você tem 1 imagem e 100 palavras.
 
 5. if you have no food recipe, no appeal for charity, and no business ideas, may god have mercy on your soul.
+(es) si no tiene una receta de comida, ninguna apelación a la caridad y ninguna idea comercial, que Dios tenga piedad de su alma.
+(pg) se você não tem receita de comida, nenhum apelo por caridade, e nenhuma ideia de negócio, que Deus tenha piedade de sua alma.
 
 ### Payment
 
