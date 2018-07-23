@@ -35,7 +35,7 @@
 
 ### Payment
 
-1. Judges will evaluate every recipe, charity, and business
+1. Judges will evaluate every recipe, charity, and business idea and if they seem plausable they will either fund them fully or partially. Judges have final say. Any extra funds will be distributed to the contestants at the judge's discretion.
 
 ### Guidelines (Optional)
 
