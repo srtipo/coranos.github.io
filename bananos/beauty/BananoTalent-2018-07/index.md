@@ -58,7 +58,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 23     | @ gorillaalbino#9474         | ![23-id] |                | [23-video-01]                              |
 | 24     | @ IsBemsh👽DonGoril#0467     | ![24-id] |                | [24-video-01]                              |
 | 25     | @ Algiorno Oficial! # 8968   | ![25-id] | ![25-photo-01] | [25-video-01]                              |
-| 26     | @ Tefytur La Exploradora#7742| ![26-id] | ![26-photo-01] ![26-photo-02] ![26-photo-03] | [26-video-01]|
+| 26     | @ Tefytur.La Exploradora#7742| ![26-id] | ![26-photo-01] ![26-photo-02] ![26-photo-03] | [26-video-01]|
 | 27     | @ Keysil#6623                | ![27-id] |                | [27-video-01]                              |
 | 28     | @ Goliad293#6439             | ![28-id] |                | [28-video-01]                              |
 | 29     | @ jbrice#2496                | ![29-id] | ![29-photo-01] | [29-video-01]                              |
