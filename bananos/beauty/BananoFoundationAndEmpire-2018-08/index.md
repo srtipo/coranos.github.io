@@ -13,9 +13,11 @@
 | 1      | @ Coranos#4281                      |
 
 ### Contestants
-| Number | Discord Id                   | Id Images | Banano Images | Videos                                      |
-|:------ | :--------------------------- |:--------- |:------------- |:------------------------------------------- |
-| 1      | @ Thanos#4281                |![01-id]   |               | [01-video-01] [01-video-02]                 |
+| Number | Discord Id                   | Id Images | Paragraph | Video                                         |
+|:------ | :--------------------------- |:--------- |:--------- |:-------------------------------------------   |
+| 1      | @ Thanos#4281                |![01-id]   |           | [01-video-01] [01-video-02]                   |
+| 2      | @ Cati#1130                  |![01-id]   | I want to help needy people with instant vegterian food | |
+
 
 [01-id]: https://coranos.github.io/bananos/thanos/thananos.png "thumbnail"
 [01-video-01]: https://coranos.github.io/bananos/thanos/thananos.png "video-1"
