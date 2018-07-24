@@ -73,7 +73,7 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 38     | @ thompsano#8149             | ![38-id] | ![38-photo-01] ![38-photo-02]|                              |
 | 39     | @ ashleybananin2             | ![39-id] | ![39-photo-01] ![39-photo-02] ![39-photo-03] | [39-video-01]  [39-video-02]|
 | 40     | @ thepainter#0485            | ![40-id] |                | [40-video-01]                              |
-| 41     | @ RaphyVzla#0610             | ![41-id] | [41-photo-01]  |                                            |
+| 41     | @ RaphyVzla#0610             | ![41-id] | ![41-photo-01]  |                                            |
 
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
