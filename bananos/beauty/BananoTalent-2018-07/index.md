@@ -72,6 +72,8 @@ You are allowed to reuse submissions from previous contests if they show talent 
 | 37     | @ carmizp #3326              |          |                | [37-video-01]                              |
 | 38     | @ thompsano#8149             | ![38-id] | ![38-photo-01] ![38-photo-02]|                              |
 | 39     | @ ashleybananin2             | ![39-id] | ![39-photo-01] ![39-photo-02] ![39-photo-03] | [39-video-01]  [39-video-02]|
+| 40     | @ thepainter#0485            | ![40-id] |                | [40-video-01]                              |
+| 41     | @ RaphyVzla#0610             | ![41-id] | [41-photo-01]  |                                            |
 
 [01-id]: https://media.discordapp.net/attachments/452157226321313803/465569234265571349/ArcSoft_Imagen2.jpg "thumbnail"
 [01-video-01]: https://www.youtube.com/watch?v=rt0AJKMJPk8 "video-1"
@@ -186,6 +188,11 @@ You are allowed to reuse submissions from previous contests if they show talent 
 [39-photo-03]:  https://cdn.discordapp.com/attachments/457541612860604418/470691713912930305/image.jpg "thumbnail"
 [39-video-01]: https://www.youtube.com/watch?v=JZI18IkYGFw&feature=youtu.be "video-1"
 [39-video-02]: https://www.youtube.com/watch?v=maJNuaODXAQ&feature=youtu.be "video-2"
+
+
+[40-video-01]: https://www.youtube.com/watch?v=Lybl199fEHs "video-1"
+
+[41-photo-01]: https://cdn.discordapp.com/attachments/446036710753566729/471131507621232640/bananus3.png "thumbnail"
 
 ### Guidelines (Optional)
 		
