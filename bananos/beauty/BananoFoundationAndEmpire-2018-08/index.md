@@ -16,7 +16,7 @@
 | Number | Discord Id                   | Id Images | Paragraph | Video                                         | Estimated Cost (BAN) |
 |:------ | :--------------------------- |:--------- |:--------- |:-------------------------------------------   |:-- |
 | 1      | @ Thanos#4281                |![01-id]   |           | [01-video-01] [01-video-02]                   | 20 |
-| 2      | @ Cati#1130                  |![01-id]   | we can buy some computer with the rewards and looking for people who need work and give online work like recaptchas and surveys, so that help them and the bussiness will be sustainable. | |    |
+| 2      | @ Cati#1130                  |![01-id]   | This idea started almost 2 years ago, my boyfriend and I, started working with cryptocurrency, and in the beginning it was too hard, but we saw that is better and healthier work from home than to work for a boss, and can make more than a regular Venezuela's salary. For that reason the idea is to buy at least 6 laptops that we can use to employ people people that need to make some money for theirs families. They can work with ReCaptcha's Systems and surveys, there are many way to make money on internet, so we give work to some people, and also the project can increase with the time, and help more people!! | |    |
 
 
 [01-id]: https://coranos.github.io/bananos/thanos/thananos.png "thumbnail"
