@@ -153,7 +153,54 @@ meme list
 | 149 | @!Jesus Brito Del Kongo#0121   | 2018-07-17 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468798189948895255/Lol.png) |
 | 150 | @Astronauta Phi hành gia#9644   | 2018-07-17 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468771065850757140/banano-x-bbk.gif) |
 | 151 |  @Astronauta Phi hành gia#9644  | 2018-07-17 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468770778171834368/rain-banano.gif) |
-
+| 152 |  @jesus r#9234  | 2018-07-16 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468474855088717834/vene.png) |
+| 153 |  @rah🐿🇨🇦#0704   | 2018-07-16 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468459835441020928/banrunner.jpg) |
+| 154 |  @Astronauta Phi hành gia#9644   | 2018-07-16 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468445902701330432/Sem-titulo-1.gif) |
+| 155 |  @Mappinus#3337   | 2018-07-16 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468444556694913034/sketch-1531756098918.png) |
+| 156 |  @Snappadoodle#4147   | 2018-07-16 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468442583371218944/riggedhulk.jpg) |
+| 157 |  @jesus r#9234   | 2018-07-16 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468442149206228992/banana.gif) |
+| 158 |  @bantano LongDays&PleasentNights#0286   | 2018-07-16 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468432885121155102/Buy_Banano_Text_Version.gif) |
+| 159 |  @!Jesus Brito Del Kongo#0121   | 2018-07-16 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468402046031233024/Seker-Saiyajin.gif) |
+| 160 |  @Madasiaka#4876   | 2018-07-16 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468400509330522112/20180715_210230.jpg) |
+| 161 |  @junglo steph#1771   | 2018-07-16 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468388055863263232/Sin_tisstulo.jpg) |
+| 162 |  @dayrianaj#2375   | 2018-07-16 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468366417864032266/Sin_titulo.png) |
+| 163 |  @🔥adn_vzla🔥#2320   | 2018-07-16 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468278808571805716/PhotoGrid_1531716558077.png) |
+| 164 |  @Karla☯#6306   | 2018-07-15 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468236254237163530/miojoo.png) |
+| 165 |  @Madasiaka#4876   | 2018-07-15 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468219538203475971/20180715_174654.jpg) |
+| 166 |  @jesus r#9234   | 2018-07-15 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468207569962270721/peel.png) |
+| 167 |  @jesus r#9234  | 2018-07-15 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468187216061923358/images.png) |
+| 168 |  @BeardlessDuck#4387   | 2018-07-15 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468181349165957170/carlos.png) |
+| 169 |  @renesq#4080   | 2018-07-15 | ![](https://cdn.discordapp.com/attachments/419384639166218240/419744037826985997/bananokonekt.png) |
+| 170 |  @BeardlessDuck#4387   | 2018-07-15 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468152909260128257/unknown.png) |
+| 171 |  @Joker👑Leader Suicide👻#8153  | 2018-07-15 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468076388407181313/5.gif) |
+| 172 |  @CoinOperated1245#9875   | 2018-07-15 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468065582944616458/banano_phone.png) |
+| 173 |  @ℬ𝓾𝓷𝓷𝓎ℬℯ𝒶𝓉★#9430  | 2018-07-15 | ![](https://cdn.discordapp.com/attachments/416341951416369153/467985681315266570/BANACONDONCANDY.png) |
+| 174 |  @BeardlessDuck#4387  | 2018-07-15 | ![](https://cdn.discordapp.com/attachments/416341951416369153/467914103357440010/11yearslater.png) |
+| 175 |  @CristianO𝖋𝖔𝖎𝖘#2261   | 2018-07-15 | ![](https://cdn.discordapp.com/attachments/416341951416369153/467909211511062549/en_discord.jpg) |
+| 176 |  @I`m not a banana#9326   | 2018-07-14 | ![](https://cdn.discordapp.com/attachments/416341951416369153/467894080483885057/unknown.png) |
+| 177 |  @ℬ𝓾𝓷𝓷𝓎ℬℯ𝒶𝓉★#9430   | 2018-07-14 | ![](https://media.discordapp.net/attachments/416341951416369153/467880871307771904/output_CFsIMi.gif) |
+| 178 |  @🔥adn_vzla🔥#2320   | 2018-07-14 | ![](https://media.discordapp.net/attachments/416341951416369153/467879946778312704/PhotoGrid_1531620322072.png?width=516&height=516) |
+| 179 |  @zelimq🐼#4949   | 2018-07-14 | ![](https://media.discordapp.net/attachments/416341951416369153/467844977741922316/BananoRocketUwU.gif) |
+| 180 |  @I`m not a banana#9326  | 2018-07-14 | ![](https://cdn.discordapp.com/attachments/416341951416369153/467841835331747890/image.png) |
+| 181 |  @!       King_Kong#1771  | 2018-07-14 | ![](https://cdn.discordapp.com/attachments/416341951416369153/467839276672090123/BananoRocket2-KingKong.png) |
+| 182 |  @🔥adn_vzla🔥#2320  | 2018-07-14 | ![](https://cdn.discordapp.com/attachments/416341951416369153/467836516287250442/1531611271700.png) |
+| 183 |  @RisaHerz#0854  | 2018-07-14 | ![](https://cdn.discordapp.com/attachments/416341951416369153/467835823799402526/banano-1.png) |
+| 184 |  @🔥adn_vzla🔥#2320   | 2018-07-14 | ![](https://cdn.discordapp.com/attachments/416341951416369153/467833174244982785/PhotoGrid_1531599638037.png) |
+| 185 |  @🔥adn_vzla🔥#2320   | 2018-07-14 | ![](https://cdn.discordapp.com/attachments/416341951416369153/467833097128509440/PhotoGrid_1531608714420.png) |
+| 186 |  @🔥adn_vzla🔥#2320   | 2018-07-14 | ![](https://cdn.discordapp.com/attachments/416341951416369153/467833009509236741/PhotoGrid_1531609553817.png) |
+| 187 |  @🔥adn_vzla🔥#2320   | 2018-07-14 | ![](https://cdn.discordapp.com/attachments/416341951416369153/467832846950596608/PhotoGrid_1531610318629.png) |
+| 189 |  @CristianO𝖋𝖔𝖎𝖘#2261   | 2018-07-14 | ![](https://cdn.discordapp.com/attachments/416341951416369153/467829397164916757/Webp.net-gifmaker.gif) |
+| 190 |  @Mariツ Junglo#0036   | 2018-07-14 | ![](https://cdn.discordapp.com/attachments/416341951416369153/467818393920339969/600darkv.gif) |
+| 191 |  @jesus r#9234   | 2018-07-14 | ![](https://cdn.discordapp.com/attachments/416341951416369153/467816477529997334/rakieta20i20planety20male.png) |
+| 192 |  @El rockero#3331   | 2018-07-14 | ![](https://cdn.discordapp.com/attachments/416341951416369153/467812786479824897/por-voladura-nino-espacio-exterior-dibujo_csp22241842.jpg) |
+| 193 |  @Fuchifos 💩🙊#3360   | 2018-07-14 | ![](https://cdn.discordapp.com/attachments/416341951416369153/467811447175380992/IMG-20180714-WA0008.jpg) |
+| 194 |  @Fuchifos 💩🙊#3360   | 2018-07-14 | ![](https://cdn.discordapp.com/attachments/416341951416369153/467811446714138633/IMG-20180714-WA0009.jpg) |
+| 195 |  @Joker👑Leader Suicide👻#8153   | 2018-07-14 | ![](https://cdn.discordapp.com/attachments/416341951416369153/467807371465326592/unknown.png) |
+| 196 |  @bantano LongDays&PleasentNights#0286   | 2018-07-14 | ![](https://cdn.discordapp.com/attachments/416341951416369153/467806129796153376/2e0sxg.png) |
+| 197 |  @Geysel#7366   | 2018-07- | ![](https://cdn.discordapp.com/attachments/416341951416369153/467806100800929792/descarga_1.gif) |
+| 198 |  @BeardlessDuck#4387   | 2018-07-14 | ![](https://cdn.discordapp.com/attachments/416341951416369153/467804046455996417/nyanbanano.gif) |
+| 199 |  @BeardlessDuck#4387   | 2018-07-14 | ![](https://media.discordapp.net/attachments/416341951416369153/467803120253272094/bananorocketSLOWBIG.gif?width=516&height=516) |
+| 200 |  @Fuchifos 💩🙊#3360   | 2018-07-14 | ![](https://cdn.discordapp.com/attachments/416341951416369153/467795915906744320/earth-from-space-4k-5120x2880-images-758575.gif)
 
 
 
