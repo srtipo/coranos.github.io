@@ -16,7 +16,7 @@
 | Number | Discord Id                   | Id Images | Paragraph | Video                                         | Estimated Cost (BAN) |
 |:------ | :--------------------------- |:--------- |:--------- |:-------------------------------------------   |:-- |
 | 1      | @ Thanos#4281                |![01-id]   |           | [01-video-01] [01-video-02]                   | 20 |
-| 2      | @ Cati#1130                  |![01-id]   | I want to help needy people with instant vegterian food | |    |
+| 2      | @ Cati#1130                  |![01-id]   | we can buy some computer with the rewards and looking for people who need work and give online work like recaptchas and surveys, so that help them and the bussiness will be sustainable. | |    |
 
 
 [01-id]: https://coranos.github.io/bananos/thanos/thananos.png "thumbnail"
