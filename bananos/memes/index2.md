@@ -26,10 +26,10 @@ meme list
 | 22 | Anemone, Shitpoet#5586 | 2018-02-28 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418508951907467274/image.jpg) |
 | 23 | Anemone, Shitpoet#5586 | 2018-02-28 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418508977882660864/image.jpg) |
 | 24 | ChocolateFudCake ™ 🇬🇧#1337 | 2018-03-01 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418668963585589258/unknown.png) |
-
-
-
-
+| 25 | MorganOrion#3941 | 2018-03-01 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418710603134140416/Banano_Lives_On_The_Blocklettuce.png) |
+| 26 | Anemone, Shitpoet#5586 | 2018-03-01 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418805357490601995/unknown.png) |
+| 27 | Anemone, Shitpoet#5586 | 2018-03-01 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418805794163785738/unknown.png) |
+| 28 | Anemone, Shitpoet#5586 | 2018-03-01 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418805938347048961/unknown.png) |
 
 
 
