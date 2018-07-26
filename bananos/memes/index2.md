@@ -102,11 +102,11 @@ meme list
 | 98 | ChocolateFudCake ™ 🇬🇧#1337 | 2018-03-10 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421927966042488832/SPACEMAPmockup.png) |
 | 99 | Adref#5620 | 2018-03-10 | ![](https://i.imgur.com/FPtBwb9.jpg) |
 | 100 | Adref#5620 | 2018-03-10 | ![](https://i.imgur.com/lYaOz7A.jpg) |
-| 101 | halbert#7561 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421234350030585856/unknown.png) |
-| 102 | halbert#7561 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421234350030585856/unknown.png) |
-| 103 | halbert#7561 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421234350030585856/unknown.png) |
-| 104 | halbert#7561 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421234350030585856/unknown.png) |
-| 105 | halbert#7561 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421234350030585856/unknown.png) |
+| 101 | ChocolateFudCake ™ 🇬🇧#1337 | 2018-03-10 | ![](https://cdn.discordapp.com/attachments/416341951416369153/422135415244324864/unknown.png) |
+| 102 | ChocolateFudCake ™ 🇬🇧#1337 | 2018-03-10 | ![](https://cdn.discordapp.com/attachments/416341951416369153/422148196224073749/LAUNCH.png) |
+| 103 | ChocolateFudCake ™ 🇬🇧#1337 | 2018-03-10 | ![](https://cdn.discordapp.com/attachments/416341951416369153/422155233792360458/SPACEMAPmockup.png) |
+| 104 | Juddle-pumper#7474 | 2018-03-10 | ![](https://cdn.discordapp.com/attachments/416341951416369153/422155255258546187/nppbNtf.gif) |
+| 105 | Juddle-pumper#7474 | 2018-03-10 | ![](https://imgur.com/nppbNtf) |
 
 
 
