@@ -25,7 +25,7 @@ meme list
 | 21 | MorganOrion#3941 | 2018-02-28 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418502181491310592/bananacar.jpg) |
 | 22 | Anemone, Shitpoet#5586 | 2018-02-28 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418508951907467274/image.jpg) |
 | 23 | Anemone, Shitpoet#5586 | 2018-02-28 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418508977882660864/image.jpg) |
-
+| 24 | ChocolateFudCake ™ 🇬🇧#1337 | 2018-03-01 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418668963585589258/unknown.png) |
 
 
 
