@@ -82,6 +82,16 @@ meme list
 | 78 | krypt0x#6140 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421358997757624320/25zr9d.png) |
 | 79 | Super Betta Fish 🐠#3900 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421365287779172352/zombomeme08032018125502.jpg) |
 | 80 | Super Betta Fish 🐠#3900 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421365989347688449/zombomeme08032018125751.jpg) |
+| 81 | Super Betta Fish 🐠#3900 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421367170350579713/zombomeme08032018130234.jpg) |
+| 82 | MorganOrion#3941 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421478948682203136/Invested_number_2_0.0.png) |
+| 83 | baltast#6831 | 2018-03-09 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421608834201681920/banano.jpg) |
+| 84 | Hofbräuer#6486 | 2018-03-09 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421691281161584640/finger_banoshi.png) |
+| 85 | Hofbräuer#6486 | 2018-03-09 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421703385406767106/Bananorick.jpg) |
+| 86 | Super Betta Fish 🐠#3900 | 2018-03-09 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421712620928630796/zombomeme09032018115516.jpg) |
+| 87 | Super Betta Fish 🐠#3900 | 2018-03-09 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421718969792331778/zombomeme09032018122030.jpg) |
+| 88 | ChocolateFudCake ™ 🇬🇧#1337 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/419690267168210964/bananomoonmission.jpg) |
+| 89 |Adref#5620 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421810215495663626/6.jpg) |
+| 90 | Hofbräuer#6486 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421817205915648000/Ledger_banano_s.png) |
 | 80 | halbert#7561 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421234350030585856/unknown.png) |
 | 80 | halbert#7561 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421234350030585856/unknown.png) |
 | 80 | halbert#7561 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421234350030585856/unknown.png) |
