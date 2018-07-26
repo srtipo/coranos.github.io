@@ -17,6 +17,24 @@ meme list
 | 13 | MorganOrion#3941 | 2018-02-26 | ![](https://cdn.discordapp.com/attachments/416341951416369153/417618224423763979/Banano-Apple-Logo-03.png) |
 | 14 | MorganOrion#3941 | 2018-02-26 | ![](https://cdn.discordapp.com/attachments/416341951416369153/417625488496918539/Invested_0.1.png) |
 | 15 | renesq#4080 | 2018-02-27 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418063478385934346/hotdogs-thrown-on-girls-face-240x144.jpg) |
+| 16 | ChocolateFudCake ™ 🇬🇧#1337 | 2018-02-27 | ![](https://cdn.discordapp.com/attachments/403651674146603008/418142627506946048/download_9.jpeg) |
+| 17 | MorganOrion#3941 | 2018-02-27 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418204054519414786/Buy_Banano_Text_Version.gif) |
+| 18 | MorganOrion#3941 | 2018-02-27 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418205323166351360/Banano_Soon.png) |
+| 19 | MorganOrion#3941 | 2018-02-27 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418218914070134794/Im_Only_Doing_This.png) |
+| 20 | MorganOrion#3941 | 2018-02-27 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418489137507860481/Swipe_Right_02.png) |
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 https://cdn.discordapp.com/attachments/416341951416369153/430115841984561162/m.png
