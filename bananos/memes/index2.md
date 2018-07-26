@@ -10,7 +10,15 @@ meme list
 | 6 | @Astronauta Phi hành gia#9644 | 2018-07-24 | ![](https://cdn.discordapp.com/attachments/416341951416369153/471322010090471424/b3c76ea7c23762bd2af16cbc81c64b8a.png) |
 | 7   | renesq#4080 | 02/23/2018 |  ![](https://cdn.discordapp.com/attachments/416341951416369153/416672295789002753/leaveraialone2567qr.jpg) |
 | 8   | ANANOMEME, Shitpoet#4885 | 02/24/2018 |  ![](https://cdn.discordapp.com/attachments/416341951416369153/416981382728777731/BananoMano2.jpg) 
-|    | renesq#4080 | 02/25/2018 |  ![](https://cdn.discordapp.com/attachments/416341951416369153/417325526655434752/banano_speed_dark.gif)
+|  9 | renesq#4080 | 02/25/2018 |  ![](https://cdn.discordapp.com/attachments/416341951416369153/417325526655434752/banano_speed_dark.gif)
+| 10 | MorganOrion#3941 | 2018-02-26 | ![](https://cdn.discordapp.com/attachments/416341951416369153/417618123458609152/10-Of-The-Best-Apple-Print-Ads-Of-All-Time-752x490.png) |
+| 11 | MorganOrion#3941 | 2018-02-26 | ![](https://cdn.discordapp.com/attachments/416341951416369153/417618162478088194/Banano-Apple-Logo-01.png) |
+
+
+
+
+
+
 https://cdn.discordapp.com/attachments/416341951416369153/430115841984561162/m.png
 https://cdn.discordapp.com/attachments/416341951416369153/430124822568370177/Banano_Mainnet_Launch.gif
 https://cdn.discordapp.com/attachments/416341951416369153/430147810051096584/banano.gif
