@@ -142,10 +142,10 @@ meme list
 | 138 | Hofbräuer#6486 | 2018-03-12 | ![](https://cdn.discordapp.com/attachments/416341951416369153/422714430271389717/Join_the_shillarmy.png) |
 | 139 | David Scubadiver#5294 | 2018-03-12 | ![](https://cdn.discordapp.com/attachments/416341951416369153/422715896998658048/image.jpg) |
 | 140 | EmptyTotal#8620 | 2018-03-12 | ![](https://cdn.discordapp.com/attachments/416341951416369153/422744480505135104/cg5hTY4.png) |
-| 141 | halbert#7561 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421234350030585856/unknown.png) |
-| 142 | halbert#7561 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421234350030585856/unknown.png) |
-| 143 | halbert#7561 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421234350030585856/unknown.png) |
-| 144 | halbert#7561 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421234350030585856/unknown.png) |
+| 141 | Hofbräuer#6486 | 2018-03-12 | ![](https://cdn.discordapp.com/attachments/416341951416369153/422823334359859201/Jap-Eng-1.JPG) |
+| 142 | Hofbräuer#6486 | 2018-03-12 | ![](https://cdn.discordapp.com/attachments/416341951416369153/422823336113078292/Jap-Eng-2.JPG) |
+| 143 | joinity#6524 | 2018-03-13 | ![](https://cdn.discordapp.com/attachments/416341951416369153/423052582764937217/workingPicture.jpg) |
+| 144 | joinity#6524 | 2018-03-13 | ![](https://cdn.discordapp.com/attachments/416341951416369153/423054718127046656/IMG_20180313_104716.jpg) |
 | 145 | halbert#7561 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421234350030585856/unknown.png) |
 | 146 | halbert#7561 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421234350030585856/unknown.png) |
 | 147 | halbert#7561 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421234350030585856/unknown.png) |
