@@ -13,10 +13,10 @@ meme list
 |  9 | renesq#4080 | 02/25/2018 |  ![](https://cdn.discordapp.com/attachments/416341951416369153/417325526655434752/banano_speed_dark.gif)
 | 10 | MorganOrion#3941 | 2018-02-26 | ![](https://cdn.discordapp.com/attachments/416341951416369153/417618123458609152/10-Of-The-Best-Apple-Print-Ads-Of-All-Time-752x490.png) |
 | 11 | MorganOrion#3941 | 2018-02-26 | ![](https://cdn.discordapp.com/attachments/416341951416369153/417618162478088194/Banano-Apple-Logo-01.png) |
-
-
-
-
+| 12 | MorganOrion#3941 | 2018-02-26 | ![](https://cdn.discordapp.com/attachments/416341951416369153/417618198305832960/Banano-Apple-Logo-02.pngg) |
+| 13 | MorganOrion#3941 | 2018-02-26 | ![](https://cdn.discordapp.com/attachments/416341951416369153/417618224423763979/Banano-Apple-Logo-03.png) |
+| 14 | MorganOrion#3941 | 2018-02-26 | ![](https://cdn.discordapp.com/attachments/416341951416369153/417625488496918539/Invested_0.1.png) |
+| 15 | renesq#4080 | 2018-02-27 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418063478385934346/hotdogs-thrown-on-girls-face-240x144.jpg) |
 
 
 https://cdn.discordapp.com/attachments/416341951416369153/430115841984561162/m.png
