@@ -21,10 +21,10 @@ meme list
 | 17 | MorganOrion#3941 | 2018-02-27 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418204054519414786/Buy_Banano_Text_Version.gif) |
 | 18 | MorganOrion#3941 | 2018-02-27 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418205323166351360/Banano_Soon.png) |
 | 19 | MorganOrion#3941 | 2018-02-27 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418218914070134794/Im_Only_Doing_This.png) |
-| 20 | MorganOrion#3941 | 2018-02-27 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418489137507860481/Swipe_Right_02.png) |
-
-
-
+| 20 | MorganOrion#3941 | 2018-02-28 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418489137507860481/Swipe_Right_02.png) |
+| 21 | MorganOrion#3941 | 2018-02-28 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418502181491310592/bananacar.jpg) |
+| 22 | Anemone, Shitpoet#5586 | 2018-02-28 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418508951907467274/image.jpg) |
+| 23 | Anemone, Shitpoet#5586 | 2018-02-28 | ![](https://cdn.discordapp.com/attachments/416341951416369153/418508977882660864/image.jpg) |
 
 
 
