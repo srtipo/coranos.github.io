@@ -176,8 +176,8 @@ meme list
 | 172 | Anemone, Shitpoet#5586 | 2018-03-24 | ![](https://cdn.discordapp.com/attachments/416341951416369153/427167439697215498/bananocolin.jpg) |
 | 173 | Ch1ck3n#1337 | 2018-03-24 | ![](https://cdn.discordapp.com/attachments/416341951416369153/427195248041656321/tumblr_lp4m3dW4e61r0f2mco1_500.jpg) |
 | 174 | Ch1ck3n#1337 | 2018-03-24 | ![](https://cdn.discordapp.com/attachments/416341951416369153/427196780950585345/endworldbanano.png) |
-| 175 | halbert#7561 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421234350030585856/unknown.png) |
-| 176 | halbert#7561 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421234350030585856/unknown.png) |
+| 175 | Ch1ck3n#1337 | 2018-03-24 | ![](https://cdn.discordapp.com/attachments/416341951416369153/427202117191729155/Banan0phone.png) |
+| 176 | Ch1ck3n#1337 | 2018-03-24 | ![](https://cdn.discordapp.com/attachments/416341951416369153/427209473417805846/bananodrake.png) |
 | 177 | halbert#7561 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421234350030585856/unknown.png) |
 | 178 | halbert#7561 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421234350030585856/unknown.png) |
 | 179 | halbert#7561 | 2018-03-08 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421234350030585856/unknown.png) |
