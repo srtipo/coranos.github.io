@@ -1,14 +1,14 @@
 # Developer Training
 
-
 ## Students
 
-| Number | Discord Id    | Progress             | Ghpages Index |
-|:------ |:------------- |:-------------------- |:------------- |
-| 01     | Coranos#4281  | Completed Lesson Two |[01-gh-pages]  |
-| 69     | not_idol#3950 | Completed Lesson Two |               |
+| Number | Discord Id    | Progress             | Ghpages Index      |
+|:------ |:------------- |:-------------------- |:------------------ |
+| 01     | Coranos#4281  | Completed Lesson Two |[01-gh-pages]       |
+| 69     | not_idol#3950 | Completed Lesson Two |[not-idol.github.io]|               |
 
 [01-gh-pages]: https://coranos.github.io/
+[not-idol.github.io]: https://not-idol.github.io/
 
 ## Lesson One, Github and Atom.
 
@@ -51,7 +51,3 @@
     </html>
 ```
 2) update this page with a link to your Github Pages
-
-### eventually
-
-freelancer amazon-turk fiverr wordpress prestashop opencart joomla magento autotrading-crypto-arbitrage-bot
