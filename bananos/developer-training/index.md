@@ -2,10 +2,12 @@
 
 ## Students
 
-| Number | Discord Id   | Progress             |
-|:------ |:------------ |:-------------------  |
-| 1      | Coranos#4281 | Completed Lesson Two |
+| Number | Discord Id    | Progress             | Ghpages Index |
+|:------ |:------------- |:-------------------- |:------------- |
+| 01     | Coranos#4281  | Completed Lesson Two |[01-gh-pages]  |
+| 69     | not_idol#3950 | Completed Lesson Two |               |
 
+[01-gh-pages]: https://coranos.github.io/bananos/
 
 ## Lesson One, Github and Atom.
 
@@ -23,6 +25,6 @@
 
 1) Create a Github Pages site https://pages.github.com/
 
-2) clone the Github Pages repository to your lcoal computer.
+2) clone the Github Pages repository to your local computer.
 
 3) Edit the github pages site in atom, locally add your discord id to the top.
