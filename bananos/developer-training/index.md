@@ -1,5 +1,12 @@
 # Developer Training
 
+## Students
+
+| Number | Discord Id   | Progress             |
+|:------ |:------------ |:-------------------  |
+| 1      | Coranos#4281 | Completed Lesson Two |
+
+
 ## Lesson One, Github and Atom.
 
 1) Go to https://github.com and create an account.
@@ -7,6 +14,10 @@
 2) Go to https://git-scm.com/downloads and download git.
 
 3) Go to https://atom.io/ and download atom (it is a editor).
+
+4) clone https://github.com/coranos/coranos.github.io to your local computer.
+
+5) Add your Discord ID to the Student  list.
 
 ## Lesson Two, gh-pages.
 
