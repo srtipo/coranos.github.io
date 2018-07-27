@@ -2,10 +2,12 @@
 
 ## Students
 
-| Number | Discord Id   | Progress             |
-|:------ |:------------ |:-------------------  |
-| 1      | Coranos#4281 | Completed Lesson Two |
-| 69     | not_idol#3950| Completed Lesson Two |
+| Number | Discord Id    | Progress             | Ghpages Index |
+|:------ |:------------- |:-------------------- |:------------- |
+| 01     | Coranos#4281  | Completed Lesson Two |[01-gh-pages]  |
+| 69     | not_idol#3950 | Completed Lesson Two |               |
+
+[01-gh-pages]: https://coranos.github.io/bananos/
 
 ## Lesson One, Github and Atom.
 
