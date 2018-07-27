@@ -17,8 +17,8 @@ Respond within 30 seconds with the emojis below.
 @Coranos
 Score: 34 
 Total Score: 9704 
-which small monkey ,:regional_indicator_a: ,:regional_indicator_b: ,:regional_indicator_c: ,:regional_indicator_d: ,:regional_indicator_e: 
-poses at the same angle as :regional_indicator_f:?
+which small monkey ,:a: ,:b: ,:c: ,:d: ,:e: 
+poses at the same angle as :f:?
 
 https://coranos.github.io/banano-finder-images/0306738.jpg
 
