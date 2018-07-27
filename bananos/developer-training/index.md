@@ -23,6 +23,6 @@
 
 1) Create a Github Pages site https://pages.github.com/
 
-2) clone the Github Pages repository to your lcoal computer.
+2) clone the Github Pages repository to your local computer.
 
 3) Edit the github pages site in atom, locally add your discord id to the top.
