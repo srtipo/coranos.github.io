@@ -51,3 +51,6 @@
     </html>
 ```
 2) update this page with a link to your Github Pages
+
+### eventually
+freelancer amazon-turk fiverr wordpress prestashop opencart joomla magento autotrading-crypto-arbitrage-bot
