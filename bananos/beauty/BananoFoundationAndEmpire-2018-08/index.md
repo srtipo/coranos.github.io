@@ -20,7 +20,7 @@
 | 3      | @ JhonAlvarez#1227                   |![03-id]  | Through the collection of profit, it is redirected to companies that manage talks through us to create awareness for a better planet, starting with the schools; which has been difficult for us to transport the merchandise and make the payment to the consultants, we need the logistics for our staff, to continue creating awareness.| | 150,000 bananas per week.|
 | 4      | @ComeBananaTeam Lider de Kasanay#7801|![04-id]  | 4 years ago when I met the work online I thought of opening a grocery store and food in my neighborhood in a cyber merge where you will teach different ways to earn money and that people can pay for their basic products with any cryptomoneda, where we will make recharges to mobile phones, to local currency banks or simply change from one currency to another depends on the taste of each person and has a small margin of profit when it comes to buying a product or service, the cyber is so that everything whoever wants to work can sit on the computer with free internet for half an hour where a spoken manual on how to start earning money is included and the one who already has experience simply feels like doing his job| |  1,000,000 BAN |
 | 5      | @Yai#2065                            |![05-id]  | I propose to finance activities for young sports, cultural and recreational for young people in Venezuela, so they do not fall into the vices and for this I do not need much investment but to rent an inflatable mattress and buy some balos for girls and boys so I would like your support for | | 30,000 BAN |
-
+| 6      | @Daniela torrealba#8820              |![06-id]  | I have been in the habit of helping the street animals in Venezuela who are dying of hunger and sick, people tend to abandon them, so I want to collect funds to attend on a larger scale to the unprotected animals, with food and remedies, I have a popular veterinary practice for this would need 100,000 bananas | | 100,000 BAN |
 
 [01-id]: https://coranos.github.io/bananos/thanos/thananos.png "thumbnail"
 [01-video-01]: https://coranos.github.io/bananos/thanos/thananos.png "video-1"
@@ -32,6 +32,8 @@
 [03-id]: https://i.imgur.com/FoXNCn9.png "thumbnail"
 
 [05-id]: https://i.imgur.com/u3CfHHI.png "thumbnail"
+
+[06-id]: https://i.imgur.com/YDXH4Qt.jpg "thumbnail"
 
 ### The Contest (Required)
 1. In the United States this would be called an "Elevator Pitch" contest.  
