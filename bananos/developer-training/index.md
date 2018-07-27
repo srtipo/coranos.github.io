@@ -7,7 +7,7 @@
 | 01     | Coranos#4281  | Completed Lesson Two |[01-gh-pages]  |
 | 69     | not_idol#3950 | Completed Lesson Two |               |
 
-[01-gh-pages]: https://coranos.github.io/bananos/
+[01-gh-pages]: https://coranos.github.io/
 
 ## Lesson One, Github and Atom.
 
@@ -28,3 +28,24 @@
 2) clone the Github Pages repository to your local computer.
 
 3) Edit the github pages site in atom, locally add your discord id to the top.
+
+## Lesson Three, simple index.html.
+
+1) in your github pages site, add an index.html with the following code:
+```
+    <!DOCTYPE html5>
+    <html>
+    <meta charset="utf-8" />
+    <head>
+    <title>Banano</title>
+    </head>
+    <body onload="onLoad();">
+      <div id="banano"></div>
+      <script>
+          function onLoad () {
+            document.getElementById('banano').innerHTML = 'Coranos Bananos';
+          }
+        </script>
+    </body>
+    </html>
+```
