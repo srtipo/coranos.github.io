@@ -1,5 +1,7 @@
 # Developer Training
 
+freelancer amazon-turk fiverr wordpress prestashop opencart joomla magento autotrading-crypto-arbitrage-bot
+
 ## Students
 
 | Number | Discord Id    | Progress             | Ghpages Index |
