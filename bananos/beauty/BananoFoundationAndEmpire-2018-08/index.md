@@ -43,6 +43,8 @@
 
 [08-id]: https://cdn.discordapp.com/attachments/472154209790459921/472846850026897428/IMG_20180728_210544.jpg "thumbnail"
 
+[09-id]: https://i.imgur.com/tJdZkCv.jpg "thumbnail"
+
 ### The Contest (Required)
 1. In the United States this would be called an "Elevator Pitch" contest.  
 (es) En los Estados Unidos esto se llamaría un concurso "Elevador Pitch".  
