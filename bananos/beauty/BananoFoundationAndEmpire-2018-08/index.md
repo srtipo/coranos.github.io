@@ -24,6 +24,7 @@
 | 7      | @I m not a banana#9326               |![07-id]  |  I have an incredible idea, "The Hunger Games of Bananas" What is it about? Banana posters will be published around Caracas-Venezuela and an emoji of him with a puzzle, the first to find that poster and solve the "captcha" and upload a photo to the special channel for this game, will earn the seed of an account with 35,000 bananas / 25,000 bananas, I will publish where the posters are and the first to find them and solve the "captcha" will win the seed. - For this project I would need as many bananas as posters and money to pay for these posters and materials | [07-video-01] | 150,000 BAN |
 | 8     | @Psychol#8860                         |![08-id]  | 1) Beat the eggs with sugar until fluffy foam. Add sifted flour with the baking powder and cocoa. At the end add oil. Pour everythin onto springform covered with paper, bake it aournd 25 minutes at 160 degrees. 2) Beat the sour cream with powder sugar. Dissolve a gelatine in a boiling water then cool it off. Add to it 3 spoons of whipped cream, mix it and after add whipped cream and mix with a mixer. From the sponge cake cut off the grown top and gently cut off the bottom of 1cm depth leaving 2 cm from the narrow of normal height. Crumb the cut cake. On the bottom put some cut bananas. Cover it with cream, forming a semicilcular mound. Whole cake cover with the crumb, cool it and keep in the fridge. | [08-video-01] | 
 | 9     | @Karla☯#6306                          |![09-id]  | My big idea is to start a small company that manufactures and sells garments for women, men and children, because together with my mother we have the knowledge and desire to carry out this project. Some time we work on that but with enough funds to continue, And although it is a personal profit idea is also for the benefit of a community where there are no stores to stock clothes. I hope that my idea will please you, and in gratitude to you I would label my clothing brand with the name of TextiilBanana. | | 90,000 BAN |
+| 10    | @SimonCoin#7072                       |![10-id]  | In 2013,I knew this sport and won the championship four times the next year. Gradually, I joined a team and dedicated myself to it, tirelessly, while I was studying at university. On 2014 and 2015 were wonderful because we won National Tournaments and traveled to Colombia and learn a lot. 2016 and 2017 we returned and finished in the top 4. Ultimate Frisbee proove’s me that discipline leads to success. Today, I am the captain of the team that will represent Venezuela on the 1th University World Cup and my dream comes true. I require 65 nanos to make it. | [10-video-01] | 65 nanos | 
 
 [01-id]: https://coranos.github.io/bananos/thanos/thananos.png "thumbnail"
 [01-video-01]: https://coranos.github.io/bananos/thanos/thananos.png "video-1"
@@ -44,6 +45,8 @@
 [08-id]: https://cdn.discordapp.com/attachments/472154209790459921/472846850026897428/IMG_20180728_210544.jpg "thumbnail"
 
 [09-id]: https://i.imgur.com/tJdZkCv.jpg "thumbnail"
+
+[10-video-01]: https://www.youtube.com/watch?v=xUIOcTYn5AA "video-1"
 
 ### The Contest (Required)
 1. In the United States this would be called an "Elevator Pitch" contest.  
