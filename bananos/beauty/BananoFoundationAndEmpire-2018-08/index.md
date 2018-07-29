@@ -46,6 +46,7 @@
 
 [09-id]: https://i.imgur.com/tJdZkCv.jpg "thumbnail"
 
+[10-id]: https://i.imgur.com/tJhu8L2h.jpg
 [10-video-01]: https://www.youtube.com/watch?v=xUIOcTYn5AA "video-1"
 
 ### The Contest (Required)
