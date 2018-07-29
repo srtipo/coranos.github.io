@@ -2,11 +2,11 @@
 
 ## Students
 
-| Number | Discord Id    | Progress             | Ghpages Index      |
-|:------ |:------------- |:-------------------- |:------------------ |
-| 01     | Coranos#4281  | Completed Lesson Two |[01-gh-pages]       |
-| 02     | Mayrapina#9547| Completed Lesson Two |                    |
-| 03     | not_idol#3950 | Completed Lesson Two |[not-idol.github.io]|               |
+| Number | Discord Id    | Progress               | Ghpages Index      |
+|:------ |:------------- |:---------------------- |:------------------ |
+| 01     | Coranos#4281  | Completed Lesson Two   |[01-gh-pages]       |
+| 02     | Mayrapina#9547| Completed Lesson Two   |                    |
+| 03     | not_idol#3950 | Completed Lesson Three |[not-idol.github.io]|               |
 
 [01-gh-pages]: https://coranos.github.io/
 [not-idol.github.io]: https://not-idol.github.io/
