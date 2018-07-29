@@ -11,6 +11,7 @@
 
 [01-gh-pages]: https://coranos.github.io/
 [not-idol.github.io]: https://not-idol.github.io/
+[acidlee.github.io]: https://not-idol.github.io/
 
 ## Lesson One, Github and Atom.
 
