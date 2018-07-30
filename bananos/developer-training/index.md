@@ -4,12 +4,12 @@
 
 | Number | Discord Id    | Progress               | Ghpages Index      |
 |:------ |:------------- |:---------------------- |:------------------ |
-| 01     | Coranos#4281  | Completed Lesson Two   |[01-gh-pages]       |
+| 01     | Coranos#4281  | Completed Lesson Two   |[coranos.github.io] |
 | 02     | Mayrapina#9547| Completed Lesson Two   |                    |
 | 03     | not_idol#3950 | Completed Lesson Three |[not-idol.github.io]|
 | 04     | Lee#2040      | Completed Lesson Two   |[acidlee.github.io] |
 
-[01-gh-pages]: https://coranos.github.io/
+[coranos.github.io]: https://coranos.github.io/
 [not-idol.github.io]: https://not-idol.github.io/
 [acidlee.github.io]: https://not-idol.github.io/
 
