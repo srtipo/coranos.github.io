@@ -11,6 +11,7 @@
 | 05     | Parvu#7388    | Completed Lesson Three |[parvulitum.github.io]|
 
 [coranos.github.io]: https://coranos.github.io/
+[mayrapina007.github.io]: https://mayrapina007.github.io/
 [not-idol.github.io]: https://not-idol.github.io/
 [acidlee.github.io]: https://not-idol.github.io/
 [parvulitum.github.io]: https://Parvulitum.github.io/
