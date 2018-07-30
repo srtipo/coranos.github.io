@@ -26,6 +26,7 @@
 | 9     | @Karla☯#6306                          |![09-id]  | My big idea is to start a small company that manufactures and sells garments for women, men and children, because together with my mother we have the knowledge and desire to carry out this project. Some time we work on that but with enough funds to continue, And although it is a personal profit idea is also for the benefit of a community where there are no stores to stock clothes. I hope that my idea will please you, and in gratitude to you I would label my clothing brand with the name of TextiilBanana. | | 90,000 BAN |
 | 10    | @SimonCoin#7072                       |![10-id]  ![10-picture-01]  ![10-picture-02] | In 2013,I knew this sport and won the championship four times the next year. Gradually, I joined a team and dedicated myself to it, tirelessly, while I was studying at university. On 2014 and 2015 were wonderful because we won National Tournaments and traveled to Colombia and learn a lot. 2016 and 2017 we returned and finished in the top 4. Ultimate Frisbee proove’s me that discipline leads to success. Today, I am the captain of the team that will represent Venezuela on the 1th University World Cup and my dream comes true. I require 65 nanos to make it. | [10-video-01] | 65 nanos | 
 | 11    | @Burning Banano Whale#7034            |![11-id]  ![11-picture-01]  | My business idea is create a website/platform for electronic commerce like Amazon but using as payment method: nano/banano. The fees taken from sellers for operate on the platform will be used in the followings percents: 50% maintain operational costs (this contains the cost of running the cloud server, the payment of the employees that attend the support, marketing) 25% used to expand the platform and make further investment (better server, mobile app development, internal exchange of cryptocurrencies for nano/banano) 15% saved in case of unforeseen events 10% given to charity This will boost nano’s/banano’s value and its worldwide acceptance.
+| 12    | @LunaNueva#4044                       |![12-id] | Take advantage of this contest for the need that you need Barbara Anthonella Silva Landaeta 3 years old who suffers from foot equinus varus and displacia of hips. Part of his family had to go to Peru to raise funds for the operation in Venezuela. It is a very expensive operation and I would like your support. Thank you for allowing me to use this medium. the operation would cost 500,000 bananas | [12-video-01] | 500,000 BAN |
 
 [01-id]: https://coranos.github.io/bananos/thanos/thananos.png "thumbnail"
 [01-video-01]: https://coranos.github.io/bananos/thanos/thananos.png "video-1"
@@ -54,6 +55,9 @@
 
 [11-id]: https://i.imgur.com/H9nfedr.jpg "thumbnail"
 [11-picture-01]: https://cdn.discordapp.com/attachments/472714767090450462/472715061660745729/NANOBAN1.jpg
+
+[12-id]: https://i.imgur.com/VcYt6qF.jpg "thumbnail"
+[12-video-01]: https://youtu.be/AUAOdS6lrNk "video-1"
 
 ### The Contest (Required)
 1. In the United States this would be called an "Elevator Pitch" contest.  
