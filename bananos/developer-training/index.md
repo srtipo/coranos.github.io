@@ -5,7 +5,7 @@
 | Number | Discord Id    | Progress               | Ghpages Index        |
 |:------ |:------------- |:---------------------- |:---------------------|
 | 01     | Coranos#4281  | Completed Lesson Two   |[coranos.github.io]   |
-| 02     | Mayrapina#9547| Completed Lesson Two   |                      |
+| 02     | Mayrapina#9547| Completed Lesson Two   |[mayrapina007.github.io]|
 | 03     | not_idol#3950 | Completed Lesson Three |[not-idol.github.io]  |
 | 04     | Lee#2040      | Completed Lesson Two   |[acidlee.github.io]   |
 | 05     | Parvu#7388    | Completed Lesson Three |[parvulitum.github.io]|
