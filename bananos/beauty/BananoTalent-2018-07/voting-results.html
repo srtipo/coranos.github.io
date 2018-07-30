@@ -196,16 +196,18 @@
           
           for (const [judge, votes] of Object.entries(results)) {
             votes.forEach(function (vote, voteIx) {
-              let rank;
-              let contestant;
-              
               if (typeof vote === 'string' || vote instanceof String) {
-                rank = voteIx + 1;
-                contestant = vote;
-              } else {
-                rank = vote.rank;
-                contestant = vote.contestant;
-              }
+                const rank = (voteIx + 1).toString();
+                const contestant = vote;
+                votes[voteIx] = {};
+                votes[voteIx].rank = rank;
+                votes[voteIx].contestant = contestant;
+              } 
+            });
+            
+            votes.forEach(function (vote, voteIx) {
+              const rank = vote.rank;
+              const contestant = vote.contestant;
               
               console.log(judge,rank,contestant);
               
