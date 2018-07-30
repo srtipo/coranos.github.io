@@ -54,7 +54,7 @@
 [10-video-01]: https://www.youtube.com/watch?v=xUIOcTYn5AA "video-1"
 
 [11-id]: https://i.imgur.com/H9nfedr.jpg "thumbnail"
-[11-picture-01]: https://cdn.discordapp.com/attachments/472714767090450462/472715061660745729/NANOBAN1.jpg
+[11-picture-01]: https://cdn.discordapp.com/attachments/472714767090450462/472715061660745729/NANOBAN1.jpg "thumbnail"
 
 [12-id]: https://i.imgur.com/VcYt6qF.jpg "thumbnail"
 [12-video-01]: https://youtu.be/AUAOdS6lrNk "video-1"
