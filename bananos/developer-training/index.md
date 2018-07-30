@@ -56,7 +56,7 @@ git push
 
 1) in your github pages site, add an index.html with the following code:
 ```
-    <!DOCTYPE html5>
+    <!DOCTYPE html>
     <html>
     <meta charset="utf-8" />
     <head>
