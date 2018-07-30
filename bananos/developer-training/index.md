@@ -44,7 +44,7 @@ git pull
 git push
 ```
 
-5) Add your Discord ID to the Student  list.
+5) Using the Github Web Page, add your Discord ID to the Student  list.
 
 ## Lesson Two, gh-pages.
 
