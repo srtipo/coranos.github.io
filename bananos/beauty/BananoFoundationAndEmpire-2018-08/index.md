@@ -27,6 +27,7 @@
 | 10    | @ SimonCoin#7072                       |![10-id]  ![10-picture-01]  ![10-picture-02] | In 2013,I knew this sport and won the championship four times the next year. Gradually, I joined a team and dedicated myself to it, tirelessly, while I was studying at university. On 2014 and 2015 were wonderful because we won National Tournaments and traveled to Colombia and learn a lot. 2016 and 2017 we returned and finished in the top 4. Ultimate Frisbee proove’s me that discipline leads to success. Today, I am the captain of the team that will represent Venezuela on the 1th University World Cup and my dream comes true. I require 65 nanos to make it. | [10-video-01] | 65 nanos | 
 | 11    | @ Burning Banano Whale#7034            |![11-id]  ![11-picture-01]  | My business idea is create a website/platform for electronic commerce like Amazon but using as payment method: nano/banano. The fees taken from sellers for operate on the platform will be used in the followings percents: 50% maintain operational costs (this contains the cost of running the cloud server, the payment of the employees that attend the support, marketing) 25% used to expand the platform and make further investment (better server, mobile app development, internal exchange of cryptocurrencies for nano/banano) 15% saved in case of unforeseen events 10% given to charity This will boost nano’s/banano’s value and its worldwide acceptance.
 | 12    | @ LunaNueva#4044                       |![12-id] | Take advantage of this contest for the need that you need Barbara Anthonella Silva Landaeta 3 years old who suffers from foot equinus varus and displacia of hips. Part of his family had to go to Peru to raise funds for the operation in Venezuela. It is a very expensive operation and I would like your support. Thank you for allowing me to use this medium. the operation would cost 500,000 bananas | [12-video-01] | 500,000 BAN |
+| 13    | @ Monachita#2427                       |![13-id] | For years in my city I saw children who have no homes or parents or fixed meals, I have a team that is willing to provide support once a week every Sunday in a car that is available to distribute food to those children, but we need financial help I am sure that 100000 bananas monthly are enough to give these children food 4 Sundays a month, thank you, but help me to help those children | | 100000 ban per month |
 
 [01-id]: https://coranos.github.io/bananos/thanos/thananos.png "thumbnail"
 [01-video-01]: https://coranos.github.io/bananos/thanos/thananos.png "video-1"
@@ -58,6 +59,8 @@
 
 [12-id]: https://i.imgur.com/VcYt6qF.jpg "thumbnail"
 [12-video-01]: https://youtu.be/AUAOdS6lrNk "video-1"
+
+[13-id]: https://cdn.discordapp.com/avatars/443964405152219137/6df9593da17d0757f6192470a5c24d40.png  "thumbnail"
 
 please vote in the talent contest :) By Wednesday night if possible.
 https://coranos.github.io/bananos/beauty/BananoTalent-2018-07/voting
