@@ -53,6 +53,12 @@ git push;
 
 1) Create a Github Pages site https://pages.github.com/
 
+```
+Create a repository
+Head over to GitHub and create a new repository named username.github.io, where username is your username (or organization name) on GitHub.
+If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
+```
+
 2) clone the Github Pages repository to your local computer.
 
 3) Edit the github pages site in atom, locally add your discord id to the top.
