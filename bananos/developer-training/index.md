@@ -62,7 +62,9 @@ If the first part of the repository doesn’t exactly match your username, it wo
 
 2) clone the Github Pages repository to your local computer.
 
-3) Edit the github pages site in atom, locally add your discord id to the top.
+3) add a file called index.html to the root of the repository.
+
+4) Edit the github pages site in atom, locally add your discord id to the top.
 
 ## Lesson Three, simple index.html.
 
