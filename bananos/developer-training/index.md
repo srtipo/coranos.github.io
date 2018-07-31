@@ -11,6 +11,7 @@
 | 04     | Lee#2040      | Completed Lesson Two   |[acidlee.github.io]     |
 | 05     | Parvu#7388    | Completed Lesson Three |[parvulitum.github.io]  |
 | 06     | Monachita#2427| Completed Lesson one |[Monachita.github.io]   |
+| 07     | Trigger Haven#5767| Completed Lesson  |   |
 
 [coranos.github.io]: https://coranos.github.io/
 [mayrapina007.github.io]: https://mayrapina007.github.io/
