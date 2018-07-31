@@ -1,5 +1,5 @@
 
-# Business and Charity Contest Banano/Nano July 2018 - Community Contest - Sponsored by La Jungla and The Nano Center
+# Business and Charity Contest Banano/Nano July 2018 - Community Contest - Sponsored by La Jungla and Nanesco
 ![Imgur](https://i.imgur.com/BE2giLK.jpg)
 # 350,000 Banano
 # 80 Nano
