@@ -36,13 +36,13 @@
 
 *If you are unsure of how to do this, here are the commands to use in *git bash*:
 ```
-cd
-pwd
-mkdir git
-cd git
-clone https://github.com/coranos/coranos.github.io.git
-git pull
-git push
+cd;
+pwd;
+mkdir git;
+cd git;
+clone https://github.com/coranos/coranos.github.io.git;
+git pull;
+git push;
 ```
 
 5) Using the Github Web Page, add your Discord ID to the Student  list.
