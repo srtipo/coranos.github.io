@@ -10,7 +10,7 @@
 | 03     | not_idol#3950 | Completed Lesson Three |[not-idol.github.io]    |
 | 04     | Lee#2040      | Completed Lesson Two   |[acidlee.github.io]     |
 | 05     | Parvu#7388    | Completed Lesson Three |[parvulitum.github.io]  |
-| 06     | Monachita#2427| Completed Lesson Three |[Monachita.github.io]   |
+| 06     | Monachita#2427| Completed Lesson one |[Monachita.github.io]   |
 
 [coranos.github.io]: https://coranos.github.io/
 [mayrapina007.github.io]: https://mayrapina007.github.io/
