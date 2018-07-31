@@ -40,7 +40,7 @@ cd;
 pwd;
 mkdir git;
 cd git;
-clone https://github.com/coranos/coranos.github.io.git;
+git clone https://github.com/coranos/coranos.github.io.git;
 git pull;
 git push;
 ```
