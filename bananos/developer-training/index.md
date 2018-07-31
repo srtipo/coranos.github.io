@@ -123,4 +123,6 @@ If the first part of the repository doesn’t exactly match your username, it wo
 ### eventually
 freelancer amazon-turk fiverr wordpress prestashop opencart joomla magento autotrading-crypto-arbitrage-bot
 
+https://github.com/bbedward/Graham_Nano_Tip_Bot/issues/3
+
 https://getbootstrap.com/
