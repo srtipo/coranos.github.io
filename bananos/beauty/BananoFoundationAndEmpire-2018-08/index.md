@@ -28,6 +28,7 @@
 | 11    | @ Burning Banano Whale#7034            |![11-id]  ![11-picture-01]  | My business idea is create a website/platform for electronic commerce like Amazon but using as payment method: nano/banano. The fees taken from sellers for operate on the platform will be used in the followings percents: 50% maintain operational costs (this contains the cost of running the cloud server, the payment of the employees that attend the support, marketing) 25% used to expand the platform and make further investment (better server, mobile app development, internal exchange of cryptocurrencies for nano/banano) 15% saved in case of unforeseen events 10% given to charity This will boost nano’s/banano’s value and its worldwide acceptance.
 | 12    | @ LunaNueva#4044                       |![12-id] | Take advantage of this contest for the need that you need Barbara Anthonella Silva Landaeta 3 years old who suffers from foot equinus varus and displacia of hips. Part of his family had to go to Peru to raise funds for the operation in Venezuela. It is a very expensive operation and I would like your support. Thank you for allowing me to use this medium. the operation would cost 500,000 bananas | [12-video-01] | 500,000 BAN |
 | 13    | @ Monachita#2427                       |![13-id] | For years in my city I saw children who have no homes or parents or fixed meals, I have a team that is willing to provide support once a week every Sunday in a car that is available to distribute food to those children, but we need financial help I am sure that 100000 bananas monthly are enough to give these children food 4 Sundays a month, thank you, but help me to help those children | | 100000 ban per month |
+| 14    | @ Daniela#1734                         |![14-id] | My project is to help. Playing and Learning will be a school to help the children of my community and others (whether or not they have resources) in the areas where they have learning difficulties. To execute this project I need 150 thousand bananas for the purchase of books, games, and stationery materials. | | 150000 ban |
 
 [01-id]: https://coranos.github.io/bananos/thanos/thananos.png "thumbnail"
 [01-video-01]: https://coranos.github.io/bananos/thanos/thananos.png "video-1"
@@ -61,6 +62,8 @@
 [12-video-01]: https://youtu.be/AUAOdS6lrNk "video-1"
 
 [13-id]: https://cdn.discordapp.com/avatars/443964405152219137/6df9593da17d0757f6192470a5c24d40.png  "thumbnail"
+
+[14-id]: https://cdn.discordapp.com/attachments/464918757907759114/473921188369006618/PhotoGridLite_1533061226501.jpg  "thumbnail"
 
 ### The Contest (Required)
 1. In the United States this would be called an "Elevator Pitch" contest.  
