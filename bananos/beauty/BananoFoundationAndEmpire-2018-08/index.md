@@ -62,9 +62,6 @@
 
 [13-id]: https://cdn.discordapp.com/avatars/443964405152219137/6df9593da17d0757f6192470a5c24d40.png  "thumbnail"
 
-please vote in the talent contest :) By Wednesday night if possible.
-https://coranos.github.io/bananos/beauty/BananoTalent-2018-07/voting
-
 ### The Contest (Required)
 1. In the United States this would be called an "Elevator Pitch" contest.  
 (es) En los Estados Unidos esto se llamaría un concurso "Elevador Pitch".  
