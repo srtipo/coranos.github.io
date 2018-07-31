@@ -2,13 +2,15 @@
 
 ## Students
 
-| Number | Discord Id    | Progress               | Ghpages Index        |
-|:------ |:------------- |:---------------------- |:---------------------|
-| 01     | Coranos#4281  | Completed Lesson Two   |[coranos.github.io]   |
+| Number | Discord Id    | Progress               | Ghpages Index          |
+|:------ |:------------- |:---------------------- |:---------------------- |
+| 00     |               | Completed Lesson       |                        |
+| 01     | Coranos#4281  | Completed Lesson Four  |[coranos.github.io]     |
 | 02     | Mayrapina#9547| Completed Lesson Two   |[mayrapina007.github.io]|
-| 03     | not_idol#3950 | Completed Lesson Three |[not-idol.github.io]  |
-| 04     | Lee#2040      | Completed Lesson Two   |[acidlee.github.io]   |
-| 05     | Parvu#7388    | Completed Lesson Three |[parvulitum.github.io]|
+| 03     | not_idol#3950 | Completed Lesson Three |[not-idol.github.io]    |
+| 04     | Lee#2040      | Completed Lesson Two   |[acidlee.github.io]     |
+| 05     | Parvu#7388    | Completed Lesson Three |[parvulitum.github.io]  |
+| 06     | Monachita#2427| Completed Lesson one |[Monachita.github.io]   |
 
 [coranos.github.io]: https://coranos.github.io/
 [mayrapina007.github.io]: https://mayrapina007.github.io/
@@ -50,6 +52,12 @@ git push;
 ## Lesson Two, gh-pages.
 
 1) Create a Github Pages site https://pages.github.com/
+
+```
+Create a repository
+Head over to GitHub and create a new repository named username.github.io, where username is your username (or organization name) on GitHub.
+If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
+```
 
 2) clone the Github Pages repository to your local computer.
 
