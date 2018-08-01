@@ -52,7 +52,15 @@ git push;
 
 ## Lesson Two, gh-pages.
 
-1) Create a Github Pages site https://pages.github.com/
+1) Set up local email address and username
+run these commands:
+
+```
+git config --global user.email "your_email@example.com"
+git config --global user.name "your name"
+```
+
+2) Create a Github Pages site https://pages.github.com/
 
 ```
 Create a repository
@@ -60,11 +68,11 @@ Head over to GitHub and create a new repository named username.github.io, where 
 If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
 ```
 
-2) clone the Github Pages repository to your local computer.
+3) clone the Github Pages repository to your local computer.
 
-3) add a file called index.html to the root of the repository.
+4) add a file called index.html to the root of the repository.
 
-4) Edit the github pages site in atom, locally add your discord id to the top.
+5) Edit the github pages site in atom, locally add your discord id to the top.
 
 ## Lesson Three, simple index.html.
 
