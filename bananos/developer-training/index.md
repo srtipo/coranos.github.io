@@ -81,9 +81,11 @@ git push -u origin master
 ```
 
 3.1) Create a personal access token.
-    Go to https://github.com/settings/tokens 
-    click 'generate new token'. it will generate a new token.
-    use this token as your password when you push to github.
+```
+    Go to https://github.com/settings/tokens  
+    click 'generate new token'. it will generate a new token. 
+    use this token as your password when you push to github. 
+```
 
 4) add a file called index.html to the root of the repository.
 
