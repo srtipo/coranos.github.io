@@ -91,12 +91,15 @@ git push -u origin master
 ```
 
 4) add a file called index.html to the root of the repository.
-
-5) Edit the github pages site in atom, locally add your discord id to the top.
-
 ```
 file-> add project folder
+file->new file
+file->save
+put the name as "index.html"
 ```
+
+
+5) Edit the github pages site in atom, locally add your discord id to the top.
 
 ## Lesson Three, simple index.html.
 
