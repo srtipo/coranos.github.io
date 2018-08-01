@@ -103,7 +103,7 @@ put the name as "index.html"
 5) Edit the github pages site in atom, locally add your discord id to the top.
 
 ```
-packages->gihug->toggle git tab
+packages->github->toggle git tab
 if you end up having to use git bash instead of atom, you should look at VI commands, as VI is the default editor for git commit:  
 http://rcsg-gsir.imsb-dsgi.nrc-cnrc.gc.ca/documents/basic/node168.html  
 
