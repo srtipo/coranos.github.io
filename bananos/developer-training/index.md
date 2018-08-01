@@ -68,7 +68,7 @@ Head over to GitHub and create a new repository named username.github.io, where 
 If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
 ```
 
-3) clone the Github Pages repository to your local computer.
+3) clone the Github Pages repository to your local computer. This may require creating a Personal Access Token (see step 3.1)
 
 ```
 echo "# <username>.github.io" >> README.md
@@ -79,6 +79,11 @@ git remote add origin https://github.com/<username>/<username>.github.io.git
 git push -u origin master
 
 ```
+
+3.1) Create a personal access token.
+    Go to https://github.com/settings/tokens 
+    click 'generate new token'. it will generate a new token.
+    use this token as your password when you push to github.
 
 4) add a file called index.html to the root of the repository.
 
