@@ -83,7 +83,10 @@ git push -u origin master
 3.1) Create a personal access token.
 ```
     Go to https://github.com/settings/tokens  
-    click 'generate new token'. it will generate a new token. 
+    click 'generate new token'. 
+    type gh-pages in the token description.
+    select the repo checkbox.
+    github will generate a new token. 
     use this token as your password when you push to github. 
 ```
 
