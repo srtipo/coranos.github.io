@@ -103,10 +103,11 @@ put the name as "index.html"
 
 ```
 packages->gihug->toggle git tab
+if you end up having to use git bash instead of atom, you should look at VI commands, as VI is the default editor for git commit:  
+http://rcsg-gsir.imsb-dsgi.nrc-cnrc.gc.ca/documents/basic/node168.html  
+
 ```
 
-if you end up having to use git bash instead of atom, you should look at VI commands, as VI is the default editor for git commit:
-http://rcsg-gsir.imsb-dsgi.nrc-cnrc.gc.ca/documents/basic/node168.html
 
 ## Lesson Three, simple index.html.
 
