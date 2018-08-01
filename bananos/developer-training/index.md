@@ -70,6 +70,16 @@ If the first part of the repository doesn’t exactly match your username, it wo
 
 3) clone the Github Pages repository to your local computer.
 
+```
+echo "# <username>.github.io" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/<username>/<username>.github.io.git
+git push -u origin master
+
+```
+
 4) add a file called index.html to the root of the repository.
 
 5) Edit the github pages site in atom, locally add your discord id to the top.
