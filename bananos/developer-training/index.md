@@ -45,8 +45,6 @@ mkdir git;
 cd git;
 git clone https://github.com/coranos/coranos.github.io.git;
 cd coranos.github.io;
-git pull;
-git push;
 ```
 
 5) Using the Github Web Page, add your Discord ID to the Student  list.
