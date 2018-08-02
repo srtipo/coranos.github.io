@@ -72,9 +72,13 @@ If the first part of the repository doesn’t exactly match your username, it wo
 
 2.3) clone the Github Pages repository to your local computer. This may require creating a Personal Access Token (see step 2.3.1)
 
-in git bash:
+in git bash, in ~/.:
 
 ```
+mkdir git;
+cd git;
+git clone https://github.com/<username>/<username>.github.io.git;
+cd <username>.github.io;
 echo "# <username>.github.io" >> README.md
 git init
 git add README.md
