@@ -21,19 +21,19 @@
 
 ## Lesson One, Github and Atom.
 
-1) Go to https://github.com and create an account.
+1.1) Go to https://github.com and create an account.
 
 *You must enter the aforementioned link, place your data, register and then verify your email to have your account 100% active
 
-2) Go to https://git-scm.com/downloads and download git.
+1.2) Go to https://git-scm.com/downloads and download git.
 
 *Enter the download link, proceed to download it and install the GIT on your computer.
 
-3) Go to https://atom.io/ and download atom (it is a editor).
+1.3) Go to https://atom.io/ and download atom (it is a editor).
 
 *For atom we will perform the same discharge procedure as the GIT
 
-4) clone https://github.com/coranos/coranos.github.io to your local computer.
+1.4) clone https://github.com/coranos/coranos.github.io to your local computer.
 
 *To clone a github we will open our GIT after having installed it and it will give us 3 options CREATE NEW REPOSITORY, CLONE EXISTING REPOSITORY AND OPEN EXISTING REPOSITORY, as it is the first time that we will go to where it says clone existing repository and we will place the address of the github that we want to clone and the address where the cloning process will be saved
 
@@ -47,11 +47,11 @@ git clone https://github.com/coranos/coranos.github.io.git;
 cd coranos.github.io;
 ```
 
-5) Using the Github Web Page, add your Discord ID to the Student  list.
+1.5) Using the Github Web Page, add your Discord ID to the Student  list.
 
 ## Lesson Two, gh-pages.
 
-1) Set up local email address and username
+2.1) Set up local email address and username
 run these commands in Git Bash:
 
 ```
@@ -59,7 +59,7 @@ git config --global user.email "your_email@example.com"
 git config --global user.name "your name"
 ```
 
-2) Create a Github Pages site https://pages.github.com/
+2.2) Create a Github Pages site https://pages.github.com/
 
 ```
 Create a repository
@@ -67,7 +67,7 @@ Head over to GitHub and create a new repository named username.github.io, where 
 If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
 ```
 
-3) clone the Github Pages repository to your local computer. This may require creating a Personal Access Token (see step 3.1)
+2.3) clone the Github Pages repository to your local computer. This may require creating a Personal Access Token (see step 2.3.1)
 
 ```
 echo "# <username>.github.io" >> README.md
@@ -79,7 +79,7 @@ git push -u origin master
 
 ```
 
-3.1) Create a personal access token.
+2.3.1) Create a personal access token.
 ```
     Go to https://github.com/settings/tokens  
     click 'generate new token'. 
@@ -89,7 +89,7 @@ git push -u origin master
     use this token as your password when you push to github. 
 ```
 
-4) add a file called index.html to the root of the repository.
+2.4) add a file called index.html to the root of the repository.
 ```
 file->add project folder
 file->new file
@@ -98,7 +98,7 @@ put the name as "index.html"
 ```
 
 
-5) Edit the github pages site in atom, locally add your discord id to the top.
+2.5) Edit the github pages site in atom, locally add your discord id to the top.
 
 ```
 packages->github->toggle git tab
@@ -112,7 +112,7 @@ git commit -a -m "added index.html"
 
 ## Lesson Three, simple index.html.
 
-1) in your github pages site, add an index.html with the following code:
+3.1) in your github pages site, add an index.html with the following code:
 ```
     <!DOCTYPE html>
     <html>
@@ -130,11 +130,11 @@ git commit -a -m "added index.html"
     </body>
     </html>
 ```
-2) update this page with a link to your Github Pages
+3.2) update this page with a link to your Github Pages
 
 ## Lesson Four, add HTML to your index.html, use CSS.
 
-1) in your github pages site, add an index.css with the following code:
+4.1) in your github pages site, add an index.css with the following code:
 
 ```
 .small_image {
@@ -143,7 +143,7 @@ git commit -a -m "added index.html"
 }
 ```
 
-2) in your github pages site, add an ordered list of images. set the image's width and height to be 100 pixels using CSS classes.
+4.2) in your github pages site, add an ordered list of images. set the image's width and height to be 100 pixels using CSS classes.
 ```
 <!DOCTYPE html>
 <html>
