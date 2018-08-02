@@ -140,7 +140,7 @@ git pull;git commit -a -m "updated index.html";git push;
 
 ## Lesson Four, add HTML to your index.html, use CSS.
 
-4.1) in your github pages site, add an index.css with the following code:
+4.1) using atom, in your github pages site, add a file called index.css that contains the following code:
 
 ```
 .small_image {
