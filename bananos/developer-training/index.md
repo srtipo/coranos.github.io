@@ -131,6 +131,9 @@ git commit -a -m "added index.html"
     </html>
 ```
 3.2) update this page with a link to your Github Pages
+```
+git pull;git commit -a -m "updated index.html";git push;
+```
 
 ## Lesson Four, add HTML to your index.html, use CSS.
 
