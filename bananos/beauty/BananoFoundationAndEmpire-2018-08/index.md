@@ -34,6 +34,7 @@
 | 17    | @ liam05#5013                          |![17-id] | Good friends. We have an idea that we have already started 2 friends and me. In a town called Casanay-State of Sucre-Venezuela. the idea is to plant vegetables, raise animals like (chickens and others) we have the place or site that we have already loved so that it is the perfect place. for the breeding of these animals. All 3 of us work online and from there we have been acquiring funds to achieve the goal. this objective will come to veneficiar our families and many more people and thus achieve to keep us better in this difficult situation that we live here in venezuela. If you can help us get this idea faster we will be grateful with your help |    | 66000 BAN |
 | 18    |@ Gollo Tattoo 56#5364                  |![18-id] | Barberia retro style, with initial investment of $ 3,500.00 located in the center of the city, with 8 chairs for barbershop, with their respective organizers and mirrors serving an average of 7 people, who will be served a beer courtesy of the house and the remainder on behalf of the client per day, at a price o BsF 1. 500.000,00 per cut and BsF 2.000.000,00 full attention with long beard, in addition to accepting cryptocurrencies as payment for the service, you can leave a gross profit margin of up to BsF 2.100.000.000,00 per month . Generating around 14 jobs.  | [18-video-01] | 3,000,000 BAN |
 | 19    |@ Mayrapina#9547                        |![19-id] | My idea is to plant different types of vegetables and fruits on the other hand raise egg-laying hens. This land is unused and to be honest with the situation as this would be both a means of production and a humanitarian aid because in my country food is so expensive that we could in the future supply fruit shops and sell eggs at a lower value thus helping others to obtain such food as well as eventualities such as '' sopazos '' that are sponsored by the Banana Coin currency through this project. I started testing the land only without resources it costs a lot since only with my daughter does not give me much time to herd the floor and that maintenance that could be given as work to some people who need it on the other hand I emphasize again that I have knowledge in this of agriculture and I know that it is an excellent idea since we are talking about that if it is done we can produce this same production for others and help that is the value that characterizes us | 35000 BAN |
+| 20   |@ may11#6709                             |![20-id]  | text: we accept your great donation to be better every day | | ?? BAN |
 
 [01-id]: https://coranos.github.io/bananos/thanos/thananos.png "thumbnail"
 [01-video-01]: https://coranos.github.io/bananos/thanos/thananos.png "video-1"
@@ -81,6 +82,8 @@
 [18-video-01]:  https://m.youtube.com/watch?v=MNYVcuBpPcQ "video-1"
 
 [19-id]: https://cdn.discordapp.com/attachments/447086461142171669/474680496564207636/IMG_20180802_152512.jpg "thumbnail"
+
+[20-id]: https://cdn.discordapp.com/attachments/474514549094219779/474514758469550080/3-1-1-660x400.jpg "thumbnail"
 
 ### The Contest (Required)
 1. In the United States this would be called an "Elevator Pitch" contest.  
