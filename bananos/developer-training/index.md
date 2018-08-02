@@ -13,6 +13,9 @@
 | 06     | Monachita#2427| Completed Lesson one |[Monachita.github.io]   |
 | 07     | Trigger Haven#5767| Completed Lesson  |   |
 | 08     | Scarlet Alejandra#4565| completed lesson one |
+
+
+
 [coranos.github.io]: https://coranos.github.io/
 [mayrapina007.github.io]: https://mayrapina007.github.io/
 [not-idol.github.io]: https://not-idol.github.io/
