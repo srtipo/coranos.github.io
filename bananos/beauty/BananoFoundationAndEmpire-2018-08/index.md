@@ -29,6 +29,7 @@
 | 12    | @ LunaNueva#4044                       |![12-id] | Take advantage of this contest for the need that you need Barbara Anthonella Silva Landaeta 3 years old who suffers from foot equinus varus and displacia of hips. Part of his family had to go to Peru to raise funds for the operation in Venezuela. It is a very expensive operation and I would like your support. Thank you for allowing me to use this medium. the operation would cost 500,000 bananas | [12-video-01] | 500,000 BAN |
 | 13    | @ Monachita#2427                       |![13-id] | For years in my city I saw children who have no homes or parents or fixed meals, I have a team that is willing to provide support once a week every Sunday in a car that is available to distribute food to those children, but we need financial help I am sure that 100000 bananas monthly are enough to give these children food 4 Sundays a month, thank you, but help me to help those children | | 100000 ban per month |
 | 14    | @ Daniela#1734                         |![14-id] | My project is to help. Playing and Learning will be a school to help the children of my community and others (whether or not they have resources) in the areas where they have learning difficulties. To execute this project I need 150 thousand bananas for the purchase of books, games, and stationery materials. | | 150000 ban |
+| 15    | @ Willian Bordonez#0351                |![15-id] | In this contest I am writing to you, with the intention of asking for help for Mr. Haiye Finol identity document Number 4990052 with date of birth 09/12/54 for a prostate operation since it is very expensive here in Venezuela. in the attached video the supporting documents and the man connected with tubes in the Kidney to be able to urinate. the operation would have a cost in bananas of 500,000 bananas | [15-video-01] | 500,000 ban |
 
 [01-id]: https://coranos.github.io/bananos/thanos/thananos.png "thumbnail"
 [01-video-01]: https://coranos.github.io/bananos/thanos/thananos.png "video-1"
@@ -64,6 +65,9 @@
 [13-id]: https://cdn.discordapp.com/avatars/443964405152219137/6df9593da17d0757f6192470a5c24d40.png  "thumbnail"
 
 [14-id]: https://cdn.discordapp.com/attachments/464918757907759114/473921188369006618/PhotoGridLite_1533061226501.jpg  "thumbnail"
+
+[15-id]: https://i.imgur.com/SPPETLV.jpg "thumbnail"
+[15-video-01]: https://youtu.be/Te8U3RKEOT8 "video-1"
 
 ### The Contest (Required)
 1. In the United States this would be called an "Elevator Pitch" contest.  
