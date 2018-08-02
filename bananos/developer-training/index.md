@@ -52,7 +52,7 @@ cd coranos.github.io;
 ## Lesson Two, gh-pages.
 
 1) Set up local email address and username
-run these commands:
+run these commands in Git Bash:
 
 ```
 git config --global user.email "your_email@example.com"
